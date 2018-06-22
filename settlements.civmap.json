@@ -32,25 +32,11 @@
       },
       "zoom_styles": {
         "-6": {
-          "icon_size": {
-            "default": 16,
-            "feature_key": "Zoom Visibility",
-            "categories": {"2": 10}
-          },
-          "label": {
-            "default": "",
-            "feature_key": "Zoom Visibility",
-            "categories": {"1": "$nickname"}
-          },
+          "label": "$nickname",
           "opacity": {
             "default": 0,
             "feature_key": "Zoom Visibility",
-            "categories": {"1": 1,"2": 1}
-          },
-          "stroke_width": {
-            "default": 1,
-            "feature_key": "Zoom Visibility",
-            "categories": {"1": 2}
+            "categories": {"1": 1}
           }
         },
         "-4": {
