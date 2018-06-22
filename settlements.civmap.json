@@ -1,4 +1,4 @@
-{"info": {"version": "0.3.1", "last_update": 1529691989},
+{"info": {"version": "0.3.1", "last_update": 1529692815},
   "presentations": [
     {
       "name": "Settlements",
@@ -32,11 +32,25 @@
       },
       "zoom_styles": {
         "-6": {
-          "label": "$nickname",
+          "icon_size": {
+            "default": 16,
+            "feature_key": "Zoom Visibility",
+            "categories": {"2": 10}
+          },
+          "label": {
+            "default": "",
+            "feature_key": "Zoom Visibility",
+            "categories": {"1": "$nickname"}
+          },
           "opacity": {
             "default": 0,
             "feature_key": "Zoom Visibility",
-            "categories": {"1": 1}
+            "categories": {"1": 1,"2": 1}
+          },
+          "stroke_width": {
+            "default": 1,
+            "feature_key": "Zoom Visibility",
+            "categories": {"1": 2}
           }
         },
         "-4": {
@@ -236,7 +250,7 @@
     {"name": "Okato", "x": -600, "z": 5800, "quadrant": "-+", "Entrance Policy": "open", "nation": "Okashima", "contact": "Logan", "image": "https://cdn.discordapp.com/attachments/408192683866062852/427203367572602880/oka.png", "image_album": "https://imgur.com/a/iP6Q2", "discord": "https://discord.gg/bz7daCV", "Zoom Visibility": 1, "nickname": "Okashima", "SpecificLanguage's Notes - Tier": 7, "SpecificLanguage's Notes - Notes": "As a japanese-like town, it makes a good effort but not as great as Genso.", "id": "d46df925-c055-4b69-b394-1d763ed766bf", "category": "settlement", "source": "https://ccmap.github.io/data/settlements.civmap.json"},
     {"name": "Old Cyrene", "x": -8000, "z": 0, "quadrant": "-+", "Entrance Policy": "open", "nation": "Holy Jaded Empire", "contact": "ComradeNick", "Zoom Visibility": 4, "notes": "formerly part of Westeros", "id": "a0fb7e5a-8438-4715-acfe-df47f058474f", "category": "settlement", "source": "https://ccmap.github.io/data/settlements.civmap.json"},
     {"name": "Old Impasse", "x": -6711, "z": -5127, "quadrant": "--", "Entrance Policy": "open", "nation": "Impasse", "contact": "u/Jaydrive", "image": "https://i.imgur.com/9Kz4ycR.png", "image_album": "https://vignette.wikia.nocookie.net/civclassic/images/c/cc/Impasse-june-view-from-water.png", "discord": "https://discord.gg/69kGW7D", "web": "r/CivImpasse", "Zoom Visibility": 1, "nickname": "Impasse", "SpecificLanguage's Notes - Tier": 11, "SpecificLanguage's Notes - Notes": "Tons of builds, and surprisingly flows together.", "id": "6f08edad-398f-450e-bd55-965893d4bd6c", "category": "settlement", "source": "https://ccmap.github.io/data/settlements.civmap.json"},
-    {"name": "Olympic Village", "x": -3680, "z": 6880, "quadrant": "-+", "Entrance Policy": "open", "nation": "Yoahtl", "contact": "Feathercrown", "image_album": "https://www.reddit.com/r/civclassics/comments/8sx564/falvyus_renders_of_the_olympics_and_their/", "discord": "https://discord.gg/DdPBBC", "web": "r/CivYoahtl", "symbol": "https://cdn.discordapp.com/attachments/450113781771665441/450456888606195723/fuckingspacing.png", "Zoom Visibility": 2, "nickname": "Olympic Village", "id": "334f9b3f-a4b8-4e69-be5d-6e5f5f1cfa43", "category": "settlement", "source": "https://ccmap.github.io/data/settlements.civmap.json"},
+    {"name": "Olympic Village", "x": -3680, "z": 6880, "quadrant": "-+", "Entrance Policy": "open", "nation": "Yoahtl", "contact": "Feathercrown", "image_album": "https://www.reddit.com/r/civclassics/comments/8sx564/falvyus_renders_of_the_olympics_and_their/", "discord": "https://discord.gg/DdPBBC", "web": "r/CivYoahtl", "image": "https://cdn.discordapp.com/attachments/450113781771665441/450456888606195723/fuckingspacing.png", "Zoom Visibility": 1, "nickname": "Olympics", "id": "334f9b3f-a4b8-4e69-be5d-6e5f5f1cfa43", "category": "settlement", "source": "https://ccmap.github.io/data/settlements.civmap.json"},
     {"name": "Olympus", "x": 5250, "z": -5650, "quadrant": "+-", "Entrance Policy": "open", "nation": "Olympus", "contact": "Cincius", "image": "https://i.imgur.com/owYYL0T.png", "image_album": "https://imgur.com/a/5wFVOCL", "Zoom Visibility": 3, "nickname": "Olympus", "id": "c66fbe7d-cde7-4d72-bf8b-f7f082cbd253", "category": "settlement", "source": "https://ccmap.github.io/data/settlements.civmap.json"},
     {"name": "Pacem", "x": -666, "z": 9720, "quadrant": "-+", "Entrance Policy": "open", "nation": "Pacem", "contact": "u/Shtim", "image": "https://i.imgur.com/h0eWVaa.png", "image_album": "https://imgur.com/a/dRS2u", "Zoom Visibility": 1, "nickname": "Pacem", "SpecificLanguage's Notes - Tier": 12, "SpecificLanguage's Notes - Notes": "You can\u2019t go wrong with a huge, mindblowing skyscraper city.", "SpecificLanguage's Notes - Importance": "important", "id": "89abd078-17f7-48b8-b493-9f483c25514a", "category": "settlement", "source": "https://ccmap.github.io/data/settlements.civmap.json"},
     {"name": "Palgrave", "x": 4068, "z": -4122, "quadrant": "+-", "Entrance Policy": "open", "nation": "Nyasaland", "image": "https://i.imgur.com/WNkJrK6.png", "Zoom Visibility": 3, "id": "fb2a7de2-a07f-4949-990b-f0e6264a25d7", "category": "settlement", "source": "https://ccmap.github.io/data/settlements.civmap.json"},
