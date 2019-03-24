@@ -17,14 +17,17 @@
   "presentations": [
     {
       "name": "Political Map February 2019",
-      "style_base": {
-        "opacity": {
-          "feature_key": "name",
-          "default": 0,
-          "categories": {
-            "Political Map February 2019": 0.8
+      "zoom_styles": {
+        "-6": {
+          "opacity": {
+            "feature_key": "name",
+            "default": 0,
+            "categories": {
+              "Political Map February 2019": 0.8
+            }
           }
-        }
+        },
+        "-1": { "opacity": 0 }
       }
     }
   ]
