@@ -1,29 +1,29 @@
 {
   "name": "Political: Nations, Claims",
-  "info": {"version": "3.0.0-beta3","last_update": 1553386747},
+  "info": {"version": "3.0.0-beta3","last_update": 1554032198},
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c96",
   "features": [
     {
-      "name": "Political Map February 2019",
-      "type": "February 2019 Political",
+      "name": "Political Map March 2019",
       "creator": "/u/Falvyu /u/Lokilog",
+      "web": "https://www.reddit.com/r/civclassics/comments/b7i27h/march_political_map/",
       "map_image": {
-        "url": "https://i.imgur.com/6dBbGvu.jpg",
+        "url": "https://i.imgur.com/l5MHdqP.png",
         "bounds": [[-13312,-13312],[13312,13312]]
       },
-      "id": "881868f9-6faf-4362-93bc-f7f87ce0f74e"
+      "id": "f4dfc338-a37f-43e5-ad95-2fe06a79d5a0"
     }
   ],
   "presentations": [
     {
-      "name": "Political Map February 2019",
+      "name": "Political Map March 2019",
       "zoom_styles": {
         "-6": {
           "opacity": {
             "feature_key": "name",
             "default": 0,
             "categories": {
-              "Political Map February 2019": 0.8
+              "Political Map March 2019": 0.8
             }
           }
         },
