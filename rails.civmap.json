@@ -274,6 +274,7 @@
 {"type":"rail_edge","elevation":"underground","rail_start":"TER","rail_end":"EXJ","line":[[[4223,5333],[4223,2332],[4223,1],[3874,1],[3874,0],[3849,0]]],"id":"16f42aff-9f8f-43cb-ac8e-62b4f5e615bf"},
 {"type":"rail_edge","elevation":"underground","rail_end":"APX","line":[[[6999,2329],[7001,-609],[7001,-2475],[7175,-2475],[7175,-2538]]],"id":"0f13fdd0-e7ee-4120-a50d-f60d32e74b73"},
 {"type":"rail_edge","elevation":"underground","line":[[[4223,2333],[6111,2333],[6118,2340],[6156,2340]]],"id":"10eaa13b-d96a-495d-8273-e5bf7eeb332e","two_way":true,"accuracy":3,"progress":"finished"},
+{"type":"rail_edge","elevation":"underground","line":[[[2024, -938], [2070, -938], [2070, -763], [2137, -763]]],"id":"6fc6d64f-ba05-4c92-9545-383ed8b706ae","two_way":true},
 {"type":"rail_edge","elevation":"underground","rail_start":"VDA","rail_end":"NVD","line":[[[3307,-1355],[3307,-1451],[3810,-1451],[3809,-2985],[4119,-2985],[4119,-3011]]],"id":"2ae5a1d6-75ab-4d24-be16-7c902556661e"},
 {"type":"rail_edge","elevation":"underground","rail_start":"VDA","rail_end":"PIN","line":[[[3306,-1315],[3306,-917],[3875,-917],[3875,-876],[3868,-876]]],"id":"2a8e6d06-2ba5-40dc-b852-ec38283085a0"},
 {"type":"rail_edge","elevation":"underground","rail_start":"VDA","rail_end":"TAO","line":[[[3300,-1355],[3300,-1369],[3134,-1534],[2567,-1534],[1607,-2557],[1334,-2557],[1334,-2618],[1313,-2618]]],"id":"33b08c02-ebbb-4e6a-9ebe-ac39de91d40c"},
