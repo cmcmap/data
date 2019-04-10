@@ -1,4 +1,4 @@
-{"name":"Rails","info":{"version":"3.0.0-beta3","last_update":1534559760},"id":"ccmap/rail/collection","features":[
+{"name":"Rails","info":{"version":"3.0.0-beta3","last_update":1554939651},"id":"ccmap/rail/collection","features":[
 {"type":"rail_node","name":"Airbud","x":-3293,"z":-4442,"id":"7b3cd9af-8c75-4dc9-aa64-98eaea061c4e","elevation":"underground"},
 {"type":"rail_node","name":"Airhaven","rail_node_id":"AHV","x":-4556,"z":9115,"contact":"RektTangle","rail_node_type":"Branching Stop","id":"ccmap/rail/stop/AHV","elevation":"underground"},
 {"type":"rail_node","name":"Albion","rail_node_id":"ALB","x":-7196,"z":3784,"contact":"Duke_Arioch","rail_node_type":"Terminal","id":"ccmap/rail/stop/ALB","elevation":"underground"},
@@ -104,6 +104,7 @@
 {"type":"rail_node","name":"(SPQR)","x":-11309,"z":-5171,"id":"aa01c114-7f0d-41fd-b749-63a09714c73f","elevation":"underground"},
 {"type":"rail_node","name":"(SPQR)","x":-11329,"z":-3517,"id":"3e775d4c-80e1-403d-b3a2-baedc029ec5d","elevation":"underground"},
 {"type":"rail_node","name":"(SPQR)","x":-11852,"z":-4659,"id":"b2421ece-b180-4810-97ce-f71f87b71ee1","elevation":"underground"},
+{"type":"rail_edge","id":"ca25b94d-f61a-4c7e-8bd9-76a6a5df830c","line":[[[-4344,-5419],[-2820,-6632],[-2503,-6631],[-2502,-6700]]],"elevation":"underground","progress":"finished","two_way":false,"accuracy":99},
 {"type":"rail_edge","elevation":"surface","two_way":true,"accuracy":3,"line":[[[377,-2767],[124,-2767],[96,-2795],[89,-2795]]],"id":"2fbfdbfd-2e5c-488a-8786-09253bac402b"},
 {"type":"rail_edge","name":"WIP Langly SPQR-MtA","line":[[[-10656,-5843],[-10235,-5420],[-10236,-4000],[-7064,-1008],[-7032,2072],[-6704,2456]]],"id":"484d282e-2c0c-41bd-852f-6d347496a900","elevation":"underground","accuracy":99},
 {"type":"rail_edge","line":[[[6999,2329],[7408,2329]]],"elevation":"underground","id":"48d0c91a-1cc7-478a-9693-33bfe8c16dd9"},
@@ -127,7 +128,6 @@
 {"type":"rail_edge","elevation":"underground","id":"cc97a496-463d-4402-9d6e-3816ca509da7","line":[[[9055,4515],[9258,4515],[9252,4144]]]},
 {"type":"rail_edge","elevation":"underground","id":"4f4f8703-a2a2-44d5-8ce9-fd85072fc01f","line":[[[9163,4106],[7453,2400],[7438,2396],[7438,2353]]],"progress":"started"},
 {"type":"rail_edge","elevation":"underground","id":"bad1433c-65d5-4739-a0ef-32a0a03f5242","line":[[[-4471,-5395],[-4342,-5395]]]},
-{"type":"rail_edge","elevation":"underground","progress":"planned","id":"aaabb9b6-f02f-4dbd-8b99-e3eb73485431","line":[[[-2791,-11152],[-2791,-7777],[-4346,-6300],[-4346,-5420]]],"accuracy":99},
 {"type":"rail_edge","elevation":"underground","id":"aa6f7795-cbc7-49a9-ba5b-abfbd1ec9124","line":[[[-4390,-8774],[-2794,-11152]]]},
 {"type":"rail_edge","elevation":"underground","line":[[[-4474,-4000],[-3294,-4000]]],"rail_start":"NEV","id":"abf4eddd-5bde-4ace-a0fe-fee2a77009d9","two_way":false,"accuracy":3},
 {"type":"rail_edge","elevation":"underground","line":[[[-3294,-4000],[-499,-4000]]],"id":"14a51090-99df-4269-8889-d324c3be8ad5","accuracy":3,"two_way":false},
@@ -135,7 +135,7 @@
 {"type":"rail_edge","elevation":"underground","line":[[[-4935,9439],[-5308,9439],[-5310,9449],[-5368,9450],[-5368,9671],[-5598,9950]]],"progress":"started","rail_end":"ANK","rail_start":"EIC","id":"b6ee5017-079f-48a6-804e-6fbe991e102a"},
 {"type":"rail_edge","elevation":"underground","line":[[[8330,4742],[2647,4742],[2277,5113],[380,5113]]],"rail_start":"L100","id":"9884f1fe-5835-4fb9-8fb9-94a185e6b86b"},
 {"type":"rail_edge","elevation":"underground","progress":"finished","line":[[[-1201,5001],[-6982,5001]]],"id":"daa9c9e0-001d-4cd5-80c6-db4b74dd045c"},
-{"type":"rail_edge","elevation":"underground","progress":"started","line":[[[-9031,-4704],[-8760,-4380],[-8200,-4368],[-6412,-2764],[-4868,-2769]]],"id":"29993d7e-0d2e-4e51-96f0-9cd4fe3159b2"},
+{"type":"rail_edge","elevation":"underground","progress":"finished","line":[[[-9031,-4704],[-8760,-4380],[-8200,-4368],[-6412,-2764],[-4868,-2769]]],"id":"29993d7e-0d2e-4e51-96f0-9cd4fe3159b2","accuracy":99},
 {"type":"rail_edge","elevation":"underground","progress":"finished","line":[[[380,5114],[-4200,5113]]],"id":"5fbb9cc2-bbd0-4a54-ab6c-720f63b08698"},
 {"type":"rail_edge","elevation":"underground","line":[[[-6713,2955],[-5688,4641]]],"progress":"planned","rail_start":"MTA","rail_end":"TAL","id":"420ec850-f399-4fb7-98d4-7dc725b2e291"},
 {"type":"rail_edge","elevation":"underground","line":[[[3449,-772],[3434,-772],[3434,-505],[3445,-505]]],"id":"5b291fb5-e764-4727-94b9-ab60589ca53e"},
