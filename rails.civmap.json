@@ -181,7 +181,6 @@
 {"type":"rail_edge","line":[[[7001,4272],[7000,4463],[7135,4464],[7180,4519]]],"id":"d4105eb4-566f-4e9d-a104-3eb5895222e6"},
 {"type":"rail_edge","line":[[[7178,5283],[7182,5771],[7399,6010],[7402,6084]]],"id":"e656d78f-136c-4e7f-8cc8-d6ef80907926"},
 {"type":"rail_edge","line":[[[7352,6200],[7405,6200],[7405,5445],[7150,5190],[7150,3266],[6238,2354],[6197,2354]]],"id":"246606a0-47bc-4eb3-98e8-c614775f6208","elevation":"underground","accuracy":3,"two_way":true,"progress":"finished","rail_start":"MAL","rail_end":"PRT"},
-{"type":"rail_edge","name":"Airbud - Bloom","id":"b22dc19f-a7ee-4231-9e5a-289a84d4724f","line":[[[]]],"accuracy":99,"progress":"finished"},
 {"type":"rail_edge","name":"Annwyn - Kanagawa Jct","id":"28298e87-7f86-42c3-b402-7b14ac3926b2","line":[[[3847,-3735],[3841,-3735],[3841,-3731],[3611,-3501],[3116,-3501],[2464,-4154]]],"elevation":"underground","progress":"finished","two_way":false,"accuracy":99},
 {"type":"rail_edge","name":"Bloom - MtA","id":"84a40bbe-6b54-4703-9ae8-88b09efc25c2","line":[[[-2217,-2575],[-2217,-2456],[-2896,-1777],[-6616,2944]]],"elevation":"underground","two_way":false,"accuracy":99},
 {"type":"rail_edge","name":"Casia - Airbud","id":"08b84dab-9760-4792-9d22-890f1998f21b","line":[[[-1801,-3357],[-1802,-3462],[-1844,-3544],[-1844,-3644],[-1913,-3712],[-1913,-3814],[-2629,-4170],[-2628,-4477],[-3031,-4476],[-3136,-4422],[-3305,-4422]]],"accuracy":3,"two_way":true,"progress":"finished","elevation":"surface"},
