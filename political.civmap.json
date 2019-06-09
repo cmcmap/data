@@ -4,11 +4,11 @@
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c96",
   "features": [
     {
-      "name": "Political Map April 2019",
+      "name": "Political Map May 2019",
       "creator": "/u/Falvyu",
-      "web": "https://old.reddit.com/r/civclassics/comments/bj9asc/april_political_map/",
+      "web": "https://old.reddit.com/r/civclassics/comments/bvdyex/may_political_map/",
       "map_image": {
-        "url": "https://i.imgur.com/JQIWXS1.png",
+        "url": "https://i.imgur.com/1Eqf0Qk.png",
         "bounds": [[-13312,-13312],[13312,13312]]
       },
       "id": "f0a5c573-64de-451f-bb2b-78ac3d81205f"
@@ -16,14 +16,14 @@
   ],
   "presentations": [
     {
-      "name": "Political Map April 2019",
+      "name": "Political Map May 2019",
       "zoom_styles": {
         "-6": {
           "opacity": {
             "feature_key": "name",
             "default": 0,
             "categories": {
-              "Political Map April 2019": 0.8
+              "Political Map May 2019": 0.8
             }
           }
         },
