@@ -4,26 +4,26 @@
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c96",
   "features": [
     {
-      "name": "Political Map July 2019",
+      "name": "Political Map August 2019",
       "creator": "/u/Falvyu",
-      "web": "https://www.reddit.com/r/civclassics/comments/ckem7h/july_political_map/",
+      "web": "https://www.reddit.com/r/civclassics/comments/cy2khv/august_political_map/",
       "map_image": {
-        "url": "https://i.imgur.com/qHoJeVu.png",
+        "url": "https://i.imgur.com/fam9Mri.png",
         "bounds": [[-13312,-13312],[13312,13312]]
       },
-      "id": "04c7a5bb-0394-4074-a22c-fb0f8b5499de"
+      "id": "04c7a5bb-0394-4074-a22c-fb0f8b5498de"
     }
   ],
   "presentations": [
     {
-      "name": "Political Map July 2019",
+      "name": "Political Map August 2019",
       "zoom_styles": {
         "-6": {
           "opacity": {
             "feature_key": "name",
             "default": 0,
             "categories": {
-              "Political Map July 2019": 0.8
+              "Political Map August 2019": 0.8
             }
           }
         },
