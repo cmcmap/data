@@ -1,29 +1,29 @@
 {
   "name": "Political: Nations, Claims",
-  "info": {"version": "3.0.0-beta3","last_update": 1564611256},
+  "info": {"version": "3.0.0-beta3","last_update": 1575313823},
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c96",
   "features": [
     {
-      "name": "Political Map August 2019",
-      "creator": "/u/Falvyu",
-      "web": "https://www.reddit.com/r/civclassics/comments/cy2khv/august_political_map/",
+      "name": "Political Map November 2019",
+      "creator": "/u/Slushhi1",
+      "web": "https://www.reddit.com/r/civclassics/comments/dwks0t/november_political_map/",
       "map_image": {
-        "url": "https://i.imgur.com/fam9Mri.png",
+        "url": "https://i.imgur.com/3Xzaoq3.png",
         "bounds": [[-13312,-13312],[13312,13312]]
       },
-      "id": "04c7a5bb-0394-4074-a22c-fb0f8b5498de"
+      "id": "11dd43e7-ff2d-4e2b-980f-10fb32c00763"
     }
   ],
   "presentations": [
     {
-      "name": "Political Map August 2019",
+      "name": "Political Map November 2019",
       "zoom_styles": {
         "-6": {
           "opacity": {
-            "feature_key": "name",
+            "feature_key": "id",
             "default": 0,
             "categories": {
-              "Political Map August 2019": 0.8
+              "11dd43e7-ff2d-4e2b-980f-10fb32c00763": 0.8
             }
           }
         },
