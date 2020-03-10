@@ -123,6 +123,7 @@
 {"type":"rail_edge","elevation":"underground","rail_start":"MDT","rail_end":"HEX","line":[[[-9191,4204],[-8682,4203],[-8681,3746]]],"id":"2ebbc63e-28e3-4a3e-959a-e836ec1174e9"},
 {"type":"rail_edge","elevation":"underground","rail_start":"MDT","rail_end":"NYM","line":[[[-9211,4204],[-9259,4204],[-9259,4350],[-9990,5082],[-9990,5255]]],"id":"76cd7649-b856-4367-8843-8f1b9a5dcf5f"},
 {"type":"rail_edge","elevation":"underground","rail_start":"MTA","rail_end":"ALB","line":[[[-6722,2978],[-6723,3001],[-6817,3001],[-6819,3059],[-6898,3136],[-6898,3183],[-6946,3184],[-7125,3364],[-7125,3793],[-7190,3793]]],"id":"020c594f-2323-4a14-929f-b79326b6ce96"},
+{"type":"rail_edge","elevation":"underground","progress":"finished","line":[[[-7753,-3554],[-7753,-3518],[-7756,-3518],[-7756,-3502],[-7762,-3502],[-7761,-3418],[-7758,-3418],[-7758,-3420]]],"id":"fee6388f-5fc8-4c88-8a86-2dd32d597872"},
 {"type":"rail_edge","elevation":"underground","rail_start":"MTA","rail_end":"WM","line":[[[-6701,2954],[-6701,4500],[-7001,4800],[-7001,5117]]],"id":"e9ec1c2d-b5f0-442a-9a7d-e56296446436"},
 {"type":"rail_edge","elevation":"underground","rail_start":"NOR","rail_end":"TDC","line":[[[-6384,-1568],[-6384,-1607],[-6376,-1607],[-6376,-2049]]],"id":"03f9cfdc-fe41-41fb-8b78-8ba36f9c2b59","two_way":true,"accuracy":3},
 {"type":"rail_edge","elevation":"underground","rail_start":"NVD","rail_end":"APX","line":[[[4131,-3010],[4131,-2976],[4135,-2976],[4135,-2817],[7054,-2817],[7183,-2688],[7183,-2538]]],"id":"33d18e92-9aaf-4ac9-8e29-23e810f9a2e3"},
