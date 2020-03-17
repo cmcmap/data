@@ -1,29 +1,29 @@
 {
   "name": "Political: Nations, Claims",
-  "info": {"version": "3.0.0-beta3","last_update": 1575313823},
+  "info": {"version": "3.0.0-beta3","last_update": 1584470573},
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c96",
   "features": [
     {
-      "name": "Political Map November 2019",
-      "creator": "/u/Slushhi1",
-      "web": "https://www.reddit.com/r/civclassics/comments/dwks0t/november_political_map/",
+      "name": "Political Map March 2020",
+      "creator": "/u/TheJmqn",
+      "web": "https://www.reddit.com/r/civclassics/comments/fk8yzi/claims_map_march_2020_in_the_midst_of_war/",
       "map_image": {
-        "url": "https://i.imgur.com/3Xzaoq3.png",
+        "url": "https://i.imgur.com/qvh3AdV.png",
         "bounds": [[-13312,-13312],[13312,13312]]
       },
-      "id": "11dd43e7-ff2d-4e2b-980f-10fb32c00763"
+      "id": "6ec32453-f757-4c39-92a3-7584a6e71fd0"
     }
   ],
   "presentations": [
     {
-      "name": "Political Map November 2019",
+      "name": "Political Map March 2020",
       "zoom_styles": {
         "-6": {
           "opacity": {
             "feature_key": "id",
             "default": 0,
             "categories": {
-              "11dd43e7-ff2d-4e2b-980f-10fb32c00763": 0.8
+              "6ec32453-f757-4c39-92a3-7584a6e71fd0": 0.8
             }
           }
         },
