@@ -4,11 +4,11 @@
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c96",
   "features": [
     {
-      "name": "Political Map March 2020",
-      "creator": "/u/TheJmqn",
-      "web": "https://www.reddit.com/r/civclassics/comments/fk8yzi/claims_map_march_2020_in_the_midst_of_war/",
+      "name": "Political Map July 2020",
+      "creator": "/u/Yellofishy",
+      "web": "https://www.reddit.com/r/civclassics/comments/hjtoac/civclassics_map_july_2020/",
       "map_image": {
-        "url": "https://i.imgur.com/qvh3AdV.png",
+        "url": "https://i.imgur.com/IADDKkb.png",
         "bounds": [[-13312,-13312],[13312,13312]]
       },
       "id": "6ec32453-f757-4c39-92a3-7584a6e71fd0"
@@ -16,7 +16,7 @@
   ],
   "presentations": [
     {
-      "name": "Political Map March 2020",
+      "name": "Political Map July 2020",
       "zoom_styles": {
         "-6": {
           "opacity": {
