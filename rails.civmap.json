@@ -69,6 +69,7 @@
 {"type":"rail_edge","elevation":"underground","line":[[[10413,4332],[10407,4332],[10407,4327],[10404,4327],[10404,3479],[10032,3481],[10032,3352],[10032,833]]],"id":"6f7a338c-de9a-4743-ac7e-e323c67a8aab"},
 {"type":"rail_edge","elevation":"underground","line":[[[10716,-810],[10699,-810],[10699,-801],[10400,-801],[10400,-795],[10387,-795],[10387,-790],[10310,-790],[10310,-788],[10252,-788]]],"id":"b4e430a5-8a91-4b5d-bf78-8f7f91a972e1"},
 {"type":"rail_edge","elevation":"underground","line":[[[1220,165],[384,165]]],"id":"e3bc92d7-c5cb-4f96-a913-001f4ed4bd7d"},
+{"type":"rail_edge","elevation":"underground","progress":"finished","two_way":false,"accuracy":40,"line":[[[-4872,2993],[-2993,2993]]],"id":"e3bc9247-c5cb-4f96-a913-001f4ed4bd7d"},
 {"type":"rail_edge","elevation":"underground","line":[[[1278,124],[123,122],[18,17]]],"rail_start":"WAY","rail_end":"0_0","id":"87b9b0b8-b011-4769-adec-8925ed17d602","accuracy":3,"two_way":false,"progress":"finished"},
 {"type":"rail_edge","elevation":"underground","line":[[[1307,166],[1202,166],[-4825,6200],[-4825,6889],[-4898,6961],[-4898,7012],[-4968,7012],[-4968,7021],[-4980,7021]]],"rail_start":"WAY","rail_end":"NYC","id":"406c3d6a-55ee-4a28-8236-7f8054cdd327"},
 {"type":"rail_edge","elevation":"underground","line":[[[1310,-2595],[2526,-2596],[2526,-2601],[3810,-2602]]],"rail_start":"TAO","id":"091bb054-2770-4eaf-b4d8-00b41b5a2282"},
