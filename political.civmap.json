@@ -4,11 +4,11 @@
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c96",
   "features": [
     {
-      "name": "Political Map July 2020",
+      "name": "Political Map October 2020",
       "creator": "/u/Yellofishy, /u/DankestLordBB-8",
       "web": "https://www.reddit.com/r/civclassics/comments/i1mn9y/civclassics_map_august_2020/",
       "map_image": {
-        "url": "https://i.imgur.com/cboIncN.png",
+        "url": "https://i.imgur.com/EP5hFr6.png",
         "bounds": [[-13312,-13312],[13312,13312]]
       },
       "id": "6ec32453-f757-4c39-92a3-7584a6e71fd0"
@@ -16,7 +16,7 @@
   ],
   "presentations": [
     {
-      "name": "Political Map August 2020",
+      "name": "Political Map October 2020",
       "zoom_styles": {
         "-6": {
           "opacity": {
