@@ -4,26 +4,26 @@
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c96",
   "features": [
     {
-      "name": "Political Map October 2020",
-      "creator": "/u/Yellofishy, /u/DankestLordBB-8",
-      "web": "https://www.reddit.com/r/civclassics/comments/i1mn9y/civclassics_map_august_2020/",
+      "name": "Political Map December 2020",
+      "creator": "/u/DankestLordBB-8",
+      "web": "https://www.reddit.com/r/civclassics/",
       "map_image": {
-        "url": "https://i.imgur.com/EP5hFr6.png",
+        "url": "https://cdn.discordapp.com/attachments/730434281339355146/787757335661379594/2020.10.1.png",
         "bounds": [[-13312,-13312],[13312,13312]]
       },
-      "id": "6ec32453-f757-4c39-92a3-7584a6e71fd0"
+      "id": "6ec32453-f757-4c39-9293-7584a6e71fd0"
     }
   ],
   "presentations": [
     {
-      "name": "Political Map October 2020",
+      "name": "Political Map December 2020",
       "zoom_styles": {
         "-6": {
           "opacity": {
             "feature_key": "id",
             "default": 0,
             "categories": {
-              "6ec32453-f757-4c39-92a3-7584a6e71fd0": 0.8
+              "6ec32453-f757-4c39-9293-7584a6e71fd0": 0.8
             }
           }
         },
