@@ -8,10 +8,10 @@
       "creator": "/u/DankestLordBB-8",
       "web": "https://www.reddit.com/r/civclassics/",
       "map_image": {
-        "url": "https://cdn.discordapp.com/attachments/730434281339355146/787757335661379594/2020.10.1.png",
+        "url": "https://media.discordapp.net/attachments/730434281339355146/789921036594053170/2020.10.1.png",
         "bounds": [[-13312,-13312],[13312,13312]]
       },
-      "id": "6ec32453-f757-4c39-9293-7584a6e71fd0"
+      "id": "6ec32453-f757-4c39-9593-7584a6e71fd0"
     }
   ],
   "presentations": [
@@ -23,7 +23,7 @@
             "feature_key": "id",
             "default": 0,
             "categories": {
-              "6ec32453-f757-4c39-9293-7584a6e71fd0": 0.8
+              "6ec32453-f757-4c39-9593-7584a6e71fd0": 0.8
             }
           }
         },
