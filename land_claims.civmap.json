@@ -61,7 +61,7 @@
             }
           }
         },
-        "-2": { "label": "$name", "fill_opacity": 0.01 }
+        "-2": { "label": "$name" }
       }
     }
   ],
