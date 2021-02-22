@@ -1,5 +1,5 @@
 {
-  "name": "Political: Nations, Claims",
+  "name": "Political Map December 2020",
   "info": {"version": "3.0.0-beta3","last_update": 1584470573},
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c96",
   "features": [
@@ -14,21 +14,7 @@
       "id": "6ec32453-f757-4c39-9593-7584a6e71fd0"
     }
   ],
-  "presentations": [
-    {
-      "name": "Political Map December 2020",
-      "zoom_styles": {
-        "-6": {
-          "opacity": {
-            "feature_key": "id",
-            "default": 0,
-            "categories": {
-              "6ec32453-f757-4c39-9593-7584a6e71fd0": 0.8
-            }
-          }
-        },
-        "-1": { "opacity": 0 }
-      }
-    }
-  ]
+  "style_base": {
+    "opacity": 0.8
+  }
 }
