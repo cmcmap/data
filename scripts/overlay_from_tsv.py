@@ -125,10 +125,71 @@ def build_props(d):
 
 
 overlay = {
-    "info": {
-        "version": "3.0.0-beta3",
-        "last_update": int(time.time()),
-    },
+    "name":"Settlements",
+    "id":"62da2fc3-60ba-49a4-898b-817051e47d9d",
+    "info": {"version": "3.0.0-beta3", "last_update": int(time.time())},
+    "source": "https://ccmap.github.io/data/settlements.civmap.json",
+    "presentations": [
+        {
+        "name": "Settlements",
+        "style_base": {
+            "color": {
+            "default": "#888888",
+            "feature_key": "Zoom Visibility",
+            "categories": {"1": "#ffcc77","2": "#ffcc77"}
+            },
+            "icon_size": {
+            "default": 12,
+            "feature_key": "Zoom Visibility",
+            "categories": {"1": 16,"2": 16}
+            },
+            "icon": "circle",
+            "label": "$name",
+            "opacity": 0,
+            "stroke_color": "#000000",
+            "stroke_width": {
+            "default": 1,
+            "feature_key": "Zoom Visibility",
+            "categories": {"1": 2,"2": 2}
+            }
+        },
+        "style_highlight": {
+            "opacity": 1,
+            "stroke_color": "#ff0000",
+            "stroke_width": 2
+        },
+        "zoom_styles": {
+            "-6": {
+            "label": "$nickname",
+            "opacity": {
+                "default": 0,
+                "feature_key": "Zoom Visibility",
+                "categories": {"1": 1}
+            }
+            },
+            "-4": {
+            "label": {
+                "default": "",
+                "feature_key": "Zoom Visibility",
+                "categories": {"1": "$name","2": "$name","3": ""}
+            },
+            "opacity": {
+                "default": 0,
+                "feature_key": "Zoom Visibility",
+                "categories": {"1": 1,"2": 1,"3": 1}
+            }
+            },
+            "-3": {
+            "opacity": {
+                "default": 0,
+                "feature_key": "Zoom Visibility",
+                "categories": {"1": 1,"2": 1,"3": 1}
+            }
+            },
+            "-1": {"opacity": 1}
+        }
+        }
+    ],
     "features": [build_props(d) for d in data],
 }
-json.dump(overlay, sys.stdout)
+json.dump(overlay, sys.stdout, indent=4)
