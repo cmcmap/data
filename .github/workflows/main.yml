@@ -1,0 +1,41 @@
+name: Generating settlements JSON from spreadsheet
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # At 0 minutes, 0 hours, every day of the month, every month, every day of the week
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Download and convert JSON data'     
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Fetches the settlements google sheet as a .tsv file and converts it into JSON'  
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Get current date
+      id: date
+      run: echo "$(date +'%Y-%m-%d')"
+      
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+        
+    - name: Download and Convert Spreadsheet into JSON
+      run: |
+        curl "https://docs.google.com/spreadsheets/d/1271RNdQ1VhpTsCTAr9yqWKhpRc3iCGGiTfAhI-Km8Ms/export?gid=182771415&format=tsv" -L | python3 scripts/overlay_from_tsv.py "omit=founded=major=active=Activity Index - Jan. 2018=Activity Index - Feb. 2018=Activity Index - Apr. 2018=Activity Index - May 2018=Appomattox Builder\'s Association - Rating" | sed -E 's/\}, \{/\},\n    \{/g' > settlements.civmap.json
+    
+    - name: Commits the data to the Repo
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: Github Actions
+        author_email: github_actions@github.com
+        message: Update Settlements .JSON
+        add: 'settlements.civmap.json'
+        
