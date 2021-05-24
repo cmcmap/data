@@ -3,7 +3,7 @@
     "id": "62da2fc3-60ba-49a4-898b-817051e47d9d",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": 1621783586
+        "last_update": 1621815703
     },
     "source": "https://ccmap.github.io/data/settlements.civmap.json",
     "presentations": [
@@ -5485,7 +5485,7 @@
             "x": 5500,
             "z": 960,
             "nation": "Capeland",
-            "contact": "AK#1775, Magnileve#9823, Orhint#8459",
+            "contact": "AK#1775, Magnileve#9863, Orhint#8459",
             "visitors": "ask first",
             "Zoom Visibility": 4,
             "id": "0030e212-9d52-48f2-8a7f-34b6b6557002"
