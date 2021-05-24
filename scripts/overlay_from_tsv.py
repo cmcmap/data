@@ -127,7 +127,7 @@ def build_props(d):
 overlay = {
     "name":"Settlements",
     "id":"62da2fc3-60ba-49a4-898b-817051e47d9d",
-    "info": {"version": "3.0.0-beta3", "last_update": int(time.time())},
+    "info": {"version": "3.0.0-beta3"},
     "source": "https://ccmap.github.io/data/settlements.civmap.json",
     "presentations": [
         {
