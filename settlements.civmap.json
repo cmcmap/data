@@ -3,7 +3,11 @@
     "id": "62da2fc3-60ba-49a4-898b-817051e47d9d",
     "info": {
         "version": "3.0.0-beta3",
+<<<<<<< HEAD
         "last_update": 1621815703
+=======
+        "last_update": 1621819129
+>>>>>>> 9d0e9b47432497c20f3244aa49fab831261abd7f
     },
     "source": "https://ccmap.github.io/data/settlements.civmap.json",
     "presentations": [
