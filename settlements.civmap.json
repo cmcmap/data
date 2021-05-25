@@ -2,12 +2,7 @@
     "name": "Settlements",
     "id": "62da2fc3-60ba-49a4-898b-817051e47d9d",
     "info": {
-        "version": "3.0.0-beta3",
-<<<<<<< HEAD
-        "last_update": 1621815703
-=======
-        "last_update": 1621819129
->>>>>>> 9d0e9b47432497c20f3244aa49fab831261abd7f
+        "version": "3.0.0-beta3"
     },
     "source": "https://ccmap.github.io/data/settlements.civmap.json",
     "presentations": [
@@ -1073,6 +1068,18 @@
             "id": "a61c22bd-7491-4172-85e5-bac3f22160c3"
         },
         {
+            "name": "Bezengard",
+            "x": -750,
+            "z": -300,
+            "nation": "Imperial Truidence",
+            "contact": "Zeldr\u00efn#0265",
+            "discord": "https://discord.gg/3ZPH6SB7yt",
+            "wiki": "https://civwiki.org/wiki/Dol_Morhen",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "f168f695-fa9d-441c-a3af-014aacb046e0"
+        },
+        {
             "name": "Bhava-agra",
             "x": 780,
             "z": -2610,
@@ -1142,6 +1149,20 @@
             "id": "7318c749-2df0-44ac-bcb6-36e87c0f3f15",
             "Appomattox Builder's Association - Rating": "3.3",
             "Appomattox Builder's Association - Note": "Great leader and cozy city"
+        },
+        {
+            "name": "Bonifacio",
+            "x": 5125,
+            "z": -1330,
+            "nation": "Lambat",
+            "contact": "r/Lambat, u/HijoDeFootspa",
+            "discord": "https://discord.gg/Rqjww5VkW4",
+            "web": "reddit.com/r/Lambat",
+            "wiki": "https://civclassic.civwiki.org/wiki/Lambat",
+            "symbol": "https://static.miraheze.org/civwikiwiki/thumb/c/c0/Flag_of_Lambat.png/640px-Flag_of_Lambat.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "31d4e56e-84f6-4978-a789-7507ddf78ec9"
         },
         {
             "name": "Bonita Springs",
@@ -2124,12 +2145,12 @@
         },
         {
             "name": "Gondolin",
-            "x": 3850,
+            "x": 3900,
             "z": -9000,
             "nation": "Gondolin Ascendancy",
-            "contact": "/u/stormsweeper",
-            "image": "https://cdn.discordapp.com/attachments/812188404028669972/829518799265857546/2020-08-08_15.32.42.png",
-            "discord": "https://discord.gg/tWeAmddV",
+            "contact": "Seldomshock#2199",
+            "image": "https://cdn.discordapp.com/attachments/812188404028669972/846453844816298044/2020-08-08_15.29.02.png",
+            "discord": "https://discord.gg/JsFvya8Cpz",
             "wiki": "https://civwiki.org/wiki/Gondolin",
             "visitors": "welcome",
             "Zoom Visibility": 1,
@@ -2675,20 +2696,6 @@
             "id": "d3142742-248c-4f29-a76f-82c9bff14057"
         },
         {
-            "name": "Kairo",
-            "x": 333,
-            "z": 8800,
-            "nation": "Vinland (Nro'meagh Zhuul, autonomous)",
-            "contact": "SirAvocado/Monerd22",
-            "image": "https://i.imgur.com/7iauEJ3.png",
-            "discord": "https://discord.gg/Yb7Yu3q",
-            "symbol": "https://cdn.discordapp.com/attachments/431562924859981825/432769088985628672/Capture_2018-04-08-23-09-15.png",
-            "Zoom Visibility": 4,
-            "notes": "Contact /u/Gjum if you have any info about this",
-            "nickname": "Kairo",
-            "id": "20342384-c1b4-4c8b-b02d-0f37dd0549c4"
-        },
-        {
             "name": "Kaiserkin",
             "x": -2650,
             "z": -11200,
@@ -2700,6 +2707,20 @@
             "notes": "formerly called Wien",
             "nickname": "Kaiserreich",
             "id": "1f911838-e975-4bc1-8b78-98e8915ea4f6"
+        },
+        {
+            "name": "Kalayaan",
+            "x": 4475,
+            "z": 700,
+            "nation": "Lambat",
+            "contact": "r/Lambat, u/HijoDeFootspa",
+            "discord": "https://discord.gg/Rqjww5VkW4",
+            "web": "reddit.com/r/Lambat",
+            "wiki": "https://civclassic.civwiki.org/wiki/Lambat",
+            "symbol": "https://static.miraheze.org/civwikiwiki/thumb/c/c0/Flag_of_Lambat.png/640px-Flag_of_Lambat.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "67cdae75-ef5d-4bdd-b7cc-fa2de2c4112c"
         },
         {
             "name": "Kaliningrad",
@@ -2927,15 +2948,15 @@
             "x": 6893,
             "z": -1461,
             "nation": "Lambat",
-            "contact": "kaprediem#3161",
-            "image": "https://static.miraheze.org/civclassicwiki/f/f2/Main_Street_Lambat.png",
-            "discord": "https://discord.gg/qQWPdsnb",
+            "contact": "r/Lambat, u/HijoDeFootspa",
+            "image": "https://static.miraheze.org/civwikiwiki/thumb/7/7d/Poblacion%2C_Lambat_city.png/1200px-Poblacion%2C_Lambat_city.png",
+            "discord": "https://discord.gg/Rqjww5VkW4",
             "web": "r/Lambat",
             "wiki": "https://civwiki.org/wiki/Lambat",
-            "symbol": "https://static.miraheze.org/civclassicwiki/7/79/Provisional_Flag_of_Lambat.png",
-            "visitors": "ask first",
+            "symbol": "https://static.miraheze.org/civwikiwiki/thumb/c/c0/Flag_of_Lambat.png/640px-Flag_of_Lambat.png",
+            "visitors": "welcome",
             "Zoom Visibility": 1,
-            "id": "4db0dbd1-f071-49ac-94f2-3e97e4839e6d"
+            "id": "664cf380-865d-4601-8faf-a0096acfd615"
         },
         {
             "name": "Las Royals",
@@ -4080,6 +4101,18 @@
             "Zoom Visibility": 4,
             "notes": "Contact /u/Gjum if you have any info about this",
             "id": "5671fd00-cc63-402f-b858-285b241152c5"
+        },
+        {
+            "name": "Persepolis",
+            "x": 333,
+            "z": 8800,
+            "nation": "Nro'Meagh",
+            "contact": "coocoo#5557 or BinaryToast1#5258",
+            "image": "https://cdn.discordapp.com/attachments/812188404028669972/846097934004518922/unknown.png",
+            "discord": "https://discord.gg/ZsbYFGBbfM",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "2bde21c6-0a73-47af-a7bd-47e1370a3b28"
         },
         {
             "name": "Persia",
@@ -5328,6 +5361,17 @@
             "Zoom Visibility": 4,
             "notes": "Contact /u/Gjum if you have any info about this",
             "id": "ce39c400-8662-4dcc-a562-1d07ad4bffba"
+        },
+        {
+            "name": "Venera",
+            "x": -5572,
+            "z": 3540,
+            "nation": "Venne",
+            "discord": "https://discord.gg/f7ZhvW83",
+            "wiki": "https://civwiki.org/wiki/Venne",
+            "symbol": "https://static.miraheze.org/civwikiwiki/thumb/0/03/Venne.png/180px-Venne.png",
+            "Zoom Visibility": 4,
+            "id": "bcc18c64-3226-4f9d-a87f-c64f89bb7982"
         },
         {
             "name": "Venice",
