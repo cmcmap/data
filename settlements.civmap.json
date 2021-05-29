@@ -10,19 +10,20 @@
             "name": "Settlements",
             "style_base": {
                 "color": {
-                    "default": "#888888",
+                    "default": "#ffcc77",
                     "feature_key": "Zoom Visibility",
                     "categories": {
-                        "1": "#ffcc77",
-                        "2": "#ffcc77"
                     }
                 },
                 "icon_size": {
-                    "default": 12,
+                    "default": 8,
                     "feature_key": "Zoom Visibility",
                     "categories": {
-                        "1": 16,
-                        "2": 16
+                        "1": 18,
+                        "2": 16,
+                        "3": 14,
+                        "4": 12,
+                        "5": 10
                     }
                 },
                 "icon": "circle",
@@ -30,11 +31,9 @@
                 "opacity": 0,
                 "stroke_color": "#000000",
                 "stroke_width": {
-                    "default": 1,
+                    "default": 2,
                     "feature_key": "Zoom Visibility",
                     "categories": {
-                        "1": 2,
-                        "2": 2
                     }
                 }
             },
