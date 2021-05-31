@@ -96,8 +96,8 @@
             "name": "(abandoned newfriend town)",
             "x": 9291,
             "z": 5354,
-            "nation": "Entrana, formerly Lowland Hundred",
-            "contact": "Aimuari",
+            "nation": "Cortesia Del Mar (Formerly Entrana, Formerly Lowland Hundred)",
+            "contact": "IceCarim#1541, Yodabird19#1542",
             "Zoom Visibility": 5,
             "notes": "Abandoned newfriend town. Contact /u/Gjum if you have any info about this",
             "id": "abb832c2-b995-4bd0-9f02-2ecfa70921c8"
@@ -784,12 +784,10 @@
             "name": "Arsenio",
             "x": 4617,
             "z": -6901,
-            "nation": "Eddie Murphy",
-            "contact": "gtk2 @oko#3656",
-            "discord": "https://discord.gg/mfMKwXghVB",
-            "web": "https://oko.moe",
+            "nation": "Icenia (Formerly The Empire, Formerly Eddie Murphy)",
+            "contact": "Naglafer#0299, Yodabird19#1542",
             "symbol": "https://static.miraheze.org/civclassicwiki/9/95/EM-Flag.png",
-            "Zoom Visibility": 4,
+            "Zoom Visibility": 3,
             "nickname": "Eddie Murphy",
             "id": "283afe6d-61c4-4a38-8784-2808e9b4c5f7"
         },
@@ -1827,8 +1825,8 @@
             "name": "Entrana",
             "x": 8400,
             "z": 4800,
-            "nation": "Entranan Republic",
-            "contact": "u/shtim",
+            "nation": "Cortesia Del Mar (Formerly Entrana)",
+            "contact": "IceCarim#1541, Yodabird19#1542",
             "image": "https://i.imgur.com/EnK3DHl.jpg",
             "image_album": "https://imgur.com/a/HH4pTXV",
             "web": "https://www.reddit.com/r/civclassics/comments/8z9cve/claims_entranan_republic_072018/",
@@ -1988,8 +1986,8 @@
             "name": "Fort Liberty",
             "x": 9090,
             "z": 4500,
-            "nation": "Entrana (Freelands)",
-            "contact": "bushycraftbt99",
+            "nation": "Cortesia Del Mar (Formerly Entrana)",
+            "contact": "IceCarim#1541, Yodabird19#1542",
             "wiki": "https://civwiki.org/wiki/Republic_of_Freelands",
             "Zoom Visibility": 4,
             "nickname": "Freelands",
@@ -2118,7 +2116,7 @@
             "name": "Georgia",
             "x": 6015,
             "z": -932,
-            "nation": "Brennau (formerly Aznazia)",
+            "nation": "Monterrey (Formerly a gazillion people)",
             "contact": "MrDoombringer",
             "web": "https://www.reddit.com/r/civclassics/comments/6gsu4w/claim_confederation_of_georgia/",
             "wiki": "https://civwiki.org/wiki/Georgia",
@@ -2132,7 +2130,7 @@
             "name": "Georgia",
             "x": 8000,
             "z": 4300,
-            "nation": "Georgia",
+            "nation": "Monterrey (Formerly Georgia)",
             "contact": "u/Transfatismyname",
             "Zoom Visibility": 4,
             "nickname": "Georgia",
@@ -2505,12 +2503,12 @@
             "name": "Ionia",
             "x": 7000,
             "z": 4500,
-            "nation": "Georgia",
-            "contact": "RoBBB u/Transfatismyname",
+            "nation": "Monterrey (Formerly Georgia)",
+            "contact": "u/Transfatismyname",
             "web": "https://www.reddit.com/r/civclassics/comments/8z7y09/updated_federation_of_georgia_claims_around_7000/",
             "wiki": "https://civwiki.org/wiki/Georgia",
             "Zoom Visibility": 4,
-            "nickname": "Georgia",
+            "nickname": "Ionia",
             "id": "2e963d7f-9616-4f4c-afb9-d674f81dcde4"
         },
         {
@@ -2754,7 +2752,6 @@
             "z": -150,
             "nation": "Kallos",
             "contact": "kicky#4437",
-            "discord": "https://discord.gg/GAZ3V9V6KP",
             "visitors": "ask first",
             "Zoom Visibility": 2,
             "id": "c4262c5a-424b-4fdd-b7f6-fd32569f14d6"
@@ -3074,6 +3071,19 @@
             "Zoom Visibility": 4,
             "notes": "Contact /u/Gjum if you have any info about this",
             "id": "76f9b2e4-c7aa-479a-84ac-4df35a244f3f"
+        },
+        {
+            "name": "Little Leningrad",
+            "x": -6700,
+            "z": 3350,
+            "nation": "Confederation of Socialist Augusta",
+            "contact": "Courtney#9451",
+            "image": "https://i.imgur.com/Sno5IdA.jpg",
+            "wiki": "https://civwiki.org/wiki/CSA#Little_Leningrad_(LL)",
+            "symbol": "https://static.miraheze.org/civwikiwiki/6/62/USA_Flag.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "id": "540513ef-6921-443e-865e-8e71fad7933d"
         },
         {
             "name": "Little Saskatchewan",
@@ -3701,6 +3711,17 @@
             "id": "4965bf40-d5df-4127-b522-166c384ec534"
         },
         {
+            "name": "New Turing",
+            "x": 3600,
+            "z": -9950,
+            "nation": "Acadia",
+            "contact": "Cortwade#3871",
+            "wiki": "https://civwiki.org/wiki/Acadia",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "id": "abb71909-bafb-40ea-96f8-f083dd36ec3f"
+        },
+        {
             "name": "New Venice",
             "x": 8250,
             "z": 3750,
@@ -3756,16 +3777,6 @@
             "symbol": "https://vignette.wikia.nocookie.net/civclassic/images/c/c6/Spqr.png",
             "Zoom Visibility": 4,
             "id": "955a829e-b564-48fb-96a7-f2a1730854d3"
-        },
-        {
-            "name": "Ninjajack's Base",
-            "x": 7934,
-            "z": 1370,
-            "nation": "Provincia",
-            "contact": "Ninjajack",
-            "Zoom Visibility": 4,
-            "notes": "Contact /u/Gjum if you have any info about this",
-            "id": "901e5c88-df82-44b2-a62a-c33bfffbc278"
         },
         {
             "name": "Nipplerock",
@@ -4670,6 +4681,15 @@
             "visitors": "welcome",
             "Zoom Visibility": 3,
             "id": "25049897-8c37-4fcb-8c8b-c77b90f9d32f"
+        },
+        {
+            "name": "Siksta's Town",
+            "x": 7934,
+            "z": 1370,
+            "nation": "Provincia",
+            "Zoom Visibility": 4,
+            "notes": "Contact /u/Gjum if you have any info about this",
+            "id": "901e5c88-df82-44b2-a62a-c33bfffbc278"
         },
         {
             "name": "Sister Republics",
