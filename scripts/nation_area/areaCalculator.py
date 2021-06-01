@@ -32,7 +32,6 @@ def main(argv):
     MERGE = True
     WORLD_AREA = math.pi * (13000*13000)
     MODE = "OFFLINE"
-    DATA_URL = "https://githubraw.com/ccmap/data/master/land_claims.civmap.json"
     SANDBOX = False
     # ------------------------------------------------
 
@@ -54,11 +53,8 @@ def main(argv):
             MODE = "WIKI"
             SANDBOX = True
     # Get the latest claims json
-    headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}
-    req = urllib.request.Request(url=DATA_URL, headers=headers)
-
-    with urllib.request.urlopen(req) as url:
-      data = json.loads(url.read().decode())
+    with open('land_claims.civmap.json', 'r') as file:
+      data = json.loads(file.read())
 
     # Calculate and sort the area of every polygon, combining ones from the same nation
     areas = {}
