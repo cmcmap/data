@@ -9,8 +9,6 @@ from mwclient import Site
 from mwclient.errors import LoginError
 import wikitextparser as wtp
 
-from secret import USER,PASSWORD
-
 def polygon_area(vertices):
     psum = 0
     nsum = 0
@@ -36,7 +34,7 @@ def main(argv):
     # ------------------------------------------------
 
     try: 
-        opts, args = getopt.getopt(argv,"h",["markdown","wiki","offline","sandbox","help"])
+        opts, args = getopt.getopt(argv,"h",["markdown","wiki","offline","sandbox","help","username","password"])
     except getopt.GetoptError:
         print("areaCalculator.py --wiki")
         sys.exit(2)
@@ -52,6 +50,11 @@ def main(argv):
         if opt in "--sandbox":
             MODE = "WIKI"
             SANDBOX = True
+        if opt in "username":
+            USER = arg
+        if opt in "password":
+            PASSWORD = arg
+            
     # Get the latest claims json
     with open('land_claims.civmap.json', 'r') as file:
       data = json.loads(file.read())
