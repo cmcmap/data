@@ -33,4 +33,4 @@ jobs:
         pip install -r scripts/nation_area/requirements.txt
     - name: Run the script
       run: |
-        py scripst/nation_area/areaCalculator.py --wiki --username ${{ secrets.CIVWIKIBOT_USERNAME }} --password {{ secrets.CIVWIKIBOT_PASSWORD }}
+        py scripst/nation_area/areaCalculator.py --wiki --username ${{ secrets.CIVWIKIBOT_USERNAME }} --password ${{ secrets.CIVWIKIBOT_PASSWORD }}
