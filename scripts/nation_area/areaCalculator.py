@@ -31,6 +31,8 @@ def main(argv):
     WORLD_AREA = math.pi * (13000*13000)
     MODE = "OFFLINE"
     SANDBOX = False
+    USER = ""
+    PASSWORD = ""
     # ------------------------------------------------
 
     try: 
@@ -54,8 +56,6 @@ def main(argv):
             USER = arg
         if opt in "password":
             PASSWORD = arg
-            
-    print(MODE)  
    
     # Get the latest claims json
     with open('land_claims.civmap.json', 'r') as file:
