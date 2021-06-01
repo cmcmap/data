@@ -364,6 +364,7 @@
             "symbol": "https://cdn.discordapp.com/attachments/443008910136180746/478646214208782347/flagger.png",
             "visitors": "welcome",
             "Zoom Visibility": 1,
+            "nickname": "Caledonia",
             "id": "b6d69815-aeec-4428-8be1-843fd8eea1ac"
         },
         {
@@ -2160,6 +2161,7 @@
             "wiki": "https://civwiki.org/wiki/Gondolin",
             "visitors": "welcome",
             "Zoom Visibility": 1,
+            "nickname": "Gondolin",
             "id": "c10a987e-bf59-4235-84c3-942237b9005c"
         },
         {
@@ -2961,6 +2963,7 @@
             "symbol": "https://static.miraheze.org/civwikiwiki/thumb/c/c0/Flag_of_Lambat.png/640px-Flag_of_Lambat.png",
             "visitors": "welcome",
             "Zoom Visibility": 1,
+            "nickname": "Lambat",
             "id": "664cf380-865d-4601-8faf-a0096acfd615"
         },
         {
@@ -3788,7 +3791,7 @@
             "image_album": "https://imgur.com/a/To91T1Y",
             "wiki": "https://civwiki.org/wiki/Nipplerock",
             "symbol": "https://i.redd.it/6q5byjvgwad01.png",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 1,
             "nickname": "Nipplerock",
             "id": "d8ad44d6-b5b9-4503-a76b-772f897abab7",
             "SpecificLanguage's Notes - Tier": 4,
@@ -4366,6 +4369,7 @@
             "symbol": "https://static.miraheze.org/civwikiwiki/thumb/9/9b/CrecentofMonterrey.png/300px-CrecentofMonterrey.png",
             "visitors": "welcome",
             "Zoom Visibility": 1,
+            "nickname": "Monterrey",
             "id": "765d0109-2dc3-44f1-9fc8-24a490a26d97"
         },
         {
@@ -4739,7 +4743,7 @@
             "wiki": "https://civwiki.org/wiki/South_Augusta",
             "symbol": "https://static.miraheze.org/civwikiwiki/thumb/3/35/South_augusta_coat_of_arms.png/180px-South_augusta_coat_of_arms.png",
             "visitors": "ask first",
-            "Zoom Visibility": 1,
+            "Zoom Visibility": 2,
             "id": "d3c02cf7-3133-4f5e-b731-b14984738f15"
         },
         {
@@ -5373,7 +5377,7 @@
             "image": "https://cdn.discordapp.com/attachments/371076117521629186/485245126281527298/2018-08-31_17.21.36.png",
             "discord": "https://discord.gg/J7WCuTb",
             "web": "https://www.reddit.com/r/civclassics/comments/9bzddz/announcement_of_the_state_of_vecna/",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 4,
             "nickname": "Jefferson (Vecna)",
             "id": "e9431d4f-e6a5-40e1-9cfe-1a50016929ab"
         },
@@ -5422,6 +5426,7 @@
             "symbol": "https://static.miraheze.org/civwikiwiki/thumb/8/83/CDM_FlagP.png/180px-CDM_FlagP.png",
             "visitors": "welcome",
             "Zoom Visibility": 1,
+            "nickname": "Cortesia",
             "id": "287e2403-5890-4b15-8439-47b453280845"
         },
         {
@@ -5665,7 +5670,7 @@
             "symbol": "https://cdn.discordapp.com/attachments/313388169095806986/317805528531206145/image.jpg",
             "visitors": "ask first",
             "Zoom Visibility": 1,
-            "nickname": "Westminster",
+            "nickname": "Commonwealth",
             "id": "785f1e27-e8cc-4e26-b803-c5b1168ec337",
             "SpecificLanguage's Notes - Tier": 9,
             "SpecificLanguage's Notes - Notes": "The old CW feel is still present in some places.",
