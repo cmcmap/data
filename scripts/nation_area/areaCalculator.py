@@ -55,6 +55,8 @@ def main(argv):
         if opt in "password":
             PASSWORD = arg
             
+    print(MODE)  
+   
     # Get the latest claims json
     with open('land_claims.civmap.json', 'r') as file:
       data = json.loads(file.read())
