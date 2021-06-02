@@ -62,12 +62,15 @@ def main(argv):
 
     # Calculate and sort the area of every polygon, combining ones from the same nation
     areas = {}
+    shortnames = {}
 
-    for feat in data["features"]:
-        
+    for feat in data["features"]: 
         name = feat["name"]
         if MERGE:
             nation = ( re.sub("\(|\)","",re.search("(^[^()]+$)|\((.*)\)",name.replace("\n"," ")).group()))
+            if "shortname" in feat:
+                shortnames[nation] = feat["shortname"]
+                
             if ACRONYMS.get(nation) is not None:
                 nation = ACRONYMS.get(nation)
         else:
@@ -124,13 +127,13 @@ def main(argv):
         for key in areas_sorted.keys():
             are = round(areas[key]/1000000,3)
             per = round ((areas[key]/WORLD_AREA)*100,3)
-            print(key,are)
+            #print(key,are)
             nation_txt = "[[{}]]".format(key)
             if key in flag_template_whitelist:
                 nation_txt = "{{{{flag|{}}}}}".format(key)
-            #elif key in FLAG_REDIRECTS:
-            #    weh = FLAG_REDIRECTS[key]
-            #    nation_txt = "{{{{flagicon|{}}}}}[[{}|{}]]".format(weh,weh,key)
+            elif key in shortnames:
+                if shortnames[key] in flag_template_whitelist:
+                    nation_txt = "{{{{flag|{}}}}}".format(shortnames[key])
             new_table += "|-\n|{}\n|{}\n|{}\n|{}\n".format(i,nation_txt,are,per)
             i = i+1
         new_table += "|}"
@@ -142,16 +145,18 @@ def main(argv):
             page = site.pages['List_of_nations_by_area/Sandbox']
         text = page.text()
         parsed = wtp.parse(text)
-        print(parsed.pformat())
+        
         for section in parsed.sections:
             if section.title == "Nations by area":
                 section.contents = new_table
+        print(parsed.string)
         if MODE == "OFFLINE":
             with open('areas.txt','w') as f:
                 f.write(parsed.string)
         else:
             site.login(USER,PASSWORD)
             page.edit(parsed.string,"Automated Table Update")
+        
 
 if __name__ == "__main__":
     main(sys.argv[1:])
