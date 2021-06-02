@@ -363,8 +363,7 @@
             "discord": "https://discord.gg/MQWAynhakA",
             "symbol": "https://cdn.discordapp.com/attachments/443008910136180746/478646214208782347/flagger.png",
             "visitors": "welcome",
-            "Zoom Visibility": 1,
-            "nickname": "Caledonia",
+            "Zoom Visibility": 3,
             "id": "b6d69815-aeec-4428-8be1-843fd8eea1ac"
         },
         {
@@ -1578,6 +1577,19 @@
             "Zoom Visibility": 3,
             "nickname": "Order of the Knights Templar",
             "id": "b96b6dbf-f53a-4f11-8235-76e7ccdb3861"
+        },
+        {
+            "name": "Corinth",
+            "x": 8200,
+            "z": 800,
+            "nation": "Caledonia",
+            "image": "https://cdn.discordapp.com/attachments/563827477911306240/624845980100984832/2019-09-20_22.47.32.png",
+            "discord": "https://discord.gg/MQWAynhakA",
+            "symbol": "https://cdn.discordapp.com/attachments/443008910136180746/478646214208782347/flagger.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 1,
+            "nickname": "Caledonia",
+            "id": "ddaa1193-5298-47c8-ae29-ed90aee93634"
         },
         {
             "name": "Corsica",
