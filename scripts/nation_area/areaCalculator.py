@@ -1,4 +1,5 @@
-import sys, getopt
+import sys
+import os
 import json
 import math
 import re
@@ -8,8 +9,6 @@ from helpers import ACRONYMS, FLAG_REDIRECTS
 from mwclient import Site
 from mwclient.errors import LoginError
 import wikitextparser as wtp
-
-from secret import USER,PASSWORD
 
 def polygon_area(vertices):
     psum = 0
@@ -31,34 +30,20 @@ def main(argv):
     # ------------- Constant Variables ----------------
     MERGE = True
     WORLD_AREA = math.pi * (13000*13000)
-    MODE = "OFFLINE"
-    DATA_URL = "https://githubraw.com/ccmap/data/master/land_claims.civmap.json"
+    MODE = os.environ.get('MODE', 'OFFLINE')
     SANDBOX = False
+    USER = os.environ.get('USERNAME', '')
+    PASSWORD = os.environ.get('PASSWORD', '')
     # ------------------------------------------------
 
-    try: 
-        opts, args = getopt.getopt(argv,"h",["markdown","wiki","offline","sandbox","help"])
-    except getopt.GetoptError:
-        print("areaCalculator.py --wiki")
-        sys.exit(2)
-    for opt,arg in opts:
-        if opt in ('-h','--help'):
-            print ("--markdown , --wiki , --offline , --sandbox , --help")
-        if opt in "--markdown":
-            MODE = "MARKDOWN"
-        if opt in "--wiki":
-            MODE = "WIKI"
-        if opt in "--offline":
-            MODE = "OFFLINE"
-        if opt in "--sandbox":
-            MODE = "WIKI"
-            SANDBOX = True
+    if MODE == "SANDBOX":
+        SANDBOX = True
+        MODE == "WIKI"
+    # ["MARKDOWN","WIKI","OFFLINE","SANDBOX","USERNAME","PASSWORD"]
+   
     # Get the latest claims json
-    headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}
-    req = urllib.request.Request(url=DATA_URL, headers=headers)
-
-    with urllib.request.urlopen(req) as url:
-      data = json.loads(url.read().decode())
+    with open('land_claims.civmap.json', 'r') as file:
+      data = json.loads(file.read())
 
     # Calculate and sort the area of every polygon, combining ones from the same nation
     areas = {}
@@ -102,7 +87,7 @@ def main(argv):
             for key in areas_sorted.keys():
                 are = round(areas[key]/1000000,3)
                 per = round ((areas[key]/WORLD_AREA)*100,3)
-                print(key,are)
+                # print(key,are)
                 f.write("{}|{}|{}|{}\n".format(i,key,are,per))
                 i = i + 1
     if MODE == "WIKI" or MODE == "OFFLINE":
@@ -124,7 +109,7 @@ def main(argv):
         for key in areas_sorted.keys():
             are = round(areas[key]/1000000,3)
             per = round ((areas[key]/WORLD_AREA)*100,3)
-            print(key,are)
+            # print(key,are)
             nation_txt = "[[{}]]".format(key)
             if key in flag_template_whitelist:
                 nation_txt = "{{{{flag|{}}}}}".format(key)
@@ -142,7 +127,7 @@ def main(argv):
             page = site.pages['List_of_nations_by_area/Sandbox']
         text = page.text()
         parsed = wtp.parse(text)
-        print(parsed.pformat())
+        # print(parsed.pformat())
         for section in parsed.sections:
             if section.title == "Nations by area":
                 section.contents = new_table
