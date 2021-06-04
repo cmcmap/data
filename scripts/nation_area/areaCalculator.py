@@ -136,7 +136,7 @@ def main(argv):
                 f.write(parsed.string)
         else:
             site.login(USER,PASSWORD)
-            if text != parsed.String:
+            if page != parsed.string:
                 page.edit(parsed.string,"Automated Table Update")
 
 if __name__ == "__main__":
