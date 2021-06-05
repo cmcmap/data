@@ -1,4 +1,5 @@
 import json
+import sys
 
 #-----------
 #   Attempts to check for common errors in ccmap polygon data and prints them to console
@@ -23,7 +24,7 @@ try:
 except NameError:
     print ("ERROR: FAILED TO LOAD JSON")
     print (NameError)
-    quit()
+    sys.exit(1)
 else:
     print ("Successfully loaded Json")
 
@@ -33,6 +34,7 @@ if "features" in data:
         if not "name" in feat:
             print("ERROR: LACKS name")
             print(feat)
+            sys.exit(1)
         elif feat["name"] in names:
             print(feat["name"],"- several claims share this name, mistake?")
         else:
@@ -41,27 +43,34 @@ if "features" in data:
         if not "color" in feat:
             print("ERROR: LACKS color")
             print(feat)
+            sys.exit(1)
         elif len(feat["color"]) != 7 or feat["color"][0] != "#":
             print(feat["color"])
             print("ERROR: Invalid Color")
             print(feat)
+            sys.exit(1)
         # ------- POLYGON
         if not "polygon" in feat:
             print("ERROR: LACKS polygon")
             print(feat)
+            sys.exit(1)
         elif not type(feat["polygon"]) is list:
             print("ERROR: Invalid Claims Polygon")
             print(feat)
+            sys.exit(1)
         elif depthCount(feat["polygon"]) != 3:
             print("ERROR: Invalid Polygon Depth")
             print(feat)
+            sys.exit(1)
         # ------- ID
         if not "id" in feat:
             print("ERROR: LACKS id")
             print(feat)
+            sys.exit(1)
         elif feat["id"] in ids:
             print("ERROR: Duplicated ID",feat["id"])
             print(feat)
+            sys.exit(1)
         else:
             ids.append(feat["id"])
         
@@ -75,5 +84,7 @@ if "features" in data:
                 print("WARNING: LACKS declutter", feat["name"])
 else:
     print("ERROR: Features Field not found")
+    sys.exit(1)
 
 print("lint complete")
+sys.exit(0)
