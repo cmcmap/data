@@ -2,5 +2,5 @@ language:
   python
 # install:
 #   - pip install -r scripts/requirements.txt
-test_land_claims:
+script:
   - python scripts/land_claims_lint.py
