@@ -19,7 +19,7 @@ names = []
 DISPLAY_WARNINGS = True
 
 try:
-    with open('data/land_claims.civmap.json') as f:
+    with open('../land_claims.civmap.json') as f:
         data = json.loads(f.read())
 except NameError:
     print ("ERROR: FAILED TO LOAD JSON")
