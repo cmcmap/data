@@ -1,11 +1,6 @@
 language:
   python
-before_script:
-  - npm install -g ajv-cli
+# install:
+#   - pip install -r scripts/requirements.txt
 script:
-  - ajv -s <(echo "{}") -d political.civmap.json --all-errors
-  - ajv -s <(echo "{}") -d rails.civmap.json --all-errors
-  - ajv -s <(echo "{}") -d settlements.civmap.json --all-errors
-cache:
-  directories:
-    - /home/travis/.nvm/*/lib/node_modules/
+  - python scripts/land_claims_lint.py
