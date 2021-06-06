@@ -189,15 +189,6 @@
             "id": "82e950a2-a9d0-4b23-b368-a564aab34996"
         },
         {
-            "name": "? (desert castle)",
-            "x": 3006,
-            "z": 2023,
-            "image": "https://thumb.gyazo.com/thumb/1200/_a6a6fd2d86b77126b1113024f74c72b5-jpg.jpg",
-            "Zoom Visibility": 5,
-            "notes": "abandoned desert castle",
-            "id": "ded6d81f-dce3-4e4f-a0bf-9c8238a12f8c"
-        },
-        {
             "name": "? (enderman town)",
             "x": -1928,
             "z": -4688,
@@ -1247,15 +1238,6 @@
             "Appomattox Builder's Association - Rating": "-"
         },
         {
-            "name": "Buru\u2019kendi",
-            "x": 3314,
-            "z": 2159,
-            "nation": "The Stones of Jae'kial and Buru'kendi (TSJB)",
-            "contact": "Draekiean /u/dreakian",
-            "Zoom Visibility": 4,
-            "id": "878ea35e-c204-41b9-a6a4-8a582fce178e"
-        },
-        {
             "name": "Calabria",
             "x": 4170,
             "z": 3300,
@@ -1815,21 +1797,6 @@
             "id": "e45049a9-408f-4a0b-a232-15a53765268e",
             "Appomattox Builder's Association - Rating": "3.4",
             "Appomattox Builder's Association - Note": "Had some nice aesthetically pleasing houses"
-        },
-        {
-            "name": "England",
-            "x": 770,
-            "z": -5765,
-            "nation": "England",
-            "contact": "GatorGlitch",
-            "image": "https://i.imgur.com/UMxUyip.png",
-            "image_album": "https://imgur.com/a/qvXWxJq",
-            "visitors": "ask first",
-            "Zoom Visibility": 3,
-            "nickname": "England",
-            "id": "1f9b24b0-13a9-4ef3-a36a-f3574215a897",
-            "Appomattox Builder's Association - Rating": "4.2",
-            "Appomattox Builder's Association - Note": "Other than the road material, I really liked this city, one of the best on the server"
         },
         {
             "name": "Entrana",
