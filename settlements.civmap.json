@@ -744,6 +744,15 @@
             "id": "89fd289b-ca4d-497f-ab80-49f66571aa02"
         },
         {
+            "name": "Arem",
+            "x": 7717,
+            "z": 3950,
+            "nation": "Monterrey (Formerly ?)",
+            "contact": "MrDoomBringer",
+            "Zoom Visibility": 4,
+            "id": "e6bb3230-5656-4b09-bcfd-4e88e6ad89cb"
+        },
+        {
             "name": "Arkhangel",
             "x": 3824,
             "z": -5142,
@@ -1548,13 +1557,13 @@
             "name": "Constantinople",
             "x": 8458,
             "z": 3961,
-            "nation": "Order of the Knights Templar",
-            "contact": "/u/Commander_Luke",
+            "nation": "Cortesia Del Mar (Formerly Order of the Knights Templar)",
+            "contact": "IceCarim#1541, Yodabird19#1542",
             "image": "https://i.imgur.com/Namqz0U.png",
             "web": "https://www.reddit.com/r/civclassics/comments/afq8v2/a_new_nation_the_order_of_the_knights_templar/",
             "symbol": "https://www.needcoolshoes.com/banner/thumbnail.png?=pabz",
             "Zoom Visibility": 3,
-            "nickname": "Order of the Knights Templar",
+            "nickname": "Cortesia Del Mar (Formerly Order of the Knights Templar)",
             "id": "b96b6dbf-f53a-4f11-8235-76e7ccdb3861"
         },
         {
@@ -1627,6 +1636,14 @@
             "id": "a10af115-3252-4a69-a893-7199e97386a9"
         },
         {
+            "name": "Daedalus",
+            "x": 6605,
+            "z": 5410,
+            "nation": "Daedalus (Imperial Truidence)",
+            "Zoom Visibility": 3,
+            "id": "4c0c1013-0601-40e9-bb1b-929a75be89c6"
+        },
+        {
             "name": "Dankhaven",
             "x": 5350,
             "z": -200,
@@ -1662,6 +1679,16 @@
             "visitors": "welcome",
             "Zoom Visibility": 3,
             "id": "54b98949-bf89-4fb1-ab9f-5c0d83426dab"
+        },
+        {
+            "name": "Diora",
+            "x": 7800,
+            "z": 4450,
+            "nation": "Monterrey (Formerly a gazillion people)",
+            "contact": "MrDoomBringer",
+            "Zoom Visibility": 4,
+            "nickname": "Georgia",
+            "id": "6de5e990-d504-4e0d-be16-241b99da5354"
         },
         {
             "name": "Dithmarschen",
@@ -1811,6 +1838,13 @@
             "Zoom Visibility": 3,
             "nickname": "Entrana",
             "id": "b5fecc08-fa61-4b56-a734-378c3e82afb2"
+        },
+        {
+            "name": "Entura",
+            "x": 3760,
+            "z": 3637,
+            "nation": "Odresh (Yoahtl)",
+            "Zoom Visibility": 3
         },
         {
             "name": "Epimos",
@@ -2086,32 +2120,29 @@
             "discord": "https://discord.gg/TvDZ3FP",
             "symbol": "https://cdn.discordapp.com/attachments/307599951121219585/497198846363959298/d3fe06c71f93e5f63d4b0e2536aaad7d.png",
             "Zoom Visibility": 4,
-            "nickname": "Garnet",
             "id": "6fb971af-f3a8-4341-8901-73c8f4679992"
         },
         {
             "name": "Georgia",
             "x": 6015,
             "z": -932,
-            "nation": "Monterrey (Formerly a gazillion people)",
+            "nation": "Monterrey (Formerly Georgia)",
             "contact": "MrDoombringer",
             "web": "https://www.reddit.com/r/civclassics/comments/6gsu4w/claim_confederation_of_georgia/",
             "wiki": "https://civwiki.org/wiki/Georgia",
             "symbol": "https://static.miraheze.org/civclassicwiki/c/c6/Niceooooo.png",
             "Zoom Visibility": 4,
             "notes": "founded on the first days of the server, quickly went inactive, seceded to Aznazia, unreinforced, griefed",
-            "nickname": "Georgia",
             "id": "e71b4f8a-189e-417e-b689-43b4b6942da5"
         },
         {
-            "name": "Georgia",
-            "x": 8000,
-            "z": 4300,
-            "nation": "Monterrey (Formerly Georgia)",
-            "contact": "u/Transfatismyname",
+            "name": "Godhaven",
+            "x": 5890,
+            "z": 3117,
+            "nation": "Panem",
             "Zoom Visibility": 4,
-            "nickname": "Georgia",
-            "id": "cc19e2f4-d516-411b-87b4-3aef3159f6e9"
+            "notes": "Contact /u/Gjum if you have any info about this",
+            "id": "de353a5b-3e28-49d9-b2bc-c59ef1dc3ba4"
         },
         {
             "name": "GoFuckYourselfTown",
@@ -2151,7 +2182,6 @@
             "wiki": "https://civwiki.org/wiki/Yoahtl#Goodsprings",
             "symbol": "https://static.miraheze.org/civclassicwiki/thumb/8/84/Yoahtl_Flag.png/200px-Yoahtl_Flag.png",
             "Zoom Visibility": 3,
-            "nickname": "Goodsprings",
             "id": "c3eb4ff1-912f-4f7c-bea2-8aed8c03703d"
         },
         {
@@ -2190,7 +2220,6 @@
             "symbol": "https://static.miraheze.org/civclassicwiki/c/cd/Vinland.png",
             "Zoom Visibility": 3,
             "notes": "Used to be an epic castle on a cliffside, but got torn down completely.",
-            "nickname": "Gr\u00f6nh\u00f6j",
             "id": "afab913e-0eff-410d-b62d-483fde795d43",
             "Appomattox Builder's Association - Rating": "-"
         },
@@ -2440,7 +2469,7 @@
             "wiki": "https://civwiki.org/wiki/Impasse",
             "symbol": "https://cdn.discordapp.com/attachments/280726458865942528/323634302355243009/flag_impasse.png",
             "visitors": "ask first",
-            "Zoom Visibility": 4,
+            "Zoom Visibility": 3,
             "nickname": "Impasse",
             "id": "6f08edad-398f-450e-bd55-965893d4bd6c",
             "SpecificLanguage's Notes - Tier": 11,
@@ -2601,7 +2630,6 @@
             "contact": "u/soraendo",
             "image": "https://i.imgur.com/UM14xi2.png",
             "image_album": "https://imgur.com/a/BN5xv",
-            "discord": "https://discord.gg/bWDdF5X",
             "web": "https://www.reddit.com/r/civclassics/comments/7qtzdq/the_rise_and_fall_of_the_kingdom_of_jerusalem/",
             "wiki": "https://civwiki.org/wiki/Pruthenia#Dellingrland",
             "symbol": "https://static.miraheze.org/civclassicwiki/6/68/FlagPruthenia.jpg",
@@ -2979,6 +3007,21 @@
             "Appomattox Builder's Association - Rating": "-"
         },
         {
+            "name": "Leninnsk",
+            "x": 7450,
+            "z": 6239,
+            "nation": "Maltovia",
+            "contact": "/u/bolledeboll",
+            "discord": "https://discord.gg/dDrhE4z",
+            "web": "https://www.reddit.com/r/civclassics/comments/8uw8fo/announcing_the_peoples_republic_of_maltovia_and/",
+            "wiki": "https://civwiki.org/wiki/Maltovia",
+            "symbol": "https://static.miraheze.org/civclassicwiki/1/12/Flag_of_Maltovia.png",
+            "Zoom Visibility": 4,
+            "notes": "\"A bastion of socialism and equality. A shining beacon of justice and democracy\", led by the Workers Party",
+            "nickname": "Maltovia",
+            "id": "efeab2f1-274f-4807-89dd-a38797d3a0e8"
+        },
+        {
             "name": "Leuwen",
             "x": -5900,
             "z": -3700,
@@ -3094,6 +3137,12 @@
             "id": "cf4aa867-785a-45a3-bbd1-ba04dfbf9e08"
         },
         {
+            "name": "Lost Hills",
+            "x": 8509,
+            "z": -51,
+            "Zoom Visibility": 5
+        },
+        {
             "name": "Lotus Monastery",
             "x": -4069,
             "z": -5138,
@@ -3131,24 +3180,6 @@
             "id": "\"c76297fe-5a3d-49bc-98ef-736c2c37cbb3"
         },
         {
-            "name": "Lusitania",
-            "x": -7750,
-            "z": -3550,
-            "nation": "Lusitania",
-            "contact": "u/Metriximor",
-            "image": "https://cdn.discordapp.com/attachments/422250595911729155/461884581453234186/unknown.png",
-            "image_album": "https://imgur.com/a/8ueue",
-            "discord": "https://discordapp.com/invite/wKPVCB9",
-            "wiki": "https://civwiki.org/wiki/Lusitania#Portucale",
-            "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
-            "visitors": "welcome",
-            "Zoom Visibility": 1,
-            "notes": "actually called Portucale",
-            "nickname": "Lusitania",
-            "id": "44173a64-657e-49f7-abe2-4ad588d81925",
-            "Appomattox Builder's Association - Rating": "-"
-        },
-        {
             "name": "Luxemburg",
             "x": -8383,
             "z": -4050,
@@ -3169,21 +3200,6 @@
             "web": "https://www.reddit.com/r/civclassics/comments/8qqcf8/lyrian_land_claim/",
             "Zoom Visibility": 3,
             "id": "7774d4be-9de9-460b-bf21-4a233fad67a1"
-        },
-        {
-            "name": "Maltovia",
-            "x": 7450,
-            "z": 6239,
-            "nation": "Maltovia",
-            "contact": "/u/bolledeboll",
-            "discord": "https://discord.gg/dDrhE4z",
-            "web": "https://www.reddit.com/r/civclassics/comments/8uw8fo/announcing_the_peoples_republic_of_maltovia_and/",
-            "wiki": "https://civwiki.org/wiki/Maltovia",
-            "symbol": "https://static.miraheze.org/civclassicwiki/1/12/Flag_of_Maltovia.png",
-            "Zoom Visibility": 4,
-            "notes": "\"A bastion of socialism and equality. A shining beacon of justice and democracy\", led by the Workers Party",
-            "nickname": "Maltovia",
-            "id": "efeab2f1-274f-4807-89dd-a38797d3a0e8"
         },
         {
             "name": "Meditat",
@@ -3249,7 +3265,7 @@
             "wiki": "https://civwiki.org/wiki/Impasse#Miami",
             "symbol": "https://cdn.discordapp.com/attachments/321815151453929473/441698326908502016/unknown.png",
             "visitors": "ask first",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 4,
             "id": "215ed7d3-a646-4606-a8e5-0368bd6ff536"
         },
         {
@@ -3708,8 +3724,8 @@
             "name": "New Venice",
             "x": 8250,
             "z": 3750,
-            "nation": "Order of the Knights Templar",
-            "contact": "/u/Commander_Luke",
+            "nation": "Cortesia Del Mar (Formerly Order of the Knights Templar)",
+            "contact": "IceCarim#1541, Yodabird19#1542",
             "image": "https://i.imgur.com/6tTzFXU.png",
             "web": "https://www.reddit.com/r/civclassics/comments/afq8v2/a_new_nation_the_order_of_the_knights_templar/",
             "symbol": "https://www.needcoolshoes.com/banner/thumbnail.png?=pabz",
@@ -3877,23 +3893,6 @@
             "Appomattox Builder's Association - Rating": "-"
         },
         {
-            "name": "Nyasaland",
-            "x": 4068,
-            "z": -4122,
-            "nation": "Nyasaland",
-            "contact": "/u/BennyZed",
-            "image": "https://cdn.discordapp.com/attachments/613082470484541450/622156106977771573/unknown.png",
-            "discord": "https://discord.gg/R3q3X9x",
-            "wiki": "https://civwiki.org/wiki/Nyasaland",
-            "symbol": "https://static.miraheze.org/civclassicwiki/c/c6/Nyasaland_Flag.png",
-            "visitors": "welcome",
-            "Zoom Visibility": 2,
-            "notes": "actually called Palgrave, used to be called Tir Coedwig while part of Annwyn https://www.reddit.com/r/civclassics/comments/9cmrv2/the_land_of_annwyn/",
-            "nickname": "Nyasaland",
-            "id": "fb2a7de2-a07f-4949-990b-f0e6264a25d7",
-            "Appomattox Builder's Association - Rating": "-"
-        },
-        {
             "name": "Nymph",
             "x": -9992,
             "z": 5267,
@@ -3933,7 +3932,7 @@
             "name": "Odresh",
             "x": 2640,
             "z": 4278,
-            "nation": "Odresh",
+            "nation": "Odresh (Yoahtl)",
             "contact": "/u/Crusher6581 @Dimension#3139",
             "image": "https://cdn.discordapp.com/attachments/494655647011307541/521392249486049301/Day_46_Town.png",
             "image_album": "https://imgur.com/a/kgzxCkh",
@@ -3949,7 +3948,7 @@
             "name": "Okato",
             "x": -609,
             "z": 5761,
-            "nation": "Okashima",
+            "nation": "Okashima (Yoahtl)",
             "contact": "Logan",
             "image": "https://cdn.discordapp.com/attachments/479211527354843156/479656278386409472/Okato_II.png",
             "image_album": "https://imgur.com/a/iP6Q2",
@@ -3958,21 +3957,11 @@
             "symbol": "https://static.miraheze.org/civclassicwiki/thumb/d/d2/Banner_of_Okashima.png/200px-Banner_of_Okashima.png",
             "visitors": "welcome",
             "Zoom Visibility": 3,
-            "nickname": "Okashima",
+            "nickname": "Okashima (Yoahtl)",
             "id": "d46df925-c055-4b69-b394-1d763ed766bf",
             "SpecificLanguage's Notes - Tier": 7,
             "SpecificLanguage's Notes - Notes": "As a japanese-like town, it makes a good effort but not as great as Genso.",
             "Appomattox Builder's Association - Rating": "-"
-        },
-        {
-            "name": "Old Ashelor",
-            "x": 4320,
-            "z": 857,
-            "nation": "Republic of Ashelor",
-            "contact": "Orinnari /u/Kroolista @Dioxain#2968",
-            "discord": "https://discord.gg/r7AV8S4",
-            "Zoom Visibility": 4,
-            "id": "56bcebc6-6d9e-4556-9fc4-7d3491b50e53"
         },
         {
             "name": "Old Cyrene",
@@ -3992,7 +3981,7 @@
             "name": "Oliivipuisto",
             "x": 270,
             "z": 7500,
-            "nation": "Vinland",
+            "nation": "Vinland (Yoahtl)",
             "contact": "ChocChips",
             "image": "https://i.imgur.com/WWPeKQN.png",
             "symbol": "https://static.miraheze.org/civclassicwiki/c/cd/Vinland.png",
@@ -4061,6 +4050,23 @@
             "SpecificLanguage's Notes - Tier": 12,
             "SpecificLanguage's Notes - Notes": "You can\u2019t go wrong with a huge, mindblowing skyscraper city.",
             "SpecificLanguage's Notes - Importance": "important",
+            "Appomattox Builder's Association - Rating": "-"
+        },
+        {
+            "name": "Palgrave",
+            "x": 4068,
+            "z": -4122,
+            "nation": "Nyasaland",
+            "contact": "/u/BennyZed",
+            "image": "https://cdn.discordapp.com/attachments/613082470484541450/622156106977771573/unknown.png",
+            "discord": "https://discord.gg/R3q3X9x",
+            "wiki": "https://civwiki.org/wiki/Nyasaland",
+            "symbol": "https://static.miraheze.org/civclassicwiki/c/c6/Nyasaland_Flag.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "notes": "actually called Palgrave, used to be called Tir Coedwig while part of Annwyn https://www.reddit.com/r/civclassics/comments/9cmrv2/the_land_of_annwyn/",
+            "nickname": "Nyasaland",
+            "id": "fb2a7de2-a07f-4949-990b-f0e6264a25d7",
             "Appomattox Builder's Association - Rating": "-"
         },
         {
@@ -4283,6 +4289,24 @@
             "id": "b292837d-aa38-4ece-ae8c-637730f6e9b0"
         },
         {
+            "name": "Portucale",
+            "x": -7750,
+            "z": -3550,
+            "nation": "Lusitania",
+            "contact": "u/Metriximor",
+            "image": "https://cdn.discordapp.com/attachments/422250595911729155/461884581453234186/unknown.png",
+            "image_album": "https://imgur.com/a/8ueue",
+            "discord": "https://discordapp.com/invite/wKPVCB9",
+            "wiki": "https://civwiki.org/wiki/Lusitania#Portucale",
+            "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
+            "visitors": "welcome",
+            "Zoom Visibility": 1,
+            "notes": "actually called Portucale",
+            "nickname": "Lusitania",
+            "id": "44173a64-657e-49f7-abe2-4ad588d81925",
+            "Appomattox Builder's Association - Rating": "-"
+        },
+        {
             "name": "Primm",
             "x": 423,
             "z": 1675,
@@ -4312,8 +4336,8 @@
             "name": "Pruthenia",
             "x": 9255,
             "z": 4142,
-            "nation": "Vitelia (Pruthenia)",
-            "contact": "/u/Hroerek_The_Great @Rurik#8088",
+            "nation": "Cortesia Del Mar (Formerly Vitelia)",
+            "contact": "IceCarim#1541, Yodabird19#1542",
             "image": "https://static.miraheze.org/civclassicwiki/d/d1/OverviewTheoderichshafen.png",
             "discord": "https://discord.gg/bWDdF5X",
             "web": "https://www.reddit.com/r/civclassics/comments/8z9wrl/claims_for_pruthenia_160718/",
@@ -4459,6 +4483,31 @@
             "Zoom Visibility": 4,
             "notes": "The rules were that you can build anywhere, with any blocks, even on top of buildings, so long as you do not block the front door. A sort of slum town. The edit history of the linked document dates to July of 2017. Replaymod flyaround video: https://www.youtube.com/watch?v=-hdX40M0o90",
             "id": "5e9199a5-20b3-49b2-9660-ec8b71334af1"
+        },
+        {
+            "name": "Risk",
+            "x": 8000,
+            "z": 4300,
+            "nation": "Monterrey (Formerly a gazillion people)",
+            "contact": "u/Transfatismyname",
+            "Zoom Visibility": 4,
+            "id": "cc19e2f4-d516-411b-87b4-3aef3159f6e9"
+        },
+        {
+            "name": "Risk Farming Island",
+            "x": 8686,
+            "z": 5454,
+            "nation": "Cortesia Del Mar (Formerly a gazillion people)",
+            "contact": "IceCarim#1541, Yodabird19#1542",
+            "discord": "z",
+            "web": "https://www.reddit.com/r/civclassics/comments/8swvfv/map_of_claims_june_2018/e1462iq/",
+            "wiki": "https://civwiki.org/wiki/Vitelia",
+            "symbol": "https://cdn.discordapp.com/attachments/480215858040274944/486081548156796929/image0.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 4,
+            "notes": "formerly Thaegon under @Jenny#9626 See also https://www.reddit.com/r/civclassics/comments/8zetcu/official_claims_for_risk_160718/e2ijc13/?context=10000",
+            "nickname": "Risk Farming Island",
+            "id": "04806c5f-6720-4df0-8350-82bd1df9a3e6"
         },
         {
             "name": "Rocco",
@@ -5522,22 +5571,6 @@
             "nickname": "Visegrad",
             "id": "45c79ca1-2b55-4c3b-8ca0-2148db549b77",
             "Appomattox Builder's Association - Rating": "-"
-        },
-        {
-            "name": "Vitelia",
-            "x": 8686,
-            "z": 5454,
-            "nation": "Vitelia, formerly Thalassocracy/Risk Republic, formerly Lowland Hundred",
-            "contact": "Maxpowerboy, @kebb#1755",
-            "discord": "https://discord.gg/x4Rjtc8",
-            "web": "https://www.reddit.com/r/civclassics/comments/8swvfv/map_of_claims_june_2018/e1462iq/",
-            "wiki": "https://civwiki.org/wiki/Vitelia",
-            "symbol": "https://cdn.discordapp.com/attachments/480215858040274944/486081548156796929/image0.png",
-            "visitors": "ask first",
-            "Zoom Visibility": 4,
-            "notes": "formerly Thaegon under @Jenny#9626 See also https://www.reddit.com/r/civclassics/comments/8zetcu/official_claims_for_risk_160718/e2ijc13/?context=10000",
-            "nickname": "Vitelia",
-            "id": "04806c5f-6720-4df0-8350-82bd1df9a3e6"
         },
         {
             "name": "Wabbittown",
