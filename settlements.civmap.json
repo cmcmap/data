@@ -803,18 +803,6 @@
             "id": "8173be08-24ec-424f-acdf-b21ce96bbb71"
         },
         {
-            "name": "Ashelor",
-            "x": 4320,
-            "z": 4857,
-            "nation": "Kingdom of Ashelor",
-            "contact": "Orinnari /u/Kroolista @Dioxain#2968",
-            "discord": "https://discord.gg/r7AV8S4",
-            "web": "https://ashelor.cc",
-            "visitors": "welcome",
-            "Zoom Visibility": 4,
-            "id": "62da2fc3-60ba-49a4-898b-817051e47d9d"
-        },
-        {
             "name": "Ashguard Basin",
             "x": -9744,
             "z": 4154,
@@ -1239,7 +1227,7 @@
             "contact": "/u/bolledeboll",
             "image": "https://i.imgur.com/0sQNIdl.png",
             "symbol": "https://i.imgur.com/LDopYP4.jpg",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 4,
             "notes": "Contact /u/Gjum if you have any info about this",
             "id": "4e3cd8f4-489b-461b-8f0f-32a996aa7038",
             "SpecificLanguage's Notes - Tier": 6,
@@ -1698,7 +1686,7 @@
             "contact": "/u/bolledeboll",
             "image": "https://i.imgur.com/odkDlm7.png",
             "symbol": "https://i.imgur.com/LDopYP4.jpg",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 4,
             "nickname": "Dithmarschen",
             "id": "3bab1056-aef1-410c-a630-126e896a3948",
             "SpecificLanguage's Notes - Tier": 8,
@@ -3962,6 +3950,18 @@
             "SpecificLanguage's Notes - Tier": 7,
             "SpecificLanguage's Notes - Notes": "As a japanese-like town, it makes a good effort but not as great as Genso.",
             "Appomattox Builder's Association - Rating": "-"
+        },
+        {
+            "name": "Old Ashelor",
+            "x": 4320,
+            "z": 4857,
+            "nation": "Kingdom of Ashelor",
+            "contact": "Orinnari /u/Kroolista @Dioxain#2968",
+            "discord": "https://discord.gg/r7AV8S4",
+            "web": "https://ashelor.cc",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "62da2fc3-60ba-49a4-898b-817051e47d9d"
         },
         {
             "name": "Old Cyrene",
