@@ -77,10 +77,11 @@ def main(argv):
                 area += polygon_area(poly)
 
         # Nation
-        if nation in areas:
-            areas[nation] += area
-        else:
-            areas[nation] = area
+        for nat in nation.split('/'):
+            if nat in areas:
+                areas[nat] += area
+            else:
+                areas[nat] = area
         # Territories
         if territory in areas_t:
             areas_t[territory] += area
