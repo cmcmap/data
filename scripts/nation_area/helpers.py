@@ -2,6 +2,5 @@
 ACRONYMS = {"CCCP": "Communist Cities Caretaker-Protectorate",
             "JCC": "Joint Coalition Control"}
 
-
-FLAG_REDIRECTS = {"New Sovia":"Sovia",
-                  "Joint DUMP Control":"DUMP"}
+# A hacky manual way of dealing with redirected flag templates
+FLAG_REDIRECTS = ["New Sovia"]
