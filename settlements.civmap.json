@@ -729,21 +729,6 @@
             "Appomattox Builder's Association - Rating": "-"
         },
         {
-            "name": "Arellani",
-            "x": 2740,
-            "z": 1075,
-            "nation": "Adina",
-            "contact": "Incentives, Kalipso_Angel",
-            "image": "https://i.imgur.com/AYdGucZ.png",
-            "image_album": "https://imgur.com/a/dPExNLP",
-            "discord": "https://discord.gg/QyM35B5",
-            "wiki": "https://civwiki.org/wiki/Adina#Arellani",
-            "symbol": "https://cdn.discordapp.com/attachments/595687812116905995/595688115394314252/image0.png",
-            "Zoom Visibility": 3,
-            "nickname": "Arellani",
-            "id": "89fd289b-ca4d-497f-ab80-49f66571aa02"
-        },
-        {
             "name": "Arem",
             "x": 7717,
             "z": 3950,
@@ -1436,7 +1421,7 @@
             "discord": "https://discordapp.com/invite/wKPVCB9",
             "wiki": "https://civwiki.org/wiki/Lusitania#Centrum_Cellas",
             "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
-            "Zoom Visibility": 4,
+            "Zoom Visibility": 3,
             "id": "f053baa9-9813-4a09-ac9d-d1cb13e5a84b"
         },
         {
@@ -2495,18 +2480,6 @@
             "id": "d3b72e45-7a3c-45d0-b964-ce68f90050c9"
         },
         {
-            "name": "Ionia",
-            "x": 7000,
-            "z": 4500,
-            "nation": "Monterrey (Formerly Georgia)",
-            "contact": "u/Transfatismyname",
-            "web": "https://www.reddit.com/r/civclassics/comments/8z7y09/updated_federation_of_georgia_claims_around_7000/",
-            "wiki": "https://civwiki.org/wiki/Georgia",
-            "Zoom Visibility": 4,
-            "nickname": "Ionia",
-            "id": "2e963d7f-9616-4f4c-afb9-d674f81dcde4"
-        },
-        {
             "name": "Ipeni",
             "x": 3243,
             "z": 6186,
@@ -3238,7 +3211,7 @@
             "discord": "https://discordapp.com/invite/wKPVCB9",
             "wiki": "https://civwiki.org/wiki/Lusitania#Mersea",
             "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 4,
             "id": "4fc3b2e1-666c-4779-987f-67842cbbe92b"
         },
         {
@@ -5713,6 +5686,20 @@
             "Zoom Visibility": 4,
             "nickname": "Xalta Moro",
             "id": "1acea9eb-f493-4754-b015-89d635d26bc2"
+        },
+        {
+            "name": "Xi'An",
+            "x": 2740,
+            "z": 1075,
+            "nation": "Adina",
+            "contact": "Incentives, Kalipso_Angel",
+            "image": "https://i.imgur.com/AYdGucZ.png",
+            "image_album": "https://imgur.com/a/dPExNLP",
+            "discord": "https://discord.gg/QyM35B5",
+            "symbol": "https://cdn.discordapp.com/attachments/595687812116905995/595688115394314252/image0.png",
+            "Zoom Visibility": 3,
+            "nickname": "Xi'An",
+            "id": "89fd289b-ca4d-497f-ab80-49f66571aa02"
         },
         {
             "name": "Yujo",
