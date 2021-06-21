@@ -543,6 +543,14 @@
             "id": "b9dd5d05-60f4-4dca-9d16-7103bc03a98d"
         },
         {
+            "name": "Amyr",
+            "x": 6611,
+            "z": 3873,
+            "nation": "Amyr",
+            "contact": "WNS2",
+            "Zoom Visibility": 2
+        },
+        {
             "name": "Anburon",
             "x": -1070,
             "z": -500,
@@ -892,6 +900,17 @@
             "web": "https://www.reddit.com/r/civclassics/comments/9cmrv2/the_land_of_annwyn/",
             "Zoom Visibility": 4,
             "id": "2cb6bd58-3f77-48e4-83e5-bf7b8d59862f"
+        },
+        {
+            "name": "Awoo's Playground",
+            "x": 9191,
+            "z": -9191,
+            "nation": "Hjaltland",
+            "contact": "Shapha#7649, awooooo",
+            "image": "https://static.miraheze.org/civclassicwiki/4/4c/USA.jpg",
+            "visitors": "KEEP OUT",
+            "Zoom Visibility": 3,
+            "id": "f32ed5d7-15af-4675-b4f0-6c7ec7d0264e"
         },
         {
             "name": "Axiom",
@@ -1290,10 +1309,11 @@
             "nation": "Capeland",
             "contact": "AK#1775",
             "image": "https://cdn.discordapp.com/attachments/237546979301916672/845772270101463090/Cape_Cocoa.png",
-            "wiki": "https://civwiki.org/wiki/Cape_Cocoa",
+            "wiki": "https://civwiki.org/wiki/Capeland",
             "symbol": "https://cdn.discordapp.com/attachments/237546979301916672/845772140493406248/FaDMZGw.png",
             "visitors": "welcome",
             "Zoom Visibility": 1,
+            "nickname": "Capeland",
             "id": "99f0b484-ed33-4c07-9b34-99c8527e7363"
         },
         {
@@ -1540,6 +1560,15 @@
             "id": "b96b6dbf-f53a-4f11-8235-76e7ccdb3861"
         },
         {
+            "name": "Cora",
+            "x": 6300,
+            "z": -9700,
+            "nation": "Imperial Kingdom of Fish",
+            "Zoom Visibility": 3,
+            "nickname": "Kingdom of Fish",
+            "id": "08c7c107-e757-401a-9708-ddbb59316810"
+        },
+        {
             "name": "Corinth",
             "x": 8200,
             "z": 800,
@@ -1585,19 +1614,6 @@
             "SpecificLanguage's Notes - Notes": "Overtime it will grow, great builds but right now it feels like a nice park."
         },
         {
-            "name": "Craiggrad",
-            "x": 1945,
-            "z": -951,
-            "nation": "Verda (Margravate of Cragia)",
-            "contact": "u/MagmusCivcraft",
-            "wiki": "https://civwiki.org/wiki/Verda#Craiggrad",
-            "symbol": "https://cdn.discordapp.com/attachments/320668933260705795/327863358000726028/Verda_Flag.png",
-            "Zoom Visibility": 4,
-            "nickname": "Craiggrad",
-            "id": "ce600891-8169-4b70-8f7c-e101533e3538",
-            "Appomattox Builder's Association - Rating": "-"
-        },
-        {
             "name": "CWCville",
             "x": 2560,
             "z": -8600,
@@ -1641,6 +1657,14 @@
             "symbol": "https://static.miraheze.org/civclassicwiki/e/ed/Bcf.png",
             "Zoom Visibility": 3,
             "id": "575ef681-8c26-4920-9c3c-1d40b0a6b3af"
+        },
+        {
+            "name": "Denver",
+            "x": 4133,
+            "z": 4953,
+            "nation": "Ashelor",
+            "Zoom Visibility": 4,
+            "id": "b3a396d2-dbeb-4002-a590-4984fb1bfd6c"
         },
         {
             "name": "Derel",
@@ -1785,6 +1809,25 @@
             "id": "5477109e-3514-47e0-a0cc-0dfd99e9bf67"
         },
         {
+            "name": "Ellen",
+            "x": -9763,
+            "z": 6086,
+            "Zoom Visibility": 4,
+            "id": "cc49e4ca-dcd3-4b69-af51-1bd8ebf445c6"
+        },
+        {
+            "name": "Elonorth",
+            "x": 3844,
+            "z": 369,
+            "nation": "Capeland",
+            "contact": "Bartleby#7765, AK#1775",
+            "wiki": "https://civwiki.org/wiki/Capeland",
+            "symbol": "https://cdn.discordapp.com/attachments/237546979301916672/845772140493406248/FaDMZGw.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "id": "99f0b484-ed33-4c07-9b34-99c8527e7363"
+        },
+        {
             "name": "Elwen",
             "x": 2830,
             "z": -581,
@@ -1927,6 +1970,16 @@
             "Zoom Visibility": 4,
             "notes": "Contact /u/Gjum if you have any info about this",
             "id": "7c9d686d-b16b-4720-a6e1-cd92417f6c0d"
+        },
+        {
+            "name": "Flijora",
+            "x": 7002,
+            "z": 3716,
+            "nation": "Krowatia",
+            "contact": "2ELL/LLE2",
+            "Zoom Visibility": 3,
+            "nickname": "Krowatia",
+            "id": "a410241d-392a-41e8-b78c-9f03d4f36eca"
         },
         {
             "name": "Forland",
@@ -2284,6 +2337,24 @@
             "SpecificLanguage's Notes - Notes": "For an industrial city, there\u2019s a good effort at making a city."
         },
         {
+            "name": "Highpoint",
+            "x": -8500,
+            "z": 6500,
+            "nation": "Southshire",
+            "contact": "StrPlatinum",
+            "image": "https://i.imgur.com/MyzXTTn.png",
+            "image_album": "https://imgur.com/a/uk1S6",
+            "discord": "https://discord.gg/6aNyc6h",
+            "wiki": "https://civwiki.org/wiki/Southshire",
+            "symbol": "https://cdn.discordapp.com/attachments/392063725378469911/422375645570531330/unknown.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "id": "cc7b575b-b544-4e6b-87ee-bc0c11db4ea6",
+            "SpecificLanguage's Notes - Tier": 10,
+            "SpecificLanguage's Notes - Importance": "important",
+            "Appomattox Builder's Association - Rating": "-"
+        },
+        {
             "name": "Hjaltland",
             "x": -3068,
             "z": 10761,
@@ -2564,15 +2635,6 @@
             "Zoom Visibility": 4,
             "id": "16f5b06a-9d47-4f18-9904-ba0f50ad124a",
             "Appomattox Builder's Association - Rating": "-"
-        },
-        {
-            "name": "Jae'kial",
-            "x": 2928,
-            "z": 1350,
-            "nation": "The Stones of Jae'kial and Buru'kendi (TSJB)",
-            "contact": "Draekiean /u/dreakian",
-            "Zoom Visibility": 4,
-            "id": "37afc05b-c847-45a4-8553-86548d5308b5"
         },
         {
             "name": "Jasco & Blazerr Farms",
@@ -2968,7 +3030,7 @@
             "Appomattox Builder's Association - Rating": "-"
         },
         {
-            "name": "Leninnsk",
+            "name": "Leninsk",
             "x": 7450,
             "z": 6239,
             "nation": "Maltovia",
@@ -3139,6 +3201,19 @@
             "visitors": "welcome",
             "Zoom Visibility": 4,
             "id": "\"c76297fe-5a3d-49bc-98ef-736c2c37cbb3"
+        },
+        {
+            "name": "Lut\u00e8ce",
+            "x": -7850,
+            "z": -2570,
+            "nation": "Lumi\u00e8re",
+            "contact": "AmandaCC",
+            "wiki": "https://civwiki.org/wiki/Lumi\u00e8re",
+            "symbol": "https://static.miraheze.org/civwikiwiki/thumb/6/66/FlagLumiere.png/270px-FlagLumiere.png",
+            "visitors": "ask first",
+            "Zoom Visibility": 2,
+            "nickname": "Lumi\u00e8re",
+            "id": "45e4514a-3ad1-4d2e-a410-f23bcbf359d4"
         },
         {
             "name": "Luxemburg",
@@ -3495,24 +3570,6 @@
             "id": "0e398573-0ea9-40e9-82ae-fad6da0b4e34"
         },
         {
-            "name": "New Amsterdam",
-            "x": -8200,
-            "z": -2750,
-            "nation": "Grand Imperium (Isi), formerly Wallachia, formerly Revolutionary Confederation",
-            "contact": "attoprak (atto)",
-            "image": "https://cdn.discordapp.com/attachments/658773139689570304/692457525903360040/1.png",
-            "image_album": "https://imgur.com/a/LGVgMiZ",
-            "discord": "https://discord.gg/PQZYzWW",
-            "web": "r/GrandImperium",
-            "wiki": "https://civwiki.org/wiki/Amsterdam",
-            "symbol": "https://i.imgur.com/673iInD.jpg",
-            "visitors": "ask first",
-            "Zoom Visibility": 3,
-            "notes": "Founded during the first year of Civclassic by now inactive players, Amsterdam is now part of the Isi Province of Grand Imperium. After Highrock became inactive, Amsterdam was reclaimed and restored by the Grand Imperium as New Amsterdam. More info on the wiki page.",
-            "nickname": "Amsterdam",
-            "id": "4376b374-2cd0-44e3-84ef-946dd0203359"
-        },
-        {
             "name": "New Antioch",
             "x": -930,
             "z": 300,
@@ -3833,6 +3890,24 @@
             "id": "b64ec4a7-e071-475d-b920-ff4da668f05d"
         },
         {
+            "name": "Nouvelle-Amsterdam",
+            "x": -8200,
+            "z": -2750,
+            "nation": "Lumi\u00e8re (formerly Grand Imperium, formerly Wallachia, formerly Revolutionary Confederation)",
+            "contact": "AmandaCC",
+            "image": "https://cdn.discordapp.com/attachments/658773139689570304/692457525903360040/1.png",
+            "image_album": "https://imgur.com/a/LGVgMiZ",
+            "discord": "https://discord.gg/PQZYzWW",
+            "web": "r/GrandImperium",
+            "wiki": "https://civwiki.org/wiki/Amsterdam",
+            "symbol": "https://i.imgur.com/673iInD.jpg",
+            "visitors": "ask first",
+            "Zoom Visibility": 3,
+            "notes": "Founded during the first year of Civclassic by now inactive players, Amsterdam is now part of the Isi Province of Grand Imperium. After Highrock became inactive, Amsterdam was reclaimed and restored by the Grand Imperium as New Amsterdam. More info on the wiki page.",
+            "nickname": "Amsterdam",
+            "id": "4376b374-2cd0-44e3-84ef-946dd0203359"
+        },
+        {
             "name": "Nova Pacem",
             "x": -1200,
             "z": 8950,
@@ -4150,6 +4225,14 @@
             "Appomattox Builder's Association - Rating": "-"
         },
         {
+            "name": "Piltover",
+            "x": 4914,
+            "z": 2584,
+            "nation": "Piltover",
+            "contact": "Patar15",
+            "Zoom Visibility": 3
+        },
+        {
             "name": "Pinegarden",
             "x": 7060,
             "z": -8860,
@@ -4237,17 +4320,6 @@
             "contact": "u/Crimeo",
             "Zoom Visibility": 4,
             "id": "bcca40ce-8d4e-4e9f-a832-46c921e51d04"
-        },
-        {
-            "name": "Poortea Vault",
-            "x": 9191,
-            "z": -9190,
-            "nation": "USA",
-            "contact": "poortea",
-            "image": "https://static.miraheze.org/civclassicwiki/4/4c/USA.jpg",
-            "Zoom Visibility": 3,
-            "nickname": "Poortea Vault",
-            "id": "f32ed5d7-15af-4675-b4f0-6c7ec7d0264e"
         },
         {
             "name": "Port Grestin",
@@ -4467,22 +4539,6 @@
             "id": "cc19e2f4-d516-411b-87b4-3aef3159f6e9"
         },
         {
-            "name": "Risk Farming Island",
-            "x": 8686,
-            "z": 5454,
-            "nation": "Cortesia Del Mar (Formerly a gazillion people)",
-            "contact": "IceCarim#1541, Yodabird19#1542",
-            "discord": "z",
-            "web": "https://www.reddit.com/r/civclassics/comments/8swvfv/map_of_claims_june_2018/e1462iq/",
-            "wiki": "https://civwiki.org/wiki/Vitelia",
-            "symbol": "https://cdn.discordapp.com/attachments/480215858040274944/486081548156796929/image0.png",
-            "visitors": "welcome",
-            "Zoom Visibility": 4,
-            "notes": "formerly Thaegon under @Jenny#9626 See also https://www.reddit.com/r/civclassics/comments/8zetcu/official_claims_for_risk_160718/e2ijc13/?context=10000",
-            "nickname": "Risk Farming Island",
-            "id": "04806c5f-6720-4df0-8350-82bd1df9a3e6"
-        },
-        {
             "name": "Rocco",
             "x": -8050,
             "z": 3750,
@@ -4577,6 +4633,24 @@
             "id": "9005503d-a409-4718-94d0-11dadc0ff286",
             "Appomattox Builder's Association - Rating": "3.5",
             "Appomattox Builder's Association - Note": "Small but very cosy town"
+        },
+        {
+            "name": "Samcester",
+            "x": -7141,
+            "z": 6190,
+            "nation": "Southshire",
+            "contact": "StrPlatinum",
+            "image": "https://i.imgur.com/MyzXTTn.png",
+            "image_album": "https://imgur.com/a/uk1S6",
+            "discord": "https://discord.gg/6aNyc6h",
+            "wiki": "https://civwiki.org/wiki/Southshire",
+            "symbol": "https://cdn.discordapp.com/attachments/392063725378469911/422375645570531330/unknown.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "id": "cc7b575b-b544-4e6b-87ee-bc0c11db4ea6",
+            "SpecificLanguage's Notes - Tier": 10,
+            "SpecificLanguage's Notes - Importance": "important",
+            "Appomattox Builder's Association - Rating": "-"
         },
         {
             "name": "Sankt Most",
@@ -4808,6 +4882,19 @@
             "id": "66545b90-2822-4ed2-89f7-0dbf1c0d0962"
         },
         {
+            "name": "Spatine",
+            "x": 1945,
+            "z": -951,
+            "nation": "Imperial Truidence (Formerly Verda)",
+            "contact": "ObtainableSpatula",
+            "wiki": "https://civwiki.org/wiki/Verda#Craiggrad",
+            "symbol": "https://cdn.discordapp.com/attachments/320668933260705795/327863358000726028/Verda_Flag.png",
+            "Zoom Visibility": 4,
+            "nickname": "Spatine",
+            "id": "ce600891-8169-4b70-8f7c-e101533e3538",
+            "Appomattox Builder's Association - Rating": "-"
+        },
+        {
             "name": "Speightstadt",
             "x": -6909,
             "z": -1202,
@@ -4823,6 +4910,13 @@
             "id": "63d7d069-ccb9-4023-8bae-126a56d6d73b",
             "SpecificLanguage's Notes - Tier": 5,
             "SpecificLanguage's Notes - Notes": "Rather simple builds that don't add much value to the city."
+        },
+        {
+            "name": "St. Marcus's Monastery",
+            "x": 8481,
+            "z": 1677,
+            "Zoom Visibility": 4,
+            "id": "4cb956d7-2e7b-491f-bfef-bba3fa37f303"
         },
         {
             "name": "Starcrash Brigade",
@@ -5025,6 +5119,20 @@
             "nickname": "Terestai",
             "id": "2666ce64-39ec-44d8-bd6b-fa1908e2ae24",
             "Appomattox Builder's Association - Rating": "-"
+        },
+        {
+            "name": "Thaegon",
+            "x": 8686,
+            "z": 5454,
+            "nation": "Cortesia Del Mar (Formerly a gazillion people)",
+            "contact": "IceCarim#1541, Yodabird19#1542",
+            "discord": "z",
+            "web": "https://www.reddit.com/r/civclassics/comments/8swvfv/map_of_claims_june_2018/e1462iq/",
+            "visitors": "welcome",
+            "Zoom Visibility": 4,
+            "notes": "formerly Thaegon under @Jenny#9626 See also https://www.reddit.com/r/civclassics/comments/8zetcu/official_claims_for_risk_160718/e2ijc13/?context=10000",
+            "nickname": "Thaegon",
+            "id": "04806c5f-6720-4df0-8350-82bd1df9a3e6"
         },
         {
             "name": "The Crucible Vault",
@@ -5674,6 +5782,18 @@
             "Zoom Visibility": 2,
             "nickname": "Westmore",
             "id": "f6ad892c-4187-4a2f-b831-6cc0e186aa13"
+        },
+        {
+            "name": "Wolken",
+            "x": 4759,
+            "z": 2829,
+            "nation": "Wolken",
+            "contact": "Seeking#7209",
+            "discord": "https://discord.com/invite/HQxUzqUqjh",
+            "wiki": "https://civwiki.org/wiki/Kingdom_of_Fish",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "29f8b1b5-dd7d-4ad2-bbf7-1c72418cfc1b"
         },
         {
             "name": "Xalta Moro",
