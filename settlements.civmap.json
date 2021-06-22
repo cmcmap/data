@@ -1314,7 +1314,7 @@
             "visitors": "welcome",
             "Zoom Visibility": 1,
             "nickname": "Capeland",
-            "id": "99f0b484-ed33-4c07-9b34-99c8527e7363"
+            "id": "89f0b484-ed33-4c07-9b34-99c8527e7363"
         },
         {
             "name": "Cape Cyprus",
@@ -1566,7 +1566,7 @@
             "nation": "Imperial Kingdom of Fish",
             "Zoom Visibility": 3,
             "nickname": "Kingdom of Fish",
-            "id": "08c7c107-e757-401a-9708-ddbb59316810"
+            "id": "18c7c107-e757-401a-9708-ddbb59316810"
         },
         {
             "name": "Corinth",
@@ -1614,6 +1614,15 @@
             "SpecificLanguage's Notes - Notes": "Overtime it will grow, great builds but right now it feels like a nice park."
         },
         {
+            "name": "Crescent Valley",
+            "x": 8302,
+            "z": 2528,
+            "nation": "CCCP",
+            "contact": "ninjajackh12, Lowtuff",
+            "Zoom Visibility": 3,
+            "id": "8e6efc1e-b866-4c6e-93a0-130e2f2af773"
+        },
+        {
             "name": "CWCville",
             "x": 2560,
             "z": -8600,
@@ -1644,6 +1653,16 @@
             "symbol": "https://static.miraheze.org/civclassicwiki/e/ed/Bcf.png",
             "Zoom Visibility": 3,
             "id": "5a067d0f-e1aa-4628-880f-ceeda4d77cf2"
+        },
+        {
+            "name": "Danville",
+            "x": 2626,
+            "z": 12331,
+            "nation": "Yoahtl (Formerly Laconia)",
+            "symbol": "https://static.miraheze.org/civclassicwiki/e/eb/Laconia_Flag.png",
+            "Zoom Visibility": 4,
+            "id": "45e01a71-3805-454d-abff-24754175a7a3",
+            "Appomattox Builder's Association - Rating": "-"
         },
         {
             "name": "Demeton",
@@ -2349,7 +2368,7 @@
             "symbol": "https://cdn.discordapp.com/attachments/392063725378469911/422375645570531330/unknown.png",
             "visitors": "welcome",
             "Zoom Visibility": 2,
-            "id": "cc7b575b-b544-4e6b-87ee-bc0c11db4ea6",
+            "id": "dc7b575b-b544-4e6b-87ee-bc0c11db4ea6",
             "SpecificLanguage's Notes - Tier": 10,
             "SpecificLanguage's Notes - Importance": "important",
             "Appomattox Builder's Association - Rating": "-"
@@ -2964,18 +2983,6 @@
             "Zoom Visibility": 5,
             "notes": "Contact /u/Gjum if you have any info about this",
             "id": "7c694e89-86d1-4e95-b836-b39a7c8699a5"
-        },
-        {
-            "name": "Laconia",
-            "x": 2626,
-            "z": 12331,
-            "nation": "Laconia",
-            "contact": "Kickinchicken",
-            "wiki": "https://civwiki.org/wiki/Laconia",
-            "symbol": "https://static.miraheze.org/civclassicwiki/e/eb/Laconia_Flag.png",
-            "Zoom Visibility": 4,
-            "id": "45e01a71-3805-454d-abff-24754175a7a3",
-            "Appomattox Builder's Association - Rating": "-"
         },
         {
             "name": "Lambat City",
@@ -4038,6 +4045,20 @@
             "id": "61ed87d3-ea1a-40c2-a4e2-2fd756e604d8"
         },
         {
+            "name": "Olimpia",
+            "x": -7280,
+            "z": -3065,
+            "nation": "Lusitania",
+            "contact": "Metriximor or ThomasNoronha/thedanielfreitas",
+            "image": "https://cdn.discordapp.com/attachments/422250595911729155/461884581453234186/unknown.png",
+            "image_album": "https://imgur.com/a/8ueue",
+            "discord": "https://discordapp.com/invite/wKPVCB9",
+            "wiki": "https://civwiki.org/wiki/Lusitania",
+            "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
+            "Zoom Visibility": 2,
+            "id": "51a6ad61-f7e0-4e8e-b00a-d33c4d49ec00"
+        },
+        {
             "name": "Olympic Village",
             "x": -3680,
             "z": 6880,
@@ -4407,6 +4428,15 @@
             "id": "ccab98c8-6c4e-49bb-afbd-fe9cfac04968"
         },
         {
+            "name": "Querocia",
+            "x": 9052,
+            "z": 2845,
+            "nation": "Monterrey",
+            "contact": "MrDoomBringer/Roskolnikov",
+            "Zoom Visibility": 3,
+            "id": "7b92c7d9-22a9-4373-a97b-6de5f30e85fe"
+        },
+        {
             "name": "Rainier",
             "x": 7777,
             "z": 5100,
@@ -4647,7 +4677,7 @@
             "symbol": "https://cdn.discordapp.com/attachments/392063725378469911/422375645570531330/unknown.png",
             "visitors": "welcome",
             "Zoom Visibility": 2,
-            "id": "cc7b575b-b544-4e6b-87ee-bc0c11db4ea6",
+            "id": "bc7b575b-b544-4e6b-87ee-bc0c11db4ea6",
             "SpecificLanguage's Notes - Tier": 10,
             "SpecificLanguage's Notes - Importance": "important",
             "Appomattox Builder's Association - Rating": "-"
@@ -4694,6 +4724,13 @@
             "nation": "Sealand",
             "Zoom Visibility": 5,
             "id": "a732ab3c-f022-4f86-b552-09110ce939dc"
+        },
+        {
+            "name": "Seaphan",
+            "x": -5099,
+            "z": 7732,
+            "Zoom Visibility": 4,
+            "id": "603d15c1-138a-4816-9f91-32f7dc466f9c"
         },
         {
             "name": "SecureMall",
@@ -4784,6 +4821,20 @@
             "notes": "Contact /u/Gjum if you have any info about this",
             "nickname": "Sister Republics",
             "id": "a2b95deb-a04a-4c2e-9ea9-b895071c92de"
+        },
+        {
+            "name": "Solace",
+            "x": -8080,
+            "z": -3760,
+            "nation": "Lusitania",
+            "contact": "Metriximor or MrLlamma",
+            "image": "https://cdn.discordapp.com/attachments/422250595911729155/461884581453234186/unknown.png",
+            "image_album": "https://imgur.com/a/8ueue",
+            "discord": "https://discordapp.com/invite/wKPVCB9",
+            "wiki": "https://civwiki.org/wiki/Lusitania",
+            "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
+            "Zoom Visibility": 2,
+            "id": "3ce1722a-2f75-4f8a-bbb3-fb1c4c391e60"
         },
         {
             "name": "Sophia",
