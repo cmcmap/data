@@ -4,13 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *" # At 0 minutes, 0 hours, every day of the month, every month, every day of the week
   workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Download and convert JSON data'     
-        required: true
-        default: 'warning'
-      tags:
-        description: 'Fetches the settlements google sheet as a .tsv file and converts it into JSON'  
 
 jobs:
   build:
