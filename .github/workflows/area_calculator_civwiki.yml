@@ -8,13 +8,6 @@ on:
     paths:
       - land_claims.civmap.json
   workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Updating Area Nations on CivWiki'     
-        required: true
-        default: 'warning'
-      tags:
-        description: 'Updates the area of nations on the List of Nations by Area'  
 
 jobs:
   run_script:
