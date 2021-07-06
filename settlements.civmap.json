@@ -1316,6 +1316,15 @@
             "Appomattox Builder's Association - Rating": "-"
         },
         {
+            "name": "CanvasBlue",
+            "x": -2240,
+            "z": -1473,
+            "nation": "Icenia",
+            "contact": "Artienia",
+            "Zoom Visibility": 4,
+            "id": "091df062-b720-4f26-b409-a7c2f4ff6c9f"
+        },
+        {
             "name": "Cape Cocoa",
             "x": 3840,
             "z": 665,
@@ -1593,6 +1602,16 @@
             "Zoom Visibility": 1,
             "nickname": "Caledonia",
             "id": "ddaa1193-5298-47c8-ae29-ed90aee93634"
+        },
+        {
+            "name": "Corse",
+            "x": -7650,
+            "z": -2050,
+            "nation": "Lumi\u00e8re (Formerly Riarexmer)",
+            "contact": "AmandaCC | u/DetectiveAmandaCC | Detective Amanda CC#1312",
+            "Zoom Visibility": 4,
+            "notes": "Contact the Unified Map Project if you have any info about this",
+            "id": "2baea2f3-e9bd-4935-928f-3a1873000e50"
         },
         {
             "name": "Corsica",
@@ -4556,17 +4575,6 @@
             "id": "20bbd470-80a3-47c8-aab2-11fe36ee6dd7"
         },
         {
-            "name": "Riarexmer",
-            "x": -7650,
-            "z": -2050,
-            "nation": "Riarexmer",
-            "contact": "u/donuts135",
-            "web": "https://www.reddit.com/r/civclassics/comments/9dq7ex/nation_of_riarexmer_land_claims/",
-            "Zoom Visibility": 4,
-            "notes": "Contact the Unified Map Project if you have any info about this",
-            "id": "2baea2f3-e9bd-4935-928f-3a1873000e50"
-        },
-        {
             "name": "Rio de Janeiro",
             "x": 2188,
             "z": -6256,
@@ -4902,6 +4910,26 @@
             "id": "d3c02cf7-3133-4f5e-b731-b14984738f15"
         },
         {
+            "name": "Southend",
+            "x": -7700,
+            "z": 5900,
+            "nation": "Southshire",
+            "contact": "StrPlatinum, Orinnari",
+            "image": "https://i.imgur.com/MyzXTTn.png",
+            "image_album": "https://imgur.com/a/uk1S6",
+            "discord": "https://discord.gg/6aNyc6h",
+            "wiki": "https://civwiki.org/wiki/Southshire",
+            "symbol": "https://cdn.discordapp.com/attachments/392063725378469911/422375645570531330/unknown.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 1,
+            "nickname": "Southend",
+            "id": "cc7b575b-b544-4e6b-87ee-bc0c11db4ea6",
+            "SpecificLanguage's Notes - Tier": 10,
+            "SpecificLanguage's Notes - Notes": "They\u2019ve built up this peninsula with maximum potential, with interesting surprises.",
+            "SpecificLanguage's Notes - Importance": "important",
+            "Appomattox Builder's Association - Rating": "-"
+        },
+        {
             "name": "southern walled village",
             "x": 326,
             "z": -4923,
@@ -4927,26 +4955,6 @@
             "Zoom Visibility": 4,
             "nickname": "Trekestan",
             "id": "1561ce73-5049-4612-965c-b3e496b95357"
-        },
-        {
-            "name": "Southshire",
-            "x": -7700,
-            "z": 5900,
-            "nation": "Southshire",
-            "contact": "StrPlatinum, Orinnari",
-            "image": "https://i.imgur.com/MyzXTTn.png",
-            "image_album": "https://imgur.com/a/uk1S6",
-            "discord": "https://discord.gg/6aNyc6h",
-            "wiki": "https://civwiki.org/wiki/Southshire",
-            "symbol": "https://cdn.discordapp.com/attachments/392063725378469911/422375645570531330/unknown.png",
-            "visitors": "welcome",
-            "Zoom Visibility": 1,
-            "nickname": "Southshire",
-            "id": "cc7b575b-b544-4e6b-87ee-bc0c11db4ea6",
-            "SpecificLanguage's Notes - Tier": 10,
-            "SpecificLanguage's Notes - Notes": "They\u2019ve built up this peninsula with maximum potential, with interesting surprises.",
-            "SpecificLanguage's Notes - Importance": "important",
-            "Appomattox Builder's Association - Rating": "-"
         },
         {
             "name": "Sovia",
