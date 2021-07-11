@@ -620,6 +620,17 @@
 			]
 		},
 		{
+			"name": "NCA Vault",
+			"owner": "NCA",
+			"contact": "@GDAN12#3180",
+			"notes": "Northern Coast Alliance Vault",
+			"id": "af441ad2-e734-4a74-8a0c-80b382cb284d",
+			"rectangle": [
+				[65, 5873],
+				[-20, 5793]
+			]
+		},
+		{
 			"name": "Nyasaland Vault",
 			"owner": "Nyasaland",
 			"contact": "@BennyX8764 BennyZ",
@@ -635,15 +646,6 @@
 					[4473, -3818],
 					[4473, -3795]
 				]
-			]
-		},
-		{
-			"name": "Okashima Vault",
-			"owner": "Okashima",
-			"id": "af441ad2-e734-4a74-8a0c-80b382cb284d",
-			"rectangle": [
-				[65, 5873],
-				[-20, 5793]
 			]
 		},
 		{
@@ -741,10 +743,10 @@
 			]
 		},
 		{
-			"name": "NeoVault",
+			"name": "Yoahtl Vault",
 			"owner": "Yoahtl",
 			"contact": "@GDAN12#3180",
-			"notes": "https://civwiki.org/wiki/Vault#Vault312/NeoVault_(Yoahtl)",
+			"notes": "aka NeoVault/Vault312 https://civwiki.org/wiki/Vault#Vault312/NeoVault_(Yoahtl)",
 			"id": "3c176308-f856-4013-874b-ddb995a12960",
 			"rectangle": [
 				[-4319, 7185],
