@@ -142,6 +142,17 @@
 			]
 		},
 		{
+			"name": "Fort Briggs",
+			"owner": "Mount September",
+			"contact": "@Godo#1629 Godomasta",
+			"notes": "https://civwiki.org/wiki/Vault#Fort_Briggs_(Mount_Augusta)",
+			"id": "f874fd97-a7e6-42d0-9962-d049f748101a",
+			"rectangle": [
+				[-5530, 2486],
+				[-5878, 2138]
+			]
+		},
+		{
 			"name": "HjaltVault",
 			"owner": "Hjaltland",
 			"contact": "@Blue#9826 BlueSylvaer",
@@ -150,6 +161,15 @@
 			"rectangle": [
 				[-2731, 11678],
 				[-3276, 11131]
+			]
+		},
+		{
+			"name": "Hyperion",
+			"contact": "@Naglafer#0299 @Player#1111 Bonkill",
+			"id": "c19755df-975e-4e83-b0ae-1e4ed9cf785b",
+			"rectangle": [
+				[-821, -3141],
+				[-1226, -3546]
 			]
 		},
 		{
@@ -580,17 +600,6 @@
 			]
 		},
 		{
-			"name": "Fort Briggs",
-			"owner": "Mount September",
-			"contact": "@Godo#1629 Godomasta",
-			"notes": "https://civwiki.org/wiki/Vault#Fort_Briggs_(Mount_Augusta)",
-			"id": "f874fd97-a7e6-42d0-9962-d049f748101a",
-			"rectangle": [
-				[-5530, 2486],
-				[-5878, 2138]
-			]
-		},
-		{
 			"name": "Mount September Vault",
 			"owner": "Mount September",
 			"contact": "@Square#6920 S_Q_U_A_R_E",
@@ -675,15 +684,6 @@
 			"rectangle": [
 				[-1139, -6615],
 				[-1240, -6716]
-			]
-		},
-		{
-			"name": "Thornia",
-			"owner": "Bloom",
-			"id": "c19755df-975e-4e83-b0ae-1e4ed9cf785b",
-			"rectangle": [
-				[-821, -3141],
-				[-1226, -3546]
 			]
 		},
 		{
