@@ -19,7 +19,7 @@
 		"stroke_color":"red"
 	},
 	"zoom_styles":{
-		"0":{
+		"-1":{
 			"fill_opacity":0.01,
 			"stroke_width":1
 		},
