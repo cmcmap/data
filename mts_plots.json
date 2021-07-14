@@ -1,5 +1,5 @@
-{"name":"MtS Land Properties","id":"ccmap/mts/land_properties","info":{"version":"3.0.0-beta3"},"presentations":[{
-	"name":"MtS Land Properties",
+{"name":"MtS Plots","id":"ccmap/mts/land_properties","info":{"version":"3.0.0-beta3"},"presentations":[{
+	"name":"MtS Plots",
 	"style_base":{
 		"label":null,
 		"fill_opacity":0.4,
@@ -11,6 +11,11 @@
 				"public":"#ff4444",
 				"reserved":"#4444ff"
 			}
+		},
+		"dash_array":{
+			"feature_key":"name",
+			"default":[],
+			"categories":{"?":[5,5]}
 		}
 	},
 	"style_highlight":{
