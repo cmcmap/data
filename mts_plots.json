@@ -1,9 +1,9 @@
-{"name":"MtS Plots","id":"ccmap/mts/land_properties","info":{"version":"3.0.0-beta3"},"presentations":[{
-	"name":"MtS Plots",
+{"name":"MtS Land Properties","id":"ccmap/mts/land_properties","info":{"version":"3.0.0-beta3"},"presentations":[{
+	"name":"MtS Land Properties",
 	"style_base":{
 		"label":null,
 		"fill_opacity":0.3,
-		"stroke_width":1,
+		"stroke_width":0.01,
 		"color":{
 			"feature_key":"type",
 			"default":"#ffff00",
@@ -17,6 +17,15 @@
 		"label":"$name",
 		"stroke_width":2,
 		"stroke_color":"red"
+	},
+	"zoom_styles":{
+		"0":{
+			"stroke_width":1
+		},
+		"2":{
+			"label":"$name",
+			"stroke_width":1
+		}
 	}
 }],"features":[
 {"name":"Museum","type":"public","id":"a236083a-c2bd-4027-a90f-6ed3f42dc737","polygon":[[[-4829,2281],[-4830,2406],[-4837,2420],[-4851,2427],[-4929,2427],[-4929,2305],[-4895,2305],[-4895,2281]]]},
@@ -72,7 +81,7 @@
 {"name":"Flameoguy","id":"80518c25-5f9a-431e-87bf-2360526ef721","rectangle":[[-5090,2132],[-5107,2108]]},
 {"name":"Flameoguy","id":"8cf16f4d-e5d9-461d-9cc9-cec7def4c950","rectangle":[[-5192,2051],[-5221,2023]]},
 {"name":"Flameoguy","id":"ac6e093b-dc0c-4452-8afb-9d543c2dc4d4","polygon":[[[-5157,2087],[-5157,2107],[-5169,2107],[-5169,2166],[-5117,2166],[-5117,2087]]]},
-{"name":"flipdoodle","id":"7a8effea-a510-48de-ad9b-8e571ac80f48","x":-4893,"z":1930,"radius":51},
+{"name":"flopdoodle","id":"7a8effea-a510-48de-ad9b-8e571ac80f48","x":-4893,"z":1930,"radius":51},
 {"name":"FreeStyl3","id":"e72ec190-c6fe-4f48-9ffe-39c5748ccc62","rectangle":[[-5046,2255],[-5061,2241]]},
 {"name":"FunkyPhantom\nSinewyPaladin74","id":"0a5b3b64-c714-4cbc-8db0-4b18506fd8a5","polygon":[[[-5106,2000],[-5093,2013],[-5076,2014],[-5072,2023],[-5068,2023],[-5065,2054],[-5106,2054]]]},
 {"name":"Gillian","id":"2c2baee1-fcea-4b2e-943e-f616f62df400","rectangle":[[-5008,2176],[-5025,2165]]},
