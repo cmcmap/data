@@ -2,7 +2,7 @@
 	"name":"MtS Land Properties",
 	"style_base":{
 		"label":null,
-		"fill_opacity":0.3,
+		"fill_opacity":0.4,
 		"stroke_width":0.01,
 		"color":{
 			"feature_key":"type",
@@ -20,10 +20,12 @@
 	},
 	"zoom_styles":{
 		"0":{
+			"fill_opacity":0.01,
 			"stroke_width":1
 		},
 		"2":{
 			"label":"$name",
+			"fill_opacity":0.01,
 			"stroke_width":1
 		}
 	}
