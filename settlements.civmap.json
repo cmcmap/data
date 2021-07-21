@@ -323,17 +323,6 @@
             "id": "eeb1b837-d03d-4644-b57e-3b22c750a867"
         },
         {
-            "name": "? (Yoahtl homestead)",
-            "x": -3900,
-            "z": 6820,
-            "nation": "Yoahtl",
-            "image": "https://i.imgur.com/tWylcfM.png",
-            "symbol": "https://static.miraheze.org/civclassicwiki/thumb/8/84/Yoahtl_Flag.png/200px-Yoahtl_Flag.png",
-            "Zoom Visibility": 5,
-            "notes": "Contact the Unified Map Project if you have any info about this",
-            "id": "ae99d2bb-49a3-411b-99cb-be94628b4d34"
-        },
-        {
             "name": "Aberdeen",
             "x": 8888,
             "z": 553,
@@ -3397,6 +3386,16 @@
             "Zoom Visibility": 4,
             "notes": "Contact the Unified Map Project if you have any more info about this",
             "id": "b19a2470-dc34-4e6d-b41b-1c4ad74051cd"
+        },
+        {
+            "name": "Mokotowskie homestead",
+            "x": -3900,
+            "z": 6820,
+            "nation": "Yoahtl",
+            "image": "https://i.imgur.com/tWylcfM.png",
+            "symbol": "https://static.miraheze.org/civclassicwiki/thumb/8/84/Yoahtl_Flag.png/200px-Yoahtl_Flag.png",
+            "Zoom Visibility": 4,
+            "id": "ae99d2bb-49a3-411b-99cb-be94628b4d34"
         },
         {
             "name": "Monaco",
