@@ -721,9 +721,11 @@
             "name": "Arem",
             "x": 7717,
             "z": 3950,
-            "nation": "Monterrey (Formerly ?)",
+            "nation": "Monterrey (Formerly: Republic of Asiro, Estiran Confederacy)",
             "contact": "MrDoomBringer",
+            "image": "https://cdn.discordapp.com/attachments/812188404028669972/863839936729710602/unknown.png",
             "Zoom Visibility": 4,
+            "notes": "Founded in 2020",
             "id": "e6bb3230-5656-4b09-bcfd-4e88e6ad89cb"
         },
         {
@@ -933,11 +935,11 @@
             "name": "Balonderosa",
             "x": 7900,
             "z": 4830,
-            "nation": "Akai",
+            "nation": "Monterrey (Formerly: Akai)",
             "contact": "JBug, fk_54",
             "symbol": "https://cdn.discordapp.com/attachments/326139018288824322/485553202343706624/Akai_master_logo_darker.png",
             "Zoom Visibility": 4,
-            "nickname": "Akai",
+            "nickname": "Monterrey (Formerly: Akai)",
             "id": "b3ca913d-afb2-4e9b-811b-47b1165cc2da"
         },
         {
@@ -1713,9 +1715,11 @@
             "name": "Diora",
             "x": 7800,
             "z": 4450,
-            "nation": "Monterrey (Formerly a gazillion people)",
+            "nation": "Monterrey (Formerly: Third Federal Republic of Georgia, Thalassocracy, Vitelia, Fourth Federal Republic of Georgia, Republic of Asiro, Estiran Confederacy)",
             "contact": "MrDoomBringer",
+            "image": "https://cdn.discordapp.com/attachments/812188404028669972/863840618593910794/unknown.png",
             "Zoom Visibility": 4,
+            "notes": "Formerly named Savannah",
             "nickname": "Georgia",
             "id": "6de5e990-d504-4e0d-be16-241b99da5354"
         },
@@ -1766,6 +1770,17 @@
             "visitors": "ask first",
             "Zoom Visibility": 3,
             "id": "b55875af-d797-457d-8468-b1d775fb48ec"
+        },
+        {
+            "name": "Dulaman",
+            "x": 2110,
+            "z": -12200,
+            "contact": "LemonPickles#1558",
+            "image": "https://cdn.discordapp.com/attachments/244263315059113985/867790924510396462/2021-07-22_09.30.27.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "notes": "Founded 7/13/2021",
+            "id": "c103d069-1246-4694-add7-afffd905bbc7"
         },
         {
             "name": "Dutch Port",
@@ -2979,14 +2994,14 @@
             "name": "Krowa",
             "x": 7070,
             "z": 5170,
-            "nation": "Vitelia, formerly Thalassocracy, formerly Rowa",
+            "nation": "Krowatia (Formerly: Rowa, Thalassocracy, Vitelia, Maltovia, CCCP)",
             "contact": "u/ShaShabbaRanksSha",
             "image": "https://static.miraheze.org/civclassicwiki/1/12/Townofkrowa.png",
             "image_album": "https://imgur.com/a/E19r0DD",
             "discord": "https://discord.gg/QkS87er",
             "wiki": "https://civwiki.org/wiki/Rowa",
             "symbol": "https://static.miraheze.org/civclassicwiki/a/a4/Rowaflag.jpg",
-            "Zoom Visibility": 4,
+            "Zoom Visibility": 3,
             "notes": "given to Thalassocracy when the Rowa people left the +,+",
             "nickname": "Rowa",
             "id": "c7ec9788-e080-4a73-b2f8-088615ec8459",
@@ -3158,6 +3173,16 @@
             "id": "540513ef-6921-443e-865e-8e71fad7933d"
         },
         {
+            "name": "Little Sahara Outpost",
+            "x": 5650,
+            "z": 1710,
+            "nation": "Gigachadtopia",
+            "contact": "Mushroomfly (Zelmisburg#5974)",
+            "image": "https://cdn.discordapp.com/attachments/812188404028669972/863669663111708692/unknown.png",
+            "Zoom Visibility": 4,
+            "id": "9be91e79-3652-4439-937d-925b5b0375ab"
+        },
+        {
             "name": "Little Saskatchewan",
             "x": -7640,
             "z": -3888,
@@ -3221,8 +3246,8 @@
         },
         {
             "name": "Lovelace",
-            "x": 4085,
-            "z": -10200,
+            "x": 3957,
+            "z": -10316,
             "nation": "Acadia",
             "contact": "Owain_X#7928",
             "visitors": "welcome",
@@ -3637,11 +3662,10 @@
             "name": "New Cascadia",
             "x": 7000,
             "z": 4270,
-            "nation": "New Cascadia",
-            "contact": "Kayla",
+            "nation": "Monterrey (Formerly: New Cascadia, Vitelia, Republic of Asiro, Estiran Confederacy)",
+            "image": "https://cdn.discordapp.com/attachments/812188404028669972/863838536913649704/unknown.png",
             "discord": "https://discord.gg/D6cSsme",
             "Zoom Visibility": 4,
-            "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "969fa642-5bde-43cf-9589-3f4abcb9bef0"
         },
         {
@@ -4582,8 +4606,9 @@
             "name": "Risk",
             "x": 8000,
             "z": 4300,
-            "nation": "Monterrey (Formerly a gazillion people)",
+            "nation": "Monterrey (Formerly: Risk Republic, Thalassocracy, Vitelia, Fourth Federal Republic of Georgia, Republic of Asiro, Estiran Confederacy)",
             "contact": "u/Transfatismyname",
+            "image": "https://cdn.discordapp.com/attachments/812188404028669972/863842090369810472/unknown.png",
             "Zoom Visibility": 4,
             "id": "cc19e2f4-d516-411b-87b4-3aef3159f6e9"
         },
@@ -4591,8 +4616,9 @@
             "name": "Risk Cave",
             "x": 6500,
             "z": 4500,
-            "nation": "Monterrey",
+            "nation": "Monterrey (Formerly Risk Republic)",
             "Zoom Visibility": 4,
+            "notes": "The people of Risk lived here for less than a day",
             "id": "86e34687-4c14-44f3-b43a-761789e7fa02"
         },
         {
@@ -4744,6 +4770,16 @@
             "Zoom Visibility": 2,
             "notes": "You can visit the mall, contact @Shapha#7649 for access.",
             "id": "846fbf4f-d364-43fe-85f5-2abcd4b515da"
+        },
+        {
+            "name": "Savion Sky Mall",
+            "x": 9816,
+            "z": -5880,
+            "nation": "Hjaltland",
+            "contact": "Shapha#7649",
+            "visitors": "ask first",
+            "Zoom Visibility": 3,
+            "id": "dfbc6816-803f-4fa7-9c12-a4cc8bbca8ed"
         },
         {
             "name": "Sealand",
@@ -4983,6 +5019,16 @@
             "z": 1677,
             "Zoom Visibility": 4,
             "id": "4cb956d7-2e7b-491f-bfef-bba3fa37f303"
+        },
+        {
+            "name": "Stallman",
+            "x": 2485,
+            "z": -10916,
+            "nation": "Vestilege",
+            "contact": "Owain_X#7928",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "id": "d4895787-191b-42ad-ab28-c688cec461e1"
         },
         {
             "name": "Starcrash Brigade",
