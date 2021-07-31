@@ -51,9 +51,10 @@
 			]
 		},
 		{
-			"name": "Arsenio Vault",
-			"owner": "Icenia",
-			"contact": "@chrischrispie#7502",
+			"name": "Prometheus Vault",
+			"owner": "Titan Industries/Icenia",
+			"contact": "@Naglafer#0299",
+			"notes": "KEEP OFF THE GRASS",
 			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/arsenio-vault.nbt",
 			"id": "2c14260b-0106-49bb-b08c-6ba183a34ce3",
 			"rectangle": [
@@ -248,12 +249,13 @@
 		},
 		{
 			"name": "Hyperion",
-			"contact": "@Naglafer#0299 @Player#1111 Bonkill",
+			"owner": "Titan Industries/Icenia",
+			"contact": "@Naglafer#0299",
 			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/hyperion.nbt",
 			"id": "c19755df-975e-4e83-b0ae-1e4ed9cf785b",
 			"rectangle": [
-				[-821, -3141],
-				[-1226, -3546]
+				[-1327,-3647],
+				[-720,-3040]
 			]
 		},
 		{
