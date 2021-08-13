@@ -1009,6 +1009,17 @@
             "id": "3e6f7fc4-94c1-4112-8122-3381843e745b"
         },
         {
+            "name": "Berg",
+            "x": 7540,
+            "z": -4640,
+            "nation": "Mythril",
+            "contact": "Mat#5050",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "notes": "Capital of the Duchy of Aussieland",
+            "id": "8581b679-7d9e-4695-b73c-2ade465f1c61"
+        },
+        {
             "name": "Best Western Vault",
             "x": -13000,
             "z": 0,
@@ -1778,7 +1789,7 @@
             "contact": "LemonPickles#1558",
             "image": "https://cdn.discordapp.com/attachments/244263315059113985/867790924510396462/2021-07-22_09.30.27.png",
             "visitors": "welcome",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 2,
             "notes": "Founded 7/13/2021",
             "id": "c103d069-1246-4694-add7-afffd905bbc7"
         },
@@ -1793,6 +1804,14 @@
             "symbol": "https://static.miraheze.org/civclassicwiki/thumb/a/a8/GensokyoFlag.png/200px-GensokyoFlag.png",
             "Zoom Visibility": 4,
             "id": "7225baa6-6a36-432a-997b-c37aad4b4f2e"
+        },
+        {
+            "name": "Dynapos",
+            "x": 6220,
+            "z": 4080,
+            "nation": "Ossenkirch",
+            "Zoom Visibility": 4,
+            "id": "24854e2c-47db-440a-acbd-3cf7dc34408d"
         },
         {
             "name": "Ebora",
@@ -2105,6 +2124,16 @@
             "id": "6721f123-8e05-4c8e-96b3-e2aa58e373f5"
         },
         {
+            "name": "Foytic Tabmal",
+            "x": 7004,
+            "z": -1813,
+            "nation": "Lambat",
+            "contact": "Kloudei or Banyough",
+            "Zoom Visibility": 3,
+            "notes": "Actually a province, not a town",
+            "id": "b8ace97d-901c-4b4a-ae0b-7a9825491f66"
+        },
+        {
             "name": "France",
             "x": 7570,
             "z": 8270,
@@ -2159,6 +2188,16 @@
             "SpecificLanguage's Notes - Tier": 9,
             "SpecificLanguage's Notes - Notes": "Probably one of the better Winter towns on the server so far.",
             "Appomattox Builder's Association - Rating": "-"
+        },
+        {
+            "name": "Frostwall",
+            "x": 5815,
+            "z": 2030,
+            "nation": "\"Frostwall\" (not really a nation)",
+            "contact": "InvertedMind",
+            "visitors": "ask first",
+            "Zoom Visibility": 2,
+            "id": "776bafe4-1929-457d-9dba-0020cc3bdff6"
         },
         {
             "name": "Gallian Wall",
@@ -2382,6 +2421,16 @@
             "id": "2d8302dd-dcfb-4b29-8804-805bf1939728",
             "SpecificLanguage's Notes - Tier": 6,
             "SpecificLanguage's Notes - Notes": "For an industrial city, there\u2019s a good effort at making a city."
+        },
+        {
+            "name": "Hia Mek City",
+            "x": 6650,
+            "z": -7650,
+            "nation": "Hia Mek",
+            "contact": "Ky#5696",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "id": "593f379c-5a59-421c-9f7c-8aac6b9993fc"
         },
         {
             "name": "Highpoint",
@@ -3543,6 +3592,17 @@
             "id": "72d41b31-527e-47e6-9496-472470362799"
         },
         {
+            "name": "Mytharium",
+            "x": 5222,
+            "z": -5081,
+            "nation": "Mythril",
+            "contact": "Xraptor3344",
+            "visitors": "welcome",
+            "Zoom Visibility": 1,
+            "notes": "Capital of Kingdom of Mythril",
+            "id": "f4095435-3841-495b-baa4-7ad198dd0c95"
+        },
+        {
             "name": "Mythril",
             "x": 5000,
             "z": -5000,
@@ -3709,6 +3769,16 @@
             "Appomattox Builder's Association - Rating": "-"
         },
         {
+            "name": "New Hannover",
+            "x": 6700,
+            "z": -3400,
+            "nation": "Ch1pR Empire",
+            "contact": "Ch1pR",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "91a11742-b2db-4c38-947a-f42aff47b7c0"
+        },
+        {
             "name": "New Iria",
             "x": 10194,
             "z": -884,
@@ -3855,6 +3925,17 @@
             "symbol": "https://vignette.wikia.nocookie.net/civclassic/images/c/c6/Spqr.png",
             "Zoom Visibility": 4,
             "id": "955a829e-b564-48fb-96a7-f2a1730854d3"
+        },
+        {
+            "name": "Nightwatch",
+            "x": 7166,
+            "z": -3711,
+            "nation": "Ch1pR Empire",
+            "contact": "liquidstereo#6219 or GarterSnake#1710",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "notes": "Minarchist government",
+            "id": "7a751340-0c60-48e7-b1ab-048078c3bf6f"
         },
         {
             "name": "Nipplerock",
@@ -4139,23 +4220,6 @@
             "Zoom Visibility": 3,
             "nickname": "Olympus",
             "id": "c66fbe7d-cde7-4d72-bf8b-f7f082cbd253"
-        },
-        {
-            "name": "Ossenkirch",
-            "x": 6123,
-            "z": 4419,
-            "nation": "Ossenkirch",
-            "contact": "u/Toxicy123",
-            "image": "https://i.imgur.com/hvmqRzm.png",
-            "image_album": "https://imgur.com/a/2HEOZDl",
-            "web": "https://www.reddit.com/r/civclassics/comments/8qxsb6/ossenkirch_land_claim/",
-            "wiki": "https://civwiki.org/wiki/Ossenkirch",
-            "symbol": "https://static.miraheze.org/civclassicwiki/8/85/OssenkirchFlag.jpg",
-            "Zoom Visibility": 3,
-            "notes": "actually called Stolstad",
-            "nickname": "Ossenkirch",
-            "id": "74cce22d-7937-4540-97d7-79be172ee718",
-            "Appomattox Builder's Association - Rating": "-"
         },
         {
             "name": "Pacem",
@@ -5041,6 +5105,23 @@
             "id": "18edc5b6-6712-4870-8235-167d8bcec2ec"
         },
         {
+            "name": "Stolstad",
+            "x": 6123,
+            "z": 4419,
+            "nation": "Ossenkirch",
+            "contact": "u/Toxicy123",
+            "image": "https://i.imgur.com/hvmqRzm.png",
+            "image_album": "https://imgur.com/a/2HEOZDl",
+            "web": "https://www.reddit.com/r/civclassics/comments/8qxsb6/ossenkirch_land_claim/",
+            "wiki": "https://civwiki.org/wiki/Ossenkirch",
+            "symbol": "https://static.miraheze.org/civclassicwiki/8/85/OssenkirchFlag.jpg",
+            "Zoom Visibility": 3,
+            "notes": "actually called Stolstad",
+            "nickname": "Ossenkirch",
+            "id": "74cce22d-7937-4540-97d7-79be172ee718",
+            "Appomattox Builder's Association - Rating": "-"
+        },
+        {
             "name": "Stormmire",
             "x": 3595,
             "z": -240,
@@ -5561,6 +5642,17 @@
             "notes": "Contact the Unified Map Project if you have any info about this",
             "nickname": "Vanhoover",
             "id": "7ad70845-d115-465f-ac72-344df9453ada"
+        },
+        {
+            "name": "Varen City",
+            "x": 6776,
+            "z": 410,
+            "nation": "Vuoto",
+            "contact": "Void#9004",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "notes": "Capital of Vuoto",
+            "id": "cc5208d0-813e-43de-8384-46bc698aca1c"
         },
         {
             "name": "Varkonia",
