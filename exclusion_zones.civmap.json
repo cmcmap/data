@@ -93,7 +93,7 @@
 			"name": "Caledonia Vault",
 			"owner": "Caledonia",
 			"contact": "@SpaceAce#0523 darthorangejuice, Timmah#4527",
-			"id": "c1b71956-5e8a-4f24-8284-5bac4557a921",
+			"id": "c1c71956-5e8a-4f24-8284-5bac4557a921",
 			"polygon": [
 				[
 					[9779, 8163],
@@ -163,9 +163,7 @@
 			"contact": "@shadedoom4559",
 			"notes": "https://civwiki.org/wiki/Vault#The_Crucible_(Columbia)",
 			"id": "c9168436-387f-4bd1-8960-2acd2516257d",
-			"rectangle": [
-				[[-2310,-8486],[-2681,-8854]]
-			]
+			"rectangle": [[-2310,-8486],[-2681,-8854]]
 		},
 		{
 			"name": "Dovrefjell",
