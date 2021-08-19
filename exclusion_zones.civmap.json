@@ -33,7 +33,6 @@
 			"owner": "Joint Coalition Control",
 			"contact": "@shadedoom4559",
 			"notes": "Ancapistan Child Army Vault, aka Pinkertwo",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/aca-vault.nbt",
 			"id": "fef6775f-602e-43d3-b754-9c25e0ef9433",
 			"rectangle": [
 				[-7096, 502],
@@ -43,7 +42,6 @@
 		{
 			"name": "Akai Vault",
 			"owner": "Monterrey",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/akai-vault.nbt",
 			"id": "4ee53568-16c9-488c-b69e-cecbfd6ba9a0",
 			"rectangle": [
 				[7688, 4921],
@@ -55,7 +53,6 @@
 			"owner": "Titan Industries/Icenia",
 			"contact": "@Naglafer#0299",
 			"notes": "KEEP OFF THE GRASS",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/arsenio-vault.nbt",
 			"id": "2c14260b-0106-49bb-b08c-6ba183a34ce3",
 			"rectangle": [
 				[4577, -6790],
@@ -66,7 +63,6 @@
 			"name": "Arx Centauri",
 			"owner": "Kallos",
 			"contact": "PepsiKola95, Kicky_",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/arx-centauri.nbt",
 			"id": "2dc8a0a5-5c58-474e-98f0-b649d47c3ed3",
 			"rectangle": [
 				[-8080, -620],
@@ -78,7 +74,6 @@
 			"owner": "Joint Coalition Control",
 			"contact": "@shadedoom4559",
 			"notes": "https://civwiki.org/wiki/Vault#The_Best_Western_Hotel_(Holy_Jaded_Empire)_[Destroyed]",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/hje-vault.nbt",
 			"id": "7753b5b8-9400-412a-8597-308eadc012e8",
 			"rectangle": [
 				[-12589, 411],
@@ -88,7 +83,6 @@
 		{
 			"name": "Bloom Vault",
 			"owner": "Bloom",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/bloom-vault.nbt",
 			"id": "2beba5cf-1d88-47c2-9a65-5bb24e27c65d",
 			"rectangle": [
 				[-1418, -2749],
@@ -99,7 +93,6 @@
 			"name": "Caledonia Vault",
 			"owner": "Caledonia",
 			"contact": "@SpaceAce#0523 darthorangejuice, Timmah#4527",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/caledonia-wb-vault.nbt",
 			"id": "c1c71956-5e8a-4f24-8284-5bac4557a921",
 			"polygon": [
 				[
@@ -116,6 +109,27 @@
 			]
 		},
 		{
+			"name": "minemaster933 Exclusion Zone",
+			"owner": "minemaster933",
+			"contact": "minemaster933",
+			"id": "c1d71956-5e8a-4f24-8284-5bac4557a921",
+			"polygon": [[[2568,-12755],[2448,-12386],[2168,-12138],[1664,-12226],[1448,-12523],[1344,-12891],[1560,-12939],[1848,-12907],[2224,-12843],[2400,-12835]]]
+		},
+		{
+			"name": "Ch1pR Empire Bunker",
+			"owner": "Ch1pR",
+			"contact": "Ch1pR",
+			"id": "c2d71956-5e8a-4f24-8284-5bac4557a921",
+			"polygon": [[[6883,-2551],[6921,-2551],[6921,-2516],[6883,-2516],[6883,-2551],[6921,-2516]]]
+		},
+		{
+			"name": "Netherview Vault",
+			"owner": "Imperial Mountain of Casson",
+			"contact": "@WIlson#2127",
+			"id": "c1e71956-5e8a-4f24-8284-5bac4557a921",
+			"polygon": [[[-12052,5126],[-12212,4732],[-12356,4322],[-12494,3914],[-12614,3492],[-11614,3496],[-11580,5124]]]
+		},
+		{
 			"name": "ChickenWingGeek's MTS House",
 			"owner": "Kallos",
 			"contact": "ChickenWingGeek, Kicky_, PepsiKola95",
@@ -129,43 +143,14 @@
 			"name": "Columbian Z=-11,000 Exclusion Zone",
 			"owner": "Columbia",
 			"contact": "@shadedoom4559",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/columbia-wb-vault.nbt",
 			"id": "94b52af5-dd6b-4618-a520-846fcaca1519",
-			"polygon": [
-				[
-					[-5097, -12060],
-					[-5269, -11986],
-					[-5438, -11908],
-					[-5776, -11741],
-					[-6107, -11578],
-					[-6429, -11406],
-					[-7082, -11000],
-					[-3607, -11000],
-					[-3606, -11010],
-					[-3840, -11198],
-					[-3862, -11245],
-					[-3922, -11263],
-					[-3958, -11265],
-					[-4036, -11255],
-					[-4061, -11302],
-					[-4044, -11336],
-					[-4111, -11518],
-					[-4175, -11783],
-					[-4332, -11816],
-					[-4412, -11925],
-					[-4352, -11996],
-					[-4348, -12119],
-					[-4390, -12277],
-					[-4399, -12325]
-				]
-			]
+			"polygon": [[[-5097,-12060],[-5269,-11986],[-5438,-11908],[-5776,-11741],[-6107,-11578],[-6429,-11406],[-7082,-11000],[-3607,-11000],[-3608,-12555],[-4009,-12443],[-4399,-12325]]]
 		},
 		{
 			"name": "Cringe Pit",
 			"owner": "Icenia",
 			"contact": "@chrischrispie#7502",
 			"notes": "Despite the memes, not actually a neat nature reserve. Keep out. https://civwiki.org/wiki/Vault#Cringe_Pit_Home_for_Troubled_Youth_(Icenia)",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/icenia-vault.nbt",
 			"id": "bfac35c8-8f36-4307-a294-9e364be5583d",
 			"rectangle": [
 				[-950, -1572],
@@ -177,19 +162,14 @@
 			"owner": "Columbia",
 			"contact": "@shadedoom4559",
 			"notes": "https://civwiki.org/wiki/Vault#The_Crucible_(Columbia)",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/the-crucible.nbt",
 			"id": "c9168436-387f-4bd1-8960-2acd2516257d",
-			"rectangle": [
-				[-2429, -8486],
-				[-2681, -8738]
-			]
+			"rectangle": [[-2310,-8486],[-2681,-8854]]
 		},
 		{
 			"name": "Dovrefjell",
 			"owner": "Imperial Truidence",
 			"contact": "@Obtainable Spatula#1945",
 			"notes": "https://civwiki.org/wiki/Vault#Dovrefjell_(Imperial_Truidence)",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/it-vault.nbt",
 			"id": "681b77bb-9612-4243-953c-1253eef06919",
 			"rectangle": [
 				[401, -998],
@@ -201,7 +181,6 @@
 			"owner": "Hjaltland",
 			"contact": "@Blue#9826 BlueSylvaer",
 			"notes": "Hjaltland South Border Vault. https://civwiki.org/wiki/Vault#Eternity_(Hjaltland)",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/hjalt-wb-vault.nbt",
 			"id": "868265b7-e3f8-47dd-b4e4-057d88af5d28",
 			"rectangle": [
 				[-500, 12500],
@@ -213,7 +192,6 @@
 			"owner": "Mount September",
 			"contact": "@Godo#1629 Godomasta",
 			"notes": "https://civwiki.org/wiki/Vault#Fort_Briggs_(Mount_Augusta)",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/mta-vault.nbt",
 			"id": "f874fd97-a7e6-42d0-9962-d049f748101a",
 			"rectangle": [
 				[-5530, 2486],
@@ -225,7 +203,6 @@
 			"owner": "Columbia",
 			"contact": "@shadedoom4559",
 			"notes": "https://civwiki.org/wiki/Vault#The_Hallow_Pot_Bunker_(Hallow)_[Destroyed]",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/hallow-vault.nbt",
 			"id": "2c9e4012-6cc9-4d0b-91f0-6b3e5c771d19",
 			"polygon": [
 				[
@@ -240,7 +217,6 @@
 			"owner": "Hjaltland",
 			"contact": "@Blue#9826 BlueSylvaer",
 			"notes": "Aka Hjault. https://civwiki.org/wiki/Vault#The_HjaltVault/Hjault_(Hjaltland)",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/hjaltvault.nbt",
 			"id": "03153ad0-bbae-4d78-a4c7-c9943f7a5428",
 			"rectangle": [
 				[-2731, 11678],
@@ -251,7 +227,6 @@
 			"name": "Hyperion",
 			"owner": "Titan Industries/Icenia",
 			"contact": "@Naglafer#0299",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/hyperion.nbt",
 			"id": "c19755df-975e-4e83-b0ae-1e4ed9cf785b",
 			"rectangle": [
 				[-1327,-3647],
@@ -263,7 +238,6 @@
 			"owner": "The Commonwealth",
 			"contact": "@PergySkeel#4726 PergySkeel",
 			"notes": "Keep Out",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/cw-vault.nbt",
 			"id": "54d89527-bcd7-42c9-84df-1c744172a953",
 			"rectangle": [
 				[-7325, 4151],
@@ -277,7 +251,6 @@
 			"x": 10981,
 			"z": -402,
 			"notes": "The following applies to everyone except for members of the Lands of Mir:\n- No one is allowed in the Lands of Mir without permission from a member of Mir.\n- No one is allowed to snitch/homestead or otherwise place and/or remove/destroy blocks in the Lands of Mir.\n- By entering the Lands of Mir you forfeit all rights and may be subject to any penalty.\n- Raiding alts will be held until their mains are revealed at which point they will be sentenced\n- Bounty Hunting or removing a pearl from the Lands of Mir is not allowed.\n- Individual towns or provinces will have further laws. Please familiarise yourself with them prior to entry to avoid incidents.",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/mir-wb-vault.nbt",
 			"id": "39262740-dd11-4053-8075-3b0a53f81f3e",
 			"polygon": [
 				[
@@ -691,7 +664,6 @@
 			"name": "Mount Doom",
 			"owner": "Hjaltland",
 			"contact": "@Blue#9826 BlueSylvaer",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/mt-doom.nbt",
 			"id": "968e6095-85bb-4b01-877a-f05fd456b817",
 			"polygon": [
 				[
@@ -722,7 +694,6 @@
 			"name": "Augustan Federation Vault",
 			"owner": "Augustan Federation",
 			"contact": "@Square#6920 S_Q_U_A_R_E",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/mts-vault.nbt",
 			"id": "29492aaa-1432-4045-ba19-3bc4555ed54f",
 			"rectangle": [
 				[-4758, 1642],
@@ -733,7 +704,6 @@
 			"name": "New Moon Defensive Zone",
 			"owner": "Amyr",
 			"contact": "@WNS#4369 WNS2",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/new-moon-vault.nbt",
 			"id": "8f06656e-7167-4247-8927-fd2ab80b8039",
 			"rectangle": [
 				[6636, 3793],
@@ -745,7 +715,6 @@
 			"owner": "NCA",
 			"contact": "@GDAN12#3180",
 			"notes": "Northern Coast Alliance Vault",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/nca-vault.nbt",
 			"id": "af441ad2-e734-4a74-8a0c-80b382cb284d",
 			"rectangle": [
 				[65, 5873],
@@ -756,7 +725,6 @@
 			"name": "Nyasaland Vault",
 			"owner": "Nyasaland",
 			"contact": "@BennyX8764 BennyZ",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/nyasaland-vault.nbt",
 			"id": "eca4ba61-a803-41de-91bf-40d98efe9b16",
 			"polygon": [
 				[
@@ -776,7 +744,6 @@
 			"owner": "Hjaltland",
 			"contact": "@Blue#9826",
 			"notes": "Special Administrative Zone",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/rhodesia-wb-vault.nbt",
 			"id": "1026c47f-af78-492b-b910-3a63c31c7aef",
 			"polygon": [
 				[
@@ -831,7 +798,6 @@
 			"name": "Savion",
 			"owner": "Hjaltland",
 			"contact": "@Shapha#7649",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/savion-vault.nbt",
 			"id": "c66f6f1a-b450-4a36-96e3-692dc20a0eab",
 			"polygon": [
 				[
@@ -882,7 +848,6 @@
 			"owner": "Columbia",
 			"contact": "@shadedoom4559",
 			"notes": "https://civwiki.org/wiki/Vault#Sempiternal_(Columbia)_[Destroyed]",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/sempiternal.nbt",
 			"id": "c66f6f1a-b450-4a36-96e2-692dc10a0eab",
 			"rectangle": [
 				[-5151, -8815],
@@ -891,7 +856,6 @@
 		},
 		{
 			"name": "SE World Border Private Vault",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/se-wb-vault.nbt",
 			"id": "0aa93f02-86fe-46d6-ad2c-e35f8e67772f",
 			"polygon": [
 				[
@@ -913,7 +877,6 @@
 		{
 			"name": "Tel Aviv Vault",
 			"owner": "Tel Aviv",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/tel-aviv-vault.nbt",
 			"id": "4be75c07-06b6-4ed1-a783-5ccd9ce2b6d9",
 			"rectangle": [
 				[-1139, -6615],
@@ -924,7 +887,6 @@
 			"name": "Varkonia Vault",
 			"owner": "Varkonia",
 			"contact": "@Mickale#6186",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/varkonia-vault.nbt",
 			"id": "3863e19c-8e59-4000-9634-1d8812d371c1",
 			"rectangle": [
 				[-4225, -2803],
@@ -936,7 +898,6 @@
 			"owner": "The Commonwealth",
 			"contact": "@PergySkeel#4726 PergySkeel",
 			"notes": "Guided tours can be arranged.",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/cw-victoria.nbt",
 			"id": "8313a586-c5ba-4629-a39f-2b5c6bc97179",
 			"rectangle": [
 				[-7168, 5344],
@@ -946,7 +907,6 @@
 		{
 			"name": "Vitelia Vault",
 			"owner": "Krowatia",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/vitelia-vault.nbt",
 			"id": "a6a9ccca-181c-4a27-addf-c5eaca8ae7b0",
 			"polygon": [
 				[
@@ -971,7 +931,6 @@
 			"name": "Wayrest Vault",
 			"owner": "Yoahtl",
 			"contact": "@GDAN12#3180",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/wayrest-vault.nbt",
 			"id": "0695c0d8-d8bd-466a-8906-004f129d9b05",
 			"rectangle": [
 				[1198, 659],
@@ -983,7 +942,6 @@
 			"owner": "Yoahtl",
 			"contact": "@GDAN12#3180",
 			"notes": "aka NeoVault/Vault312 https://civwiki.org/wiki/Vault#Vault312/NeoVault_(Yoahtl)",
-			"Download (Litematica)": "https://www.mediafire.com/file/5qjojob8t8h2zzs/yoahtl-vault.nbt",
 			"id": "3c176308-f856-4013-874b-ddb995a12960",
 			"rectangle": [
 				[-4319, 7185],
