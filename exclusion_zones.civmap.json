@@ -116,13 +116,6 @@
 			"polygon": [[[2568,-12755],[2448,-12386],[2168,-12138],[1664,-12226],[1448,-12523],[1344,-12891],[1560,-12939],[1848,-12907],[2224,-12843],[2400,-12835]]]
 		},
 		{
-			"name": "Ch1pR Empire Bunker",
-			"owner": "Ch1pR",
-			"contact": "Ch1pR",
-			"id": "c2d71956-5e8a-4f24-8284-5bac4557a921",
-			"polygon": [[[6883,-2551],[6921,-2551],[6921,-2516],[6883,-2516],[6883,-2551],[6921,-2516]]]
-		},
-		{
 			"name": "Netherview Vault",
 			"owner": "Imperial Mountain of Casson",
 			"contact": "@WIlson#2127",
@@ -196,6 +189,26 @@
 			"rectangle": [
 				[-5530, 2486],
 				[-5878, 2138]
+			]
+		},
+		{
+			"name": "Fort Knox Exclusion Zone",
+			"owner": "Sussex",
+			"contact": "Ch1pR",
+			"notes:": "Anyone found past this point will be pearled in accordance to the Law of the Empire of Sussex",
+			"id": "404a7e1f-5d6d-4894-853e-81abf8a22d8c",
+			"polygon": [
+				[
+					[7067,-2469],
+					[7067,-2505],
+					[7116,-2505],
+					[7118,-2506],
+					[7117,-2523],
+					[7138,-2523],
+					[7147,-2515],
+					[7148,-2469],
+					[7067,-2468]
+				]	
 			]
 		},
 		{
