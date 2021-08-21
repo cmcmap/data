@@ -109,13 +109,6 @@
 			]
 		},
 		{
-			"name": "minemaster933 Exclusion Zone",
-			"owner": "minemaster933",
-			"contact": "minemaster933",
-			"id": "c1d71956-5e8a-4f24-8284-5bac4557a921",
-			"polygon": [[[2568,-12755],[2448,-12386],[2168,-12138],[1664,-12226],[1448,-12523],[1344,-12891],[1560,-12939],[1848,-12907],[2224,-12843],[2400,-12835]]]
-		},
-		{
 			"name": "Netherview Vault",
 			"owner": "Imperial Mountain of Casson",
 			"contact": "@WIlson#2127",
