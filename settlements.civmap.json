@@ -3956,6 +3956,19 @@
             "SpecificLanguage's Notes - Notes": "It had better outcomes creating drama than its buildings"
         },
         {
+            "name": "Niv",
+            "x": -7930,
+            "z": -3700,
+            "nation": "Lusitania",
+            "contact": "DsmFTW",
+            "discord": "https://discordapp.com/invite/wKPVCB9",
+            "wiki": "https://civwiki.org/wiki/Lusitania#Niv",
+            "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
+            "Zoom Visibility": 4,
+            "notes": "Asturias outpost, underground in a hollow mountain",
+            "id": "807e82c0-31f3-481f-8e1d-bb1421d7738b"
+        },
+        {
             "name": "Noname",
             "x": 5000,
             "z": -2050,
@@ -4336,19 +4349,6 @@
             "Zoom Visibility": 3,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "72e7fa51-69a3-477e-b2c5-2eb33388d7a7"
-        },
-        {
-            "name": "Petra",
-            "x": -7930,
-            "z": -3700,
-            "nation": "Lusitania",
-            "contact": "DsmFTW",
-            "discord": "https://discordapp.com/invite/wKPVCB9",
-            "wiki": "https://civwiki.org/wiki/Lusitania#Petra",
-            "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
-            "Zoom Visibility": 4,
-            "notes": "Asturias outpost, underground in a hollow mountain",
-            "id": "807e82c0-31f3-481f-8e1d-bb1421d7738b"
         },
         {
             "name": "Phylon",
