@@ -3774,7 +3774,7 @@
             "name": "New Hannover",
             "x": 6700,
             "z": -3400,
-            "nation": "Ch1pR Empire",
+            "nation": "Sussex",
             "contact": "Ch1pR",
             "visitors": "welcome",
             "Zoom Visibility": 3,
@@ -3932,11 +3932,11 @@
             "name": "Nightwatch",
             "x": 7166,
             "z": -3711,
-            "nation": "Ch1pR Empire",
-            "contact": "liquidstereo#6219 or GarterSnake#1710",
+            "nation": "Sussex",
+            "contact": "liquidstereo#6219",
             "visitors": "welcome",
             "Zoom Visibility": 2,
-            "notes": "Minarchist government",
+            "notes": "No longer autonomous",
             "id": "7a751340-0c60-48e7-b1ab-048078c3bf6f"
         },
         {
@@ -3954,6 +3954,19 @@
             "id": "d8ad44d6-b5b9-4503-a76b-772f897abab7",
             "SpecificLanguage's Notes - Tier": 4,
             "SpecificLanguage's Notes - Notes": "It had better outcomes creating drama than its buildings"
+        },
+        {
+            "name": "Niv",
+            "x": -7930,
+            "z": -3700,
+            "nation": "Lusitania",
+            "contact": "Banyough",
+            "discord": "https://discordapp.com/invite/wKPVCB9",
+            "wiki": "https://civwiki.org/wiki/Lusitania#Niv",
+            "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
+            "Zoom Visibility": 3,
+            "notes": "Asturias outpost, underground in a hollow mountain",
+            "id": "807e82c0-31f3-481f-8e1d-bb1421d7738b"
         },
         {
             "name": "Noname",
@@ -4148,9 +4161,8 @@
             "x": 4320,
             "z": 4857,
             "nation": "Kingdom of Ashelor",
-            "contact": "Orinnari /u/Kroolista @Dioxain#2968",
+            "contact": "7misun /u/7misun @7misun#1074",
             "discord": "https://discord.gg/r7AV8S4",
-            "web": "https://ashelor.cc",
             "visitors": "welcome",
             "Zoom Visibility": 3,
             "id": "62da2fc3-60ba-49a4-898b-817051e47d9d"
@@ -4336,19 +4348,6 @@
             "Zoom Visibility": 3,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "72e7fa51-69a3-477e-b2c5-2eb33388d7a7"
-        },
-        {
-            "name": "Petra",
-            "x": -7930,
-            "z": -3700,
-            "nation": "Lusitania",
-            "contact": "DsmFTW",
-            "discord": "https://discordapp.com/invite/wKPVCB9",
-            "wiki": "https://civwiki.org/wiki/Lusitania#Petra",
-            "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
-            "Zoom Visibility": 4,
-            "notes": "Asturias outpost, underground in a hollow mountain",
-            "id": "807e82c0-31f3-481f-8e1d-bb1421d7738b"
         },
         {
             "name": "Phylon",
@@ -4915,6 +4914,14 @@
             "notes": "abandoned small city square",
             "nickname": "L\u00ebtzebuerg",
             "id": "aa96f336-4796-4b57-b7dd-ea505e4dc898"
+        },
+        {
+            "name": "Shitville",
+            "x": 7070,
+            "z": 1640,
+            "nation": "Partyville",
+            "contact": "liquidstereo#6219 ",
+            "id": "2eefd989-63c1-4a72-9096-93bdab86c976"
         },
         {
             "name": "Sigmaringen",
