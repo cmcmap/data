@@ -467,19 +467,6 @@
             "id": "e03c0543-282d-4908-ba15-35e592e1ecb2"
         },
         {
-            "name": "Alemannia",
-            "x": 6700,
-            "z": -3400,
-            "nation": "Appomattox",
-            "image": "https://i.imgur.com/7KMzA3R.png",
-            "image_album": "https://i.imgur.com/x14bmiR.png",
-            "discord": "https://discord.gg/rvumd3w",
-            "wiki": "https://civwiki.org/wiki/Appomattox",
-            "symbol": "https://static.miraheze.org/civclassicwiki/thumb/b/b9/AppomattoxFlag.png/200px-AppomattoxFlag.png",
-            "Zoom Visibility": 4,
-            "id": "2d8a258a-4899-4079-a0e4-cdcd96898ca5"
-        },
-        {
             "name": "Alexandria",
             "x": 555,
             "z": 8222,
@@ -907,6 +894,17 @@
             "Zoom Visibility": 4,
             "notes": "built by columbians before they moved to -,-",
             "id": "6ad14393-06d3-4623-b04d-fe6989a14560"
+        },
+        {
+            "name": "Axochitlan",
+            "x": 3300,
+            "z": 12000,
+            "nation": "Yoahtl (Formerly Laconia)",
+            "wiki": "https://civwiki.org/wiki/Laconia#Axochitlan",
+            "Zoom Visibility": 4,
+            "notes": "Once called Pompeii",
+            "id": "407715a8-7028-44b2-830e-d37b2ebec8f2",
+            "Appomattox Builder's Association - Rating": "-"
         },
         {
             "name": "Aynor",
@@ -1410,6 +1408,17 @@
             "image": "https://cdn.discordapp.com/attachments/812188404028669972/829531474256592916/2021-04-07_20.02.30.png",
             "Zoom Visibility": 5,
             "id": "ba1b9d07-5247-4efb-8822-a0bc00a8cfeb"
+        },
+        {
+            "name": "Catsylvania",
+            "x": 6700,
+            "z": -3400,
+            "nation": "Sussex (formerly Appomattox)",
+            "contact": "Ch1pR",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "notes": "Formerly called New Hannover",
+            "id": "91a11742-b2db-4c38-947a-f42aff47b7c0"
         },
         {
             "name": "Celeste",
@@ -3483,6 +3492,14 @@
             "id": "12175ee5-6561-43cc-ad75-b603d1a38a14"
         },
         {
+            "name": "Monaco",
+            "x": 4810,
+            "z": -7543,
+            "nation": "Columbia (formerly Eddie Murphy)",
+            "contact": "K0mmi#4134",
+            "id": "4d1eaac0-fa2c-4044-aa35-2ee17ddf1358"
+        },
+        {
             "name": "Monaco Mine",
             "x": 9020,
             "z": -3100,
@@ -3769,16 +3786,6 @@
             "Zoom Visibility": 3,
             "id": "424b97eb-fe83-4cb3-bf37-9b7ea73a0d86",
             "Appomattox Builder's Association - Rating": "-"
-        },
-        {
-            "name": "New Hannover",
-            "x": 6700,
-            "z": -3400,
-            "nation": "Sussex",
-            "contact": "Ch1pR",
-            "visitors": "welcome",
-            "Zoom Visibility": 3,
-            "id": "91a11742-b2db-4c38-947a-f42aff47b7c0"
         },
         {
             "name": "New Iria",
@@ -4440,19 +4447,6 @@
             "id": "b4bf02dd-dff0-42bf-91a1-93fc69481e6d"
         },
         {
-            "name": "Pompeii",
-            "x": 3300,
-            "z": 12000,
-            "nation": "Laconia",
-            "contact": "Topher3001",
-            "wiki": "https://civwiki.org/wiki/Laconia#Axochitlan",
-            "Zoom Visibility": 4,
-            "notes": "Originally called Axochitlan",
-            "nickname": "Pompeii",
-            "id": "407715a8-7028-44b2-830e-d37b2ebec8f2",
-            "Appomattox Builder's Association - Rating": "-"
-        },
-        {
             "name": "Ponsportia",
             "x": 3232,
             "z": 1010,
@@ -4921,6 +4915,9 @@
             "z": 1640,
             "nation": "Partyville",
             "contact": "liquidstereo#6219 ",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "notes": "Owned by its original owner, under a different nation",
             "id": "2eefd989-63c1-4a72-9096-93bdab86c976"
         },
         {
