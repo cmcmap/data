@@ -90,6 +90,23 @@
 			]
 		},
 		{
+			"name": "Fort Sampaloc",
+			"owner": "Lambat",
+			"contact": "Lambat https://discord.gg/EYwjerUU3V",
+			"id": "2beba6cf-1d88-47c2-9a65-5bb24e27c65d",
+			"rectangle": [
+				[7312,-1486],[7277,-1522]
+			]
+		},
+		{
+			"name": "VL",
+			"owner": "NEBULANDD",
+			"id": "2beba6cf-1d88-47c2-9a65-5bb24e27c65d",
+			"contact": "NEBULANDD, u/dustcloud777,  nebula#6881",
+			"rectangle": [[-5000,2500],[-4920,2580]],
+			"notes": "Officially the Nebula Temporary Rehabilitation Center for Kleptomaniacally Challenged Indivduals"
+		},
+		{
 			"name": "Caledonia Vault",
 			"owner": "Caledonia",
 			"contact": "@SpaceAce#0523 darthorangejuice, Timmah#4527",
@@ -109,6 +126,20 @@
 			]
 		},
 		{
+			"name": "Rhea Exclusion Zone",
+			"owner": "Columbia",
+			"contact": "shadedoom, Asuramaru",
+			"id": "c1c71956-5e8a-4f24-8284-5cac4557a921",
+			"polygon": [[[8648,-9730],[8104,-9731],[8106,-10156]]]
+		},
+		{
+			"name": "Veldt Exclusion Zone",
+			"owner": "Veldt",
+			"contact": "Camokool",
+			"id": "c1c71956-6e8a-4f24-8284-5bac4557a921",
+			"polygon": [[[3093,-7102],[3095,-7094],[3100,-7088],[3101,-6864],[2871,-6861],[2862,-6872],[2853,-6879],[2846,-6886],[2842,-6893],[2841,-6901],[2837,-6907],[2831,-6910],[2827,-6917],[2822,-6920],[2817,-6921],[2808,-6918],[2798,-6915],[2795,-7126],[3105,-7127],[3095,-7115],[3095,-7105]]]
+		},
+		{
 			"name": "Netherview Vault",
 			"owner": "Imperial Mountain of Casson",
 			"contact": "@WIlson#2127",
@@ -126,11 +157,33 @@
 			]
 		},
 		{
+			"name": "Finkergrad Exclusion Zone",
+			"owner": "Kallos",
+			"contact": "Kaloa_HG",
+			"id": "f8ac83bf-0e3c-4809-8d1a-2275d75f03a9",
+			"rectangle": [[-6598,1245],[-6708,1355]]
+		},
+		{
 			"name": "Columbian Z=-11,000 Exclusion Zone",
 			"owner": "Columbia",
 			"contact": "@shadedoom4559",
 			"id": "94b52af5-dd6b-4618-a520-846fcaca1519",
 			"polygon": [[[-5097,-12060],[-5269,-11986],[-5438,-11908],[-5776,-11741],[-6107,-11578],[-6429,-11406],[-7082,-11000],[-3607,-11000],[-3608,-12555],[-4009,-12443],[-4399,-12325]]]
+		},
+		{
+			"name": "The Arch Prison",
+			"owner": "Sussex",
+			"contact": "Ch1pR#5064",
+			"id": "95b52af5-dd6b-4618-a520-846fcaca1519",
+			"notes": "The Gulag for bad boys. And farms of Sussex Anyone caught in this zone will be pearled and tried by the Law of Sussex",
+			"polygon": [[[5956,-3142],[6224,-3144],[6527,-3136],[6532,-3235],[6804,-3224],[6799,-2881],[6678,-2825],[6695,-2767],[6375,-2624],[6244,-2866],[5963,-3034],[5957,-3136]]]
+		},
+		{
+			"name": "Sneed Sanctuary",
+			"owner": "Kallos",
+			"contact": "jeff#7004 / Troll_Bebek",
+			"id": "95b54af5-dd6b-4618-a520-846fcaca1519",
+			"polygon": [[[-12385,-3954],[-12487,-3616],[-12268,-3616],[-12268,-3954]]]
 		},
 		{
 			"name": "Cringe Pit",
