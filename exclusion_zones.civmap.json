@@ -128,7 +128,7 @@
 		{
 			"name": "Rhea Exclusion Zone",
 			"owner": "Columbia",
-			"contact": "East Columbia",
+			"contact": "shadedoom, Asuramaru",
 			"id": "c1c71956-5e8a-4f24-8284-5cac4557a921",
 			"polygon": [[[8648,-9730],[8104,-9731],[8106,-10156]]]
 		},
@@ -159,7 +159,7 @@
 		{
 			"name": "Finkergrad Exclusion Zone",
 			"owner": "Kallos",
-			"contact": "Kallos",
+			"contact": "Kaloa_HG",
 			"id": "f8ac83bf-0e3c-4809-8d1a-2275d75f03a9",
 			"rectangle": [[-6598,1245],[-6708,1355]]
 		},
