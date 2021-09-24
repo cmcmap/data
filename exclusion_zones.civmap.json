@@ -92,6 +92,7 @@
 		{
 			"name": "Fort Sampaloc",
 			"owner": "Lambat",
+			"contact": "Lambat",
 			"id": "2beba6cf-1d88-47c2-9a65-5bb24e27c65d",
 			"rectangle": [
 				[7312,-1486],[7277,-1522]
@@ -127,6 +128,7 @@
 		{
 			"name": "Rhea Exclusion Zone",
 			"owner": "Columbia",
+			"contact": "East Columbia",
 			"id": "c1c71956-5e8a-4f24-8284-5cac4557a921",
 			"polygon": [[[8648,-9730],[8104,-9731],[8106,-10156]]]
 		},
@@ -157,6 +159,7 @@
 		{
 			"name": "Finkergrad Exclusion Zone",
 			"owner": "Kallos",
+			"contact": "Kallos",
 			"id": "f8ac83bf-0e3c-4809-8d1a-2275d75f03a9",
 			"rectangle": [[-6598,1245],[-6708,1355]]
 		},
