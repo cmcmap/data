@@ -4211,6 +4211,7 @@
             "discord": "https://discordapp.com/invite/wKPVCB9",
             "wiki": "https://civwiki.org/wiki/Lusitania",
             "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
+            "visitors": "welcome",
             "Zoom Visibility": 2,
             "id": "51a6ad61-f7e0-4e8e-b00a-d33c4d49ec00"
         },
@@ -4480,7 +4481,7 @@
             "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
             "visitors": "welcome",
             "Zoom Visibility": 1,
-            "notes": "actually called Portucale",
+            "notes": "Capital of Lusitania",
             "nickname": "Lusitania",
             "id": "44173a64-657e-49f7-abe2-4ad588d81925",
             "Appomattox Builder's Association - Rating": "-"
@@ -4807,6 +4808,18 @@
             "id": "256ecd99-2cae-4375-af23-16b6827991dd"
         },
         {
+            "name": "Sankt \u00c4gg",
+            "x": 3731,
+            "z": -6518,
+            "nation": "Nya-\u00c4ggland",
+            "contact": "IceBoy#8036",
+            "wiki": "https://civwiki.org/wiki/Nya-%C3%84ggland",
+            "symbol": "https://static.miraheze.org/civwikiwiki/8/8c/Nya-%C3%84ggland_flag.jpg",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "id": "5bdf62f7-23f5-4ead-8646-9e9c6eb68665"
+        },
+        {
             "name": "Sardinia",
             "x": -9500,
             "z": -4800,
@@ -4967,6 +4980,7 @@
             "discord": "https://discordapp.com/invite/wKPVCB9",
             "wiki": "https://civwiki.org/wiki/Lusitania",
             "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
+            "visitors": "welcome",
             "Zoom Visibility": 2,
             "id": "3ce1722a-2f75-4f8a-bbb3-fb1c4c391e60"
         },
