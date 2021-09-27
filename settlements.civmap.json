@@ -1511,6 +1511,7 @@
             "symbol": "https://static.miraheze.org/civwikiwiki/5/55/CityOfEnglandFlag.png",
             "visitors": "welcome",
             "Zoom Visibility": 1,
+            "nickname": "City of England",
             "id": "a576568b-206f-40ab-9729-79c4fb4fcb36"
         },
         {
@@ -3617,8 +3618,9 @@
             "nation": "Mythril",
             "contact": "Xraptor3344",
             "visitors": "welcome",
-            "Zoom Visibility": 1,
+            "Zoom Visibility": 2,
             "notes": "Capital of Kingdom of Mythril",
+            "nickname": "Mytharium",
             "id": "f4095435-3841-495b-baa4-7ad198dd0c95"
         },
         {
@@ -3858,12 +3860,13 @@
             "x": 3600,
             "z": -9950,
             "nation": "Acadia",
-            "contact": "Cortwade#3871",
+            "contact": "Bloof#2360",
             "image": "https://media.discordapp.net/attachments/768261044992737290/847165984136888370/New_Turing.png",
+            "image_album": "https://media.discordapp.net/attachments/768261044992737290/847165984136888370/New_Turing.png?width=776&height=437",
             "discord": "https://discord.gg/xpN7ChzBHC",
             "wiki": "https://civwiki.org/wiki/Acadia",
             "visitors": "welcome",
-            "Zoom Visibility": 2,
+            "Zoom Visibility": 1,
             "nickname": "Acadia",
             "id": "4965bf40-d5df-4127-b522-166c384ec534"
         },
