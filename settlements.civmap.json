@@ -1511,6 +1511,7 @@
             "symbol": "https://static.miraheze.org/civwikiwiki/5/55/CityOfEnglandFlag.png",
             "visitors": "welcome",
             "Zoom Visibility": 1,
+            "nickname": "City of England",
             "id": "a576568b-206f-40ab-9729-79c4fb4fcb36"
         },
         {
@@ -3617,8 +3618,9 @@
             "nation": "Mythril",
             "contact": "Xraptor3344",
             "visitors": "welcome",
-            "Zoom Visibility": 1,
+            "Zoom Visibility": 2,
             "notes": "Capital of Kingdom of Mythril",
+            "nickname": "Mytharium",
             "id": "f4095435-3841-495b-baa4-7ad198dd0c95"
         },
         {
@@ -3858,12 +3860,13 @@
             "x": 3600,
             "z": -9950,
             "nation": "Acadia",
-            "contact": "Cortwade#3871",
+            "contact": "Bloof#2360",
             "image": "https://media.discordapp.net/attachments/768261044992737290/847165984136888370/New_Turing.png",
+            "image_album": "https://media.discordapp.net/attachments/768261044992737290/847165984136888370/New_Turing.png?width=776&height=437",
             "discord": "https://discord.gg/xpN7ChzBHC",
             "wiki": "https://civwiki.org/wiki/Acadia",
             "visitors": "welcome",
-            "Zoom Visibility": 2,
+            "Zoom Visibility": 1,
             "nickname": "Acadia",
             "id": "4965bf40-d5df-4127-b522-166c384ec534"
         },
@@ -4211,6 +4214,7 @@
             "discord": "https://discordapp.com/invite/wKPVCB9",
             "wiki": "https://civwiki.org/wiki/Lusitania",
             "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
+            "visitors": "welcome",
             "Zoom Visibility": 2,
             "id": "51a6ad61-f7e0-4e8e-b00a-d33c4d49ec00"
         },
@@ -4480,7 +4484,7 @@
             "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
             "visitors": "welcome",
             "Zoom Visibility": 1,
-            "notes": "actually called Portucale",
+            "notes": "Capital of Lusitania",
             "nickname": "Lusitania",
             "id": "44173a64-657e-49f7-abe2-4ad588d81925",
             "Appomattox Builder's Association - Rating": "-"
@@ -4807,6 +4811,18 @@
             "id": "256ecd99-2cae-4375-af23-16b6827991dd"
         },
         {
+            "name": "Sankt \u00c4gg",
+            "x": 3731,
+            "z": -6518,
+            "nation": "Nya-\u00c4ggland",
+            "contact": "IceBoy#8036",
+            "wiki": "https://civwiki.org/wiki/Nya-%C3%84ggland",
+            "symbol": "https://static.miraheze.org/civwikiwiki/8/8c/Nya-%C3%84ggland_flag.jpg",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "id": "5bdf62f7-23f5-4ead-8646-9e9c6eb68665"
+        },
+        {
             "name": "Sardinia",
             "x": -9500,
             "z": -4800,
@@ -4967,6 +4983,7 @@
             "discord": "https://discordapp.com/invite/wKPVCB9",
             "wiki": "https://civwiki.org/wiki/Lusitania",
             "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
+            "visitors": "welcome",
             "Zoom Visibility": 2,
             "id": "3ce1722a-2f75-4f8a-bbb3-fb1c4c391e60"
         },
