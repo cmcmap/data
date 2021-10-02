@@ -961,7 +961,7 @@
             "x": -5400,
             "z": 6666,
             "nation": "Yoahtl",
-            "contact": "Jyn, StrPlatinum",
+            "contact": "WackyAki (Aki#3250)",
             "image": "https://i.imgur.com/svTL4Lk.png",
             "web": "r/CivYoahtl",
             "wiki": "https://civwiki.org/wiki/Yoahtl#Barrow",
@@ -983,6 +983,17 @@
             "Zoom Visibility": 4,
             "nickname": "Batavia",
             "id": "eea05aea-6852-4bdf-83f8-8d68452e4dbc"
+        },
+        {
+            "name": "Belgravia",
+            "x": -1910,
+            "z": 7312,
+            "nation": "Yoahtl",
+            "contact": "Swans (Swans#9975), Fawn (Fawn#2019)",
+            "symbol": "https://static.miraheze.org/civclassicwiki/thumb/8/84/Yoahtl_Flag.png/200px-Yoahtl_Flag.png",
+            "Zoom Visibility": 3,
+            "notes": "Formerly Yujotlan",
+            "id": "a126feee-d803-4eab-8068-b6ec9b33475b"
         },
         {
             "name": "Bellum",
@@ -1661,6 +1672,21 @@
             "id": "8e6efc1e-b866-4c6e-93a0-130e2f2af773"
         },
         {
+            "name": "Cringebridge",
+            "x": 5750,
+            "z": 400,
+            "nation": "Partyland (formerly Carpathia)",
+            "contact": "BritishMunchie",
+            "image": "https://i.imgur.com/ey39MFG.png",
+            "discord": "https://discord.gg/25PmpQ5",
+            "wiki": "https://civwiki.org/wiki/Carpathia#Traugersbridge",
+            "symbol": "https://static.miraheze.org/civclassicwiki/e/ed/Bcf.png",
+            "Zoom Visibility": 3,
+            "notes": "Proper name is Traugersbridge.",
+            "nickname": "Partyland",
+            "id": "e2065f46-f984-422e-8d5d-1636b97ce774"
+        },
+        {
             "name": "CWCville",
             "x": 2560,
             "z": -8600,
@@ -1821,7 +1847,7 @@
             "name": "Dynapos",
             "x": 6220,
             "z": 4080,
-            "nation": "Ossenkirch",
+            "nation": "Amyr (Formerly Ossenkirch)",
             "Zoom Visibility": 4,
             "id": "24854e2c-47db-440a-acbd-3cf7dc34408d"
         },
@@ -2560,19 +2586,6 @@
             "id": "1e5a915f-1590-4f8a-898c-ff71281429ef"
         },
         {
-            "name": "Hypercube",
-            "x": -4000,
-            "z": 6200,
-            "nation": "Yoahtl",
-            "image": "https://cdn.discordapp.com/attachments/278045721742147586/404782446312161280/unknown.png",
-            "web": "r/CivYoahtl",
-            "wiki": "https://civwiki.org/wiki/Yoahtl#Hypercube",
-            "symbol": "https://static.miraheze.org/civclassicwiki/thumb/8/84/Yoahtl_Flag.png/200px-Yoahtl_Flag.png",
-            "Zoom Visibility": 5,
-            "id": "d93f8946-295d-433e-859a-441936aae926",
-            "Appomattox Builder's Association - Rating": "-"
-        },
-        {
             "name": "Icenia",
             "x": -1600,
             "z": -1300,
@@ -2999,7 +3012,7 @@
             "x": -4444,
             "z": 6666,
             "nation": "Yoahtl",
-            "contact": "KomradeRyan",
+            "contact": "MechanicalRift (COSMOJYNX#1184)",
             "image": "https://cdn.discordapp.com/attachments/381877436641443851/443613520324460544/Kobylisnki_52F82F18.jpg",
             "image_album": "https://cdn.discordapp.com/attachments/381877436641443851/446832861933338625/Property_in_Kobylinski_52F162F18_1.jpg",
             "web": "r/CivYoahtl",
@@ -3310,7 +3323,7 @@
             "x": 3957,
             "z": -10316,
             "nation": "Acadia",
-            "contact": "Owain_X#7928",
+            "contact": "Bloof(Bloof#2360), Aelfred(Rasful Dorinian#4767",
             "visitors": "welcome",
             "Zoom Visibility": 4,
             "id": "\"c76297fe-5a3d-49bc-98ef-736c2c37cbb3"
@@ -4152,7 +4165,7 @@
             "x": -609,
             "z": 5761,
             "nation": "Okashima (Yoahtl)",
-            "contact": "Logan",
+            "contact": "Neo (NeoTide#9295)",
             "image": "https://cdn.discordapp.com/attachments/479211527354843156/479656278386409472/Okato_II.png",
             "image_album": "https://imgur.com/a/iP6Q2",
             "discord": "https://discord.gg/Ak69cxY",
@@ -4519,7 +4532,7 @@
             "name": "Pruthenia",
             "x": 9255,
             "z": 4142,
-            "nation": "Cortesia Del Mar (Formerly Vitelia)",
+            "nation": "Cortesia Del Mar (Formerly Vitelia, Pruthenia, Lasopena)",
             "contact": "IceCarim#1541, Yodabird19#1542",
             "image": "https://static.miraheze.org/civclassicwiki/d/d1/OverviewTheoderichshafen.png",
             "discord": "https://discord.gg/bWDdF5X",
@@ -4621,7 +4634,7 @@
             "name": "Rekaland",
             "x": 6394,
             "z": 4446,
-            "nation": "Ossenkirch, formerly Riverland",
+            "nation": "Amyr (Formerly Ossenkirch, Riverland)",
             "contact": "u/Toxicy",
             "image": "https://i.imgur.com/EI7i2V3.png",
             "wiki": "https://civwiki.org/wiki/Ossenkirch#Rekaland",
@@ -4679,7 +4692,7 @@
             "name": "Risk Cave",
             "x": 6500,
             "z": 4500,
-            "nation": "Monterrey (Formerly Risk Republic)",
+            "nation": "Amyr (Formerly Risk Republic)",
             "Zoom Visibility": 4,
             "notes": "The people of Risk lived here for less than a day",
             "id": "86e34687-4c14-44f3-b43a-761789e7fa02"
@@ -4814,9 +4827,8 @@
             "name": "Sankt \u00c4gg",
             "x": 3731,
             "z": -6518,
-            "nation": "Nya-\u00c4ggland",
+            "nation": "\u00c4ggland",
             "contact": "IceBoy#8036",
-            "wiki": "https://civwiki.org/wiki/Nya-%C3%84ggland",
             "symbol": "https://static.miraheze.org/civwikiwiki/8/8c/Nya-%C3%84ggland_flag.jpg",
             "visitors": "welcome",
             "Zoom Visibility": 2,
@@ -4929,7 +4941,7 @@
             "name": "Shitville",
             "x": 7070,
             "z": 1640,
-            "nation": "Partyville",
+            "nation": "Partyland",
             "contact": "liquidstereo#6219 ",
             "visitors": "welcome",
             "Zoom Visibility": 3,
@@ -4962,14 +4974,13 @@
             "name": "Sister Republics",
             "x": 4700,
             "z": 3100,
-            "nation": "Sister Republics",
+            "nation": "Wolken (Formerly Sister Republics)",
             "contact": "/u/suthrnpride44",
             "discord": "https://discord.gg/tdqzhcd",
             "web": "https://www.reddit.com/r/civclassics/comments/9ov3vp/land_claim_sister_republics/",
             "symbol": "https://cdn.discordapp.com/attachments/443008910136180746/501931517937844236/Sister_Republics.png",
             "Zoom Visibility": 4,
             "notes": "Contact the Unified Map Project if you have any info about this",
-            "nickname": "Sister Republics",
             "id": "a2b95deb-a04a-4c2e-9ea9-b895071c92de"
         },
         {
@@ -5128,10 +5139,20 @@
             "id": "18edc5b6-6712-4870-8235-167d8bcec2ec"
         },
         {
+            "name": "Sto. Tomas de Mansfield Station",
+            "x": 5672,
+            "z": -10162,
+            "nation": "DeltaGNEC",
+            "contact": "kaprediem#3161",
+            "visitors": "ask first",
+            "Zoom Visibility": 3,
+            "id": "8ff9d337-180f-465e-baa2-7ff4f92f7c7b"
+        },
+        {
             "name": "Stolstad",
             "x": 6123,
             "z": 4419,
-            "nation": "Ossenkirch",
+            "nation": "Amyr (Formerly Ossenkirch)",
             "contact": "u/Toxicy123",
             "image": "https://i.imgur.com/hvmqRzm.png",
             "image_album": "https://imgur.com/a/2HEOZDl",
@@ -5140,7 +5161,6 @@
             "symbol": "https://static.miraheze.org/civclassicwiki/8/85/OssenkirchFlag.jpg",
             "Zoom Visibility": 3,
             "notes": "actually called Stolstad",
-            "nickname": "Ossenkirch",
             "id": "74cce22d-7937-4540-97d7-79be172ee718",
             "Appomattox Builder's Association - Rating": "-"
         },
@@ -5185,7 +5205,7 @@
             "name": "Svaneirei",
             "x": 5555,
             "z": 3000,
-            "nation": "Svaneirei",
+            "nation": "Panem (Nro'Meagh) (Formerly Svaneirei)",
             "contact": "/u/daelvn",
             "discord": "https://discord.gg/pHz3xGU",
             "web": "https://reddit.com/r/svaneireii",
@@ -5339,7 +5359,7 @@
             "name": "Thaegon",
             "x": 8686,
             "z": 5454,
-            "nation": "Cortesia Del Mar (Formerly a gazillion people)",
+            "nation": "Cortesia Del Mar (Formerly Provincia, Vitelia, Thalassocracy, Risk Republic, Thaegon)",
             "contact": "IceCarim#1541, Yodabird19#1542",
             "discord": "z",
             "web": "https://www.reddit.com/r/civclassics/comments/8swvfv/map_of_claims_june_2018/e1462iq/",
@@ -5476,20 +5496,6 @@
             "symbol": "https://static.miraheze.org/civclassicwiki/c/c6/Nyasaland_Flag.png",
             "Zoom Visibility": 4,
             "id": "ad279473-d2a9-417c-9222-1ae40a82fc79"
-        },
-        {
-            "name": "Traugersbridge",
-            "x": 5750,
-            "z": 400,
-            "nation": "Carpathia",
-            "contact": "BritishMunchie",
-            "image": "https://i.imgur.com/ey39MFG.png",
-            "discord": "https://discord.gg/25PmpQ5",
-            "wiki": "https://civwiki.org/wiki/Carpathia#Traugersbridge",
-            "symbol": "https://static.miraheze.org/civclassicwiki/e/ed/Bcf.png",
-            "Zoom Visibility": 3,
-            "nickname": "Carpathia",
-            "id": "e2065f46-f984-422e-8d5d-1636b97ce774"
         },
         {
             "name": "Tr\u00f6nuber",
@@ -5733,6 +5739,7 @@
             "x": -5572,
             "z": 3540,
             "nation": "Venne",
+            "image": "https://cdn.discordapp.com/attachments/812188404028669972/892826414636761088/image0.png",
             "discord": "https://discord.gg/f7ZhvW83",
             "wiki": "https://civwiki.org/wiki/Venne",
             "symbol": "https://static.miraheze.org/civwikiwiki/thumb/0/03/Venne.png/180px-Venne.png",
@@ -5787,10 +5794,9 @@
             "name": "Veria",
             "x": 5225,
             "z": 4039,
-            "nation": "Veria",
+            "nation": "Amyr (Formerly Veria)",
             "Zoom Visibility": 5,
             "notes": "Contact the Unified Map Project if you have any info about this",
-            "nickname": "Veria",
             "id": "84fe1ce1-a298-4d70-b01f-d7f0f5923988"
         },
         {
@@ -5951,6 +5957,17 @@
             "id": "b1f9f2dc-6afb-4b2c-8e95-d0de55cab070"
         },
         {
+            "name": "Westdale",
+            "x": 4376,
+            "z": -6499,
+            "nation": "\u00c4ggland",
+            "contact": "IceBoy#8036",
+            "symbol": "https://cdn.discordapp.com/attachments/890988719203557376/890989363184402432/image0.jpg",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "id": "760eb7e1-faca-4d03-b79a-4f15663c56a9"
+        },
+        {
             "name": "Westgrove",
             "x": 6881,
             "z": 2578,
@@ -6059,17 +6076,6 @@
             "id": "4db0dbd1-f071-49ac-94f2-3e97e4839e6d"
         },
         {
-            "name": "Yujotlan",
-            "x": -1910,
-            "z": 7312,
-            "nation": "Yoahtl",
-            "contact": "Auctorus",
-            "symbol": "https://static.miraheze.org/civclassicwiki/thumb/8/84/Yoahtl_Flag.png/200px-Yoahtl_Flag.png",
-            "Zoom Visibility": 4,
-            "nickname": "Yujotlan",
-            "id": "a126feee-d803-4eab-8068-b6ec9b33475b"
-        },
-        {
             "name": "Zestroso",
             "x": 1173,
             "z": 2000,
@@ -6077,6 +6083,19 @@
             "contact": "u/597",
             "Zoom Visibility": 4,
             "id": "996089b0-3407-448b-af64-2ab2a16296e3"
+        },
+        {
+            "name": "Zeus95's homestead",
+            "x": -4000,
+            "z": 6200,
+            "nation": "Yoahtl",
+            "image": "https://cdn.discordapp.com/attachments/278045721742147586/404782446312161280/unknown.png",
+            "web": "r/CivYoahtl",
+            "wiki": "https://civwiki.org/wiki/Yoahtl#Hypercube",
+            "symbol": "https://static.miraheze.org/civclassicwiki/thumb/8/84/Yoahtl_Flag.png/200px-Yoahtl_Flag.png",
+            "Zoom Visibility": 5,
+            "id": "d93f8946-295d-433e-859a-441936aae926",
+            "Appomattox Builder's Association - Rating": "-"
         }
     ]
 }
