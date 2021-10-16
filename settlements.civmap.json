@@ -511,14 +511,6 @@
             "id": "b9dd5d05-60f4-4dca-9d16-7103bc03a98d"
         },
         {
-            "name": "Amyr",
-            "x": 6611,
-            "z": 3873,
-            "nation": "Amyr",
-            "contact": "WNS2",
-            "Zoom Visibility": 2
-        },
-        {
             "name": "Anburon",
             "x": -1070,
             "z": -500,
@@ -1411,7 +1403,7 @@
             "contact": "Lowtuff#7501",
             "discord": "https://discord.gg/9tVy8uYSuX",
             "visitors": "welcome",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 2,
             "id": "9ddc5bda-5f58-44a5-9d80-212c01960754"
         },
         {
@@ -2299,7 +2291,7 @@
             "name": "Godhaven",
             "x": 5890,
             "z": 3117,
-            "nation": "Panem (Ghodyetre)",
+            "nation": "Panem (Thoria)",
             "Zoom Visibility": 4,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "de353a5b-3e28-49d9-b2bc-c59ef1dc3ba4"
@@ -3510,6 +3502,7 @@
             "z": -7543,
             "nation": "Columbia - Formerly: Eddie Murphy",
             "contact": "K0mmi#4134",
+            "Zoom Visibility": 4,
             "id": "4d1eaac0-fa2c-4044-aa35-2ee17ddf1358"
         },
         {
@@ -3828,6 +3821,14 @@
             "Zoom Visibility": 3,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "9a00f612-456f-4598-a523-e2a5b2b844bb"
+        },
+        {
+            "name": "New Moon",
+            "x": 6611,
+            "z": 3873,
+            "nation": "Amyr",
+            "contact": "WNS2",
+            "Zoom Visibility": 2
         },
         {
             "name": "New Palusgrad",
@@ -4467,8 +4468,11 @@
             "x": 3232,
             "z": 1010,
             "nation": "Federated Worker's Cooperative of Carson - Formerly: Ponsportia",
-            "contact": "u/Crimeo",
+            "contact": "Lowtuff#7501",
+            "discord": "https://discord.gg/9tVy8uYSuX",
+            "visitors": "welcome",
             "Zoom Visibility": 4,
+            "notes": "Founded by Crimeo",
             "id": "bcca40ce-8d4e-4e9f-a832-46c921e51d04"
         },
         {
@@ -4832,7 +4836,7 @@
             "contact": "IceBoy#8036",
             "symbol": "https://static.miraheze.org/civwikiwiki/8/8c/Nya-%C3%84ggland_flag.jpg",
             "visitors": "welcome",
-            "Zoom Visibility": 2,
+            "Zoom Visibility": 3,
             "id": "5bdf62f7-23f5-4ead-8646-9e9c6eb68665"
         },
         {
@@ -5206,7 +5210,7 @@
             "name": "Svaneirei",
             "x": 5555,
             "z": 3000,
-            "nation": "Panem (Ghodyetre) - Formerly: Svaneire",
+            "nation": "Panem (Thoria) - Formerly: Svaneire",
             "contact": "/u/daelvn",
             "discord": "https://discord.gg/pHz3xGU",
             "web": "https://reddit.com/r/svaneireii",
@@ -5412,10 +5416,22 @@
             "id": "4cccc8f2-d045-4439-86b9-33551e2fc711"
         },
         {
+            "name": "The Tower",
+            "x": 5416,
+            "z": 1880,
+            "nation": "Federated Worker's Cooperative of Carson",
+            "contact": "Lowtuff#7501",
+            "discord": "https://discord.gg/9tVy8uYSuX",
+            "visitors": "welcome",
+            "Zoom Visibility": 4,
+            "id": "e9ee1ae9-59eb-4f72-bf72-dc895c93af70"
+        },
+        {
             "name": "Threepton",
             "x": 7429,
             "z": 2333,
             "nation": "Provincia (CCCP)",
+            "contact": "Ninjajackh12, Pythius, Lowtuff",
             "image": "https://i.imgur.com/lJoqTeT.png",
             "discord": "ask",
             "symbol": "https://cdn.discordapp.com/attachments/197411533452607498/477253874005049365/QqJKv4E.png",
@@ -5934,7 +5950,7 @@
             "contact": "IceBoy#8036",
             "symbol": "https://cdn.discordapp.com/attachments/890988719203557376/890989363184402432/image0.jpg",
             "visitors": "welcome",
-            "Zoom Visibility": 2,
+            "Zoom Visibility": 3,
             "id": "760eb7e1-faca-4d03-b79a-4f15663c56a9"
         },
         {
