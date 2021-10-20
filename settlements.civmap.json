@@ -662,7 +662,7 @@
             "nation": "Yoahtl - Formerly: Vinland, Antonos",
             "contact": "WackyAki (Aki#3250) ",
             "image": "https://i.imgur.com/Dzp61g6.png",
-            "Zoom Visibility": 5,
+            "Zoom Visibility": 4,
             "nickname": "Antonos",
             "id": "e3ba390e-cf52-4be2-b770-03c0dd7e8fc9",
             "Appomattox Builder's Association - Rating": "-"
@@ -733,6 +733,14 @@
             "id": "a8b6cf86-4efc-4304-941b-d0eb1d9c91c4",
             "SpecificLanguage's Notes - Tier": 3,
             "SpecificLanguage's Notes - Notes": "I know Arran isn\u2019t known for builds. But it\u2019s built very purposefully."
+        },
+        {
+            "name": "Arrelani",
+            "x": 2509,
+            "z": 975,
+            "nation": "Caledonia",
+            "Zoom Visibility": 4,
+            "id": "70462198-a0c8-4656-8ab9-1f5efe1239b0"
         },
         {
             "name": "Arsenio",
@@ -1333,7 +1341,7 @@
             "wiki": "https://civwiki.org/wiki/Capeland",
             "symbol": "https://cdn.discordapp.com/attachments/237546979301916672/845772140493406248/FaDMZGw.png",
             "visitors": "welcome",
-            "Zoom Visibility": 1,
+            "Zoom Visibility": 2,
             "nickname": "Capeland",
             "id": "89f0b484-ed33-4c07-9b34-99c8527e7363"
         },
@@ -1516,7 +1524,7 @@
             "wiki": "https://civwiki.org/wiki/City_of_England",
             "symbol": "https://static.miraheze.org/civwikiwiki/5/55/CityOfEnglandFlag.png",
             "visitors": "welcome",
-            "Zoom Visibility": 1,
+            "Zoom Visibility": 2,
             "nickname": "City of England",
             "id": "a576568b-206f-40ab-9729-79c4fb4fcb36"
         },
@@ -1611,7 +1619,7 @@
             "discord": "https://discord.gg/MQWAynhakA",
             "symbol": "https://cdn.discordapp.com/attachments/443008910136180746/478646214208782347/flagger.png",
             "visitors": "welcome",
-            "Zoom Visibility": 1,
+            "Zoom Visibility": 2,
             "nickname": "Caledonia",
             "id": "ddaa1193-5298-47c8-ae29-ed90aee93634"
         },
@@ -1709,6 +1717,14 @@
             "notes": "Contact the Unified Map Project if you have any info about this",
             "nickname": "CWCville",
             "id": "a10af115-3252-4a69-a893-7199e97386a9"
+        },
+        {
+            "name": "Dacripius",
+            "x": 5132,
+            "z": 3074,
+            "nation": "Wolken - Formerly: Dacripius",
+            "Zoom Visibility": 5,
+            "id": "ca27b40f-dec8-4ee6-9555-4ef82421a162"
         },
         {
             "name": "Daedalus",
@@ -2292,7 +2308,7 @@
             "x": 5890,
             "z": 3117,
             "nation": "Panem (Thoria)",
-            "Zoom Visibility": 4,
+            "Zoom Visibility": 3,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "de353a5b-3e28-49d9-b2bc-c59ef1dc3ba4"
         },
@@ -2319,7 +2335,7 @@
             "discord": "https://discord.gg/JsFvya8Cpz",
             "wiki": "https://civwiki.org/wiki/Gondolin",
             "visitors": "welcome",
-            "Zoom Visibility": 1,
+            "Zoom Visibility": 2,
             "nickname": "Gondolin",
             "id": "c10a987e-bf59-4235-84c3-942237b9005c"
         },
@@ -2697,7 +2713,7 @@
             "wiki": "https://civwiki.org/wiki/Iria",
             "symbol": "https://static.miraheze.org/civclassicwiki/thumb/c/c2/IriaFlag.png/200px-IriaFlag.png",
             "visitors": "welcome",
-            "Zoom Visibility": 1,
+            "Zoom Visibility": 2,
             "nickname": "Iria",
             "id": "93a8417e-4dfa-4d34-9df4-fecd850d1de2",
             "SpecificLanguage's Notes - Tier": 8,
@@ -2957,6 +2973,16 @@
             "notes": "actually called Ninomiya",
             "nickname": "Kanagawa",
             "id": "a91089a1-c98e-49e1-9595-aa3a869f91c2"
+        },
+        {
+            "name": "Kapreborough",
+            "x": 8343,
+            "z": 1933,
+            "nation": "Lambat",
+            "contact": "AK/OperationguyMCS",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "1cc618f6-5115-45c5-90b9-aac19ea91fc9"
         },
         {
             "name": "King's Landing",
@@ -3226,7 +3252,7 @@
             "name": "Little Leningrad",
             "x": -6700,
             "z": 3350,
-            "nation": "Confederation of Socialist Augusta",
+            "nation": "Confederation of Socialist Augusta (CCCP)",
             "contact": "Courtney#9451",
             "image": "https://i.imgur.com/Sno5IdA.jpg",
             "wiki": "https://civwiki.org/wiki/CSA#Little_Leningrad_(LL)",
@@ -3718,6 +3744,17 @@
             "id": "0e398573-0ea9-40e9-82ae-fad6da0b4e34"
         },
         {
+            "name": "New Aegina",
+            "x": 2900,
+            "z": 861,
+            "nation": "Federated Worker's Cooperative of Carson",
+            "contact": "Lowtuff#7501",
+            "discord": "https://discord.gg/9tVy8uYSuX",
+            "visitors": "welcome",
+            "Zoom Visibility": 4,
+            "id": "bcc365c0-a415-4308-8341-e5af20c86d5e"
+        },
+        {
             "name": "New Antioch",
             "x": -930,
             "z": 300,
@@ -3928,6 +3965,14 @@
             "Appomattox Builder's Association - Rating": "-"
         },
         {
+            "name": "New Yorm City",
+            "x": -2865,
+            "z": 9871,
+            "nation": "Hjaltland",
+            "Zoom Visibility": 3,
+            "id": "58ba00a8-86de-4a45-9b8d-fda877e0cfa9"
+        },
+        {
             "name": "Nexus",
             "x": 0,
             "z": 0,
@@ -3972,7 +4017,7 @@
             "image_album": "https://imgur.com/a/To91T1Y",
             "wiki": "https://civwiki.org/wiki/Nipplerock",
             "symbol": "https://i.redd.it/6q5byjvgwad01.png",
-            "Zoom Visibility": 1,
+            "Zoom Visibility": 2,
             "nickname": "Nipplerock",
             "id": "d8ad44d6-b5b9-4503-a76b-772f897abab7",
             "SpecificLanguage's Notes - Tier": 4,
@@ -4581,7 +4626,7 @@
             "wiki": "https://civwiki.org/wiki/Rainier",
             "symbol": "https://static.miraheze.org/civwikiwiki/thumb/9/9b/CrecentofMonterrey.png/300px-CrecentofMonterrey.png",
             "visitors": "welcome",
-            "Zoom Visibility": 1,
+            "Zoom Visibility": 2,
             "notes": "Previously named Barcelona",
             "nickname": "Monterrey",
             "id": "765d0109-2dc3-44f1-9fc8-24a490a26d97"
@@ -4777,6 +4822,14 @@
             "SpecificLanguage's Notes - Notes": "Despite great structures, the monochrome materials fail to please.",
             "Appomattox Builder's Association - Rating": "3.38",
             "Appomattox Builder's Association - Note": "Has a grand feel but it is currently too small, has a lot of potential"
+        },
+        {
+            "name": "Rugretania",
+            "x": 1877,
+            "z": 2122,
+            "nation": "Yoahtl -  Formerly: Rugretania",
+            "Zoom Visibility": 5,
+            "id": "65156063-cdb6-4ae5-b275-962082479f70"
         },
         {
             "name": "Salisbury",
@@ -5215,7 +5268,7 @@
             "discord": "https://discord.gg/pHz3xGU",
             "web": "https://reddit.com/r/svaneireii",
             "symbol": "https://cdn.discordapp.com/attachments/489860376691736599/489875714997223454/bel-svane.png",
-            "Zoom Visibility": 4,
+            "Zoom Visibility": 5,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "fc5c5256-825e-47ff-a0c2-ab725a16ab65"
         },
@@ -5748,7 +5801,7 @@
             "discord": "https://discord.gg/f7ZhvW83",
             "wiki": "https://civwiki.org/wiki/Venne",
             "symbol": "https://static.miraheze.org/civwikiwiki/thumb/0/03/Venne.png/180px-Venne.png",
-            "Zoom Visibility": 5,
+            "Zoom Visibility": 4,
             "id": "bcc18c64-3226-4f9d-a87f-c64f89bb7982"
         },
         {
@@ -5960,7 +6013,7 @@
             "nation": "Provincia",
             "image": "https://i.imgur.com/OvRKxof.png",
             "symbol": "https://cdn.discordapp.com/attachments/197411533452607498/477253874005049365/QqJKv4E.png",
-            "Zoom Visibility": 5,
+            "Zoom Visibility": 4,
             "id": "2f6e48f5-344d-49b2-ad14-b3858c94f504",
             "SpecificLanguage's Notes - Tier": 6,
             "SpecificLanguage's Notes - Notes": "Nice individual builds, but there\u2019s way too much wood.",
@@ -6065,7 +6118,7 @@
             "name": "Zestroso",
             "x": 1173,
             "z": 2000,
-            "nation": "Disputed between Yoahtl and Dumnonia - Formerly: Carbon, Zestroso",
+            "nation": "Yoahtl - Formerly: Carbon, Zestroso",
             "contact": "WackyAki (Aki#3250), u/597",
             "Zoom Visibility": 4,
             "id": "996089b0-3407-448b-af64-2ab2a16296e3"
