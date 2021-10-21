@@ -108,7 +108,7 @@
             "image": "https://i.imgur.com/4WPPwfN.png",
             "discord": "https://discord.gg/j4fNWrk",
             "symbol": "https://cdn.discordapp.com/attachments/313388169095806986/317805528531206145/image.jpg",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 4,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "45ce68a8-22ba-4a1d-9dd4-904367f43b90"
         },
@@ -120,7 +120,7 @@
             "contact": "ComradeNick",
             "discord": "ask",
             "symbol": "https://static.miraheze.org/civclassicwiki/2/2e/HJEFlagSomewhatOutdated.png",
-            "Zoom Visibility": 4,
+            "Zoom Visibility": 5,
             "notes": "nothing built",
             "id": "17aed361-d832-4e34-bfa4-461833323348"
         },
@@ -332,7 +332,7 @@
             "discord": "https://discord.gg/MQWAynhakA",
             "symbol": "https://cdn.discordapp.com/attachments/443008910136180746/478646214208782347/flagger.png",
             "visitors": "welcome",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 1,
             "id": "b6d69815-aeec-4428-8be1-843fd8eea1ac"
         },
         {
@@ -417,6 +417,17 @@
             "SpecificLanguage's Notes - Tier": 11,
             "SpecificLanguage's Notes - Notes": "Great pagodas, great location, great use of everything.",
             "Appomattox Builder's Association - Rating": "-"
+        },
+        {
+            "name": "Akrambet",
+            "x": 7727,
+            "z": -8444,
+            "nation": "Khaphae (\u00c4ggland)",
+            "contact": "GeneralPingu#8036",
+            "symbol": "https://cdn.discordapp.com/attachments/897436500315213866/898179475404111882/flag_2.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "ab7475b9-bd8a-4fd5-87c3-e0175c364779"
         },
         {
             "name": "Alberney",
@@ -509,6 +520,17 @@
             "visitors": "ask first",
             "Zoom Visibility": 3,
             "id": "b9dd5d05-60f4-4dca-9d16-7103bc03a98d"
+        },
+        {
+            "name": "Anacreon",
+            "x": 10000,
+            "z": 3444,
+            "nation": "Halcyon",
+            "contact": "Deo#2690 ",
+            "visitors": "ask first",
+            "Zoom Visibility": 3,
+            "notes": "Preferably join discord or else guards may attack",
+            "id": "631683fc-9756-4750-8745-777dfdcab15c"
         },
         {
             "name": "Anburon",
@@ -848,6 +870,16 @@
             "notes": "founded by Bennyboo19 on october 2018 as \"Sozialstaat\"",
             "nickname": "Aurora (Commonwealth)",
             "id": "11aaa25d-9102-4b2d-b0ad-ae933d241d72"
+        },
+        {
+            "name": "Avalon",
+            "x": 1950,
+            "z": -980,
+            "nation": "Camelot (Imperial Truidence)",
+            "contact": "Stardust of Benevolence#6969 ",
+            "symbol": "https://cdn.discordapp.com/attachments/839650002669273129/867457261919010856/Colonial_Flag_TemplateCamelot.png",
+            "Zoom Visibility": 3,
+            "id": "90e5920b-ea23-4811-950c-68c923842ee3"
         },
         {
             "name": "Avrelia",
@@ -1230,6 +1262,18 @@
             "id": "22fbcada-0a8b-4d74-8d2c-8883cd81144d"
         },
         {
+            "name": "Brutus",
+            "x": 7484,
+            "z": -3742,
+            "nation": "Buckeye",
+            "contact": "yackabu#4115",
+            "discord": "https://discord.gg/cykj8TtU7c",
+            "wiki": "https://civwiki.miraheze.org/wiki/Buckeye",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "bc121416-f74f-4253-969a-2ee8560873c7"
+        },
+        {
             "name": "Buran Buran",
             "x": 4116,
             "z": 4607,
@@ -1243,6 +1287,17 @@
             "SpecificLanguage's Notes - Tier": 6,
             "SpecificLanguage's Notes - Notes": "Individually a great structure, but with the setting it\u2019s bad.",
             "Appomattox Builder's Association - Rating": "-"
+        },
+        {
+            "name": "Cairo",
+            "x": 8287,
+            "z": -7702,
+            "nation": "Free City of Cairo ",
+            "contact": "Flags#3173",
+            "discord": "https://discord.gg/5dCvsZhDNZ",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "5cc65b8b-cb27-45ee-8c87-4b02afb635cb"
         },
         {
             "name": "Calabria",
@@ -2106,6 +2161,17 @@
             "id": "7c9d686d-b16b-4720-a6e1-cd92417f6c0d"
         },
         {
+            "name": "Flagstaff-Kroyhra",
+            "x": -900,
+            "z": 8800,
+            "nation": "Krohil",
+            "contact": "Kani#3737 and KiWi#6785",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "notes": "Welcome unless interdicted by Krohil or Nro'meagh",
+            "id": "c1dd100e-8f24-42e3-b656-337b423186b3"
+        },
+        {
             "name": "Flijora",
             "x": 7002,
             "z": 3716,
@@ -2308,7 +2374,7 @@
             "x": 5890,
             "z": 3117,
             "nation": "Panem (Thoria)",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 4,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "de353a5b-3e28-49d9-b2bc-c59ef1dc3ba4"
         },
@@ -2401,7 +2467,7 @@
             "image": "https://i.imgur.com/oGV7p6b.png",
             "discord": "ask",
             "symbol": "https://static.miraheze.org/civclassicwiki/2/2e/HJEFlagSomewhatOutdated.png",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 5,
             "notes": "built by \"tntthatsme\", who quit playing soon after he built this, and it seems to be his only structure. The entire settlement was later razed to the ground.",
             "id": "83fe4c82-6d85-40c5-bec5-4b40c2f4c914"
         },
@@ -2432,23 +2498,6 @@
             "id": "0bd2a56b-d3ee-4273-8420-94ea3535549c",
             "Appomattox Builder's Association - Rating": "3.2",
             "Appomattox Builder's Association - Note": "Nice small town feel, though minimally greifed"
-        },
-        {
-            "name": "Hellyeahgis",
-            "x": -11950,
-            "z": 750,
-            "nation": "Western Agricultural Union - Formerly: Holy Jaded Empire",
-            "contact": "ComradeNick",
-            "image": "https://i.imgur.com/eKPnfsO.png",
-            "image_album": "https://imgur.com/a/PNUz8v2",
-            "discord": "ask",
-            "wiki": "https://civwiki.org/wiki/Hellyeahgis",
-            "symbol": "https://static.miraheze.org/civclassicwiki/2/2e/HJEFlagSomewhatOutdated.png",
-            "Zoom Visibility": 3,
-            "notes": "aka Aegsterdam",
-            "nickname": "Hellyeahgis",
-            "id": "cc5c322c-5bbe-40d3-aba4-a995e10ffd87",
-            "Appomattox Builder's Association - Rating": "-"
         },
         {
             "name": "Hexcorp",
@@ -2617,6 +2666,17 @@
             "id": "6bbb3d65-15fa-444c-a71a-6fc020ffab62"
         },
         {
+            "name": "Illuminati",
+            "x": -1400,
+            "z": -5800,
+            "nation": "Gigachadtopia",
+            "contact": " Zelmisburg#5974",
+            "visitors": "ask first",
+            "Zoom Visibility": 3,
+            "notes": "Triangle Man, Triangle Man, Triangle Man hates Particle Man. They have a fight, Triangle wins. Triangle Man.",
+            "id": "8817c779-35b9-4843-ad77-6142f40c92e2"
+        },
+        {
             "name": "Ilon Tanason",
             "x": 5511,
             "z": -2233,
@@ -2726,7 +2786,6 @@
             "x": -9276,
             "z": -825,
             "nation": "Formerly: Holy Jaded Empire, Westeros",
-            "contact": "ComradeNick",
             "discord": "ask",
             "wiki": "https://civwiki.org/wiki/Holy_Jaded_Empire#Ironstone",
             "symbol": "https://static.miraheze.org/civclassicwiki/2/2e/HJEFlagSomewhatOutdated.png",
@@ -2772,6 +2831,23 @@
             "symbol": "https://cdn.discordapp.com/attachments/415482981486952458/417382040824971284/image.png",
             "Zoom Visibility": 4,
             "id": "16f5b06a-9d47-4f18-9904-ba0f50ad124a",
+            "Appomattox Builder's Association - Rating": "-"
+        },
+        {
+            "name": "Iver",
+            "x": -11950,
+            "z": 750,
+            "nation": "Western Agricultural Union (CCCP)",
+            "contact": "Lannister#6978",
+            "image": "https://i.imgur.com/eKPnfsO.png",
+            "image_album": "https://imgur.com/a/PNUz8v2",
+            "discord": "ask",
+            "wiki": "https://civwiki.org/wiki/Western_Agricultural_Union",
+            "symbol": "https://static.miraheze.org/civclassicwiki/2/2e/HJEFlagSomewhatOutdated.png",
+            "Zoom Visibility": 3,
+            "notes": "AKA Hellyeahgis & Aegsterdam",
+            "nickname": "Iver",
+            "id": "cc5c322c-5bbe-40d3-aba4-a995e10ffd87",
             "Appomattox Builder's Association - Rating": "-"
         },
         {
@@ -2866,13 +2942,14 @@
         },
         {
             "name": "Kaga",
-            "x": 4888,
-            "z": 6666,
-            "nation": "Adina (Caledonia) - Formerly: Blackwell, Kaga",
+            "x": 4500,
+            "z": 6300,
+            "nation": "Adina (Caledonia)",
             "contact": "u/Arebs @Arebs#0001",
             "web": "https://www.reddit.com/r/civclassics/comments/8z9x9k/announcing_the_matriarchy_of_kaga/",
             "Zoom Visibility": 4,
-            "nickname": "Adina (Caledonia) - Formerly: Blackwell, Kaga",
+            "notes": "Formerly: Blackwell, Kaga",
+            "nickname": "Adina (Caledonia)",
             "id": "d3142742-248c-4f29-a76f-82c9bff14057"
         },
         {
@@ -2985,6 +3062,18 @@
             "id": "1cc618f6-5115-45c5-90b9-aac19ea91fc9"
         },
         {
+            "name": "Khaphae",
+            "x": 7320,
+            "z": -7476,
+            "nation": "\u00c4ggland",
+            "contact": "IceBoy#8036",
+            "wiki": "https://civwiki.org/wiki/%C3%84ggland",
+            "symbol": "https://cdn.discordapp.com/attachments/890988719203557376/892374276672462868/2021-09-28_2.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "c7692ed4-f11b-40a0-a3b4-253b5118b8d1"
+        },
+        {
             "name": "King's Landing",
             "x": -6800,
             "z": 0,
@@ -3026,7 +3115,7 @@
             "x": -4444,
             "z": 6666,
             "nation": "Yoahtl",
-            "contact": "WackyAki (Aki#3250), MechanicalRift (COSMOJYNX#1184)",
+            "contact": "MechanicalRift (COSMOJYNX#1184)",
             "image": "https://cdn.discordapp.com/attachments/381877436641443851/443613520324460544/Kobylisnki_52F82F18.jpg",
             "image_album": "https://cdn.discordapp.com/attachments/381877436641443851/446832861933338625/Property_in_Kobylinski_52F162F18_1.jpg",
             "web": "r/CivYoahtl",
@@ -3066,17 +3155,15 @@
             "Appomattox Builder's Association - Rating": "-"
         },
         {
-            "name": "Kro'ushro",
-            "x": -420,
-            "z": 8820,
-            "nation": "Krohil - Formerly: Vinland",
-            "contact": "SirAvocado/Monerd22",
-            "image": "https://i.imgur.com/oGoqEeO.png",
-            "discord": "https://discord.gg/Yb7Yu3q",
-            "symbol": "https://cdn.discordapp.com/attachments/431562924859981825/432769088985628672/Capture_2018-04-08-23-09-15.png",
+            "name": "Kriavnya",
+            "x": -100,
+            "z": 8800,
+            "nation": "Krohil",
+            "contact": "Kani#3737 and KiWi#6785",
+            "visitors": "welcome",
             "Zoom Visibility": 3,
-            "nickname": "Kro'ushro",
-            "id": "2f9d350f-a2cf-4e49-81df-15f78805174a"
+            "notes": "Welcome unless interdicted by Krohil or Nro'meagh",
+            "id": "af61907b-fb09-4327-a3c2-21750ddc5961"
         },
         {
             "name": "Krowa",
@@ -3094,6 +3181,20 @@
             "nickname": "Rowa",
             "id": "c7ec9788-e080-4a73-b2f8-088615ec8459",
             "Appomattox Builder's Association - Rating": "-"
+        },
+        {
+            "name": "Kryushro",
+            "x": -420,
+            "z": 8820,
+            "nation": "Krohil - Formerly: Vinland",
+            "contact": "SirAvocado/Monerd22",
+            "image": "https://i.imgur.com/oGoqEeO.png",
+            "discord": "https://discord.gg/Yb7Yu3q",
+            "symbol": "https://cdn.discordapp.com/attachments/431562924859981825/432769088985628672/Capture_2018-04-08-23-09-15.png",
+            "Zoom Visibility": 3,
+            "notes": "Formerly Kro'ushro ",
+            "nickname": "Kryushro",
+            "id": "2f9d350f-a2cf-4e49-81df-15f78805174a"
         },
         {
             "name": "Kuo",
@@ -3186,7 +3287,7 @@
             "web": "https://old.reddit.com/r/civclassics/comments/cyhavd/announcing_the_duchy_of_leuven/",
             "symbol": "https://cdn.discordapp.com/attachments/334324811318689793/618063929054330900/2019-09-02-144501_456x274_scrot.png",
             "visitors": "welcome",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 4,
             "nickname": "Leuven (Kaltsburg)",
             "id": "3031444e-9932-4ad9-b0b0-1205964fdd4d"
         },
@@ -3247,6 +3348,15 @@
             "Zoom Visibility": 4,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "76f9b2e4-c7aa-479a-84ac-4df35a244f3f"
+        },
+        {
+            "name": "Liones",
+            "x": 2186,
+            "z": -779,
+            "nation": "Camelot (Imperial Truidence)",
+            "contact": "Stardust of Benevolence#6969",
+            "Zoom Visibility": 3,
+            "id": "4ff453c1-6efa-420d-b612-40b58a7e7555"
         },
         {
             "name": "Little Leningrad",
@@ -3380,6 +3490,18 @@
             "id": "7774d4be-9de9-460b-bf21-4a233fad67a1"
         },
         {
+            "name": "Magnasoria",
+            "x": 7943,
+            "z": -8743,
+            "nation": "Kaphae (\u00c4ggland)",
+            "contact": "GeneralPingu#8036",
+            "symbol": "https://cdn.discordapp.com/attachments/897436500315213866/898179475404111882/flag_2.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "notes": "Formerly: Magnasoria",
+            "id": "ef14a067-4de7-470a-a89e-ee2d7cb24b76"
+        },
+        {
             "name": "Meditat",
             "x": -9200,
             "z": 4300,
@@ -3391,7 +3513,7 @@
             "wiki": "https://civwiki.org/wiki/Commonwealth#Meditat",
             "symbol": "https://cdn.discordapp.com/attachments/415706745566920716/461064957166092289/MeditatTry3.png",
             "visitors": "welcome",
-            "Zoom Visibility": 2,
+            "Zoom Visibility": 3,
             "nickname": "Meditat",
             "id": "61959e67-d514-4ca2-9206-131dcb5108db",
             "SpecificLanguage's Notes - Tier": 10,
@@ -3402,8 +3524,12 @@
             "name": "Mega Detroit",
             "x": 3540,
             "z": -6465,
-            "nation": "Formerly: Benistan",
+            "nation": "\u00c4ggland",
+            "contact": "IceBoy#8036",
+            "symbol": "https://cdn.discordapp.com/attachments/890988719203557376/893129258552147989/image0.jpg",
+            "visitors": "welcome",
             "Zoom Visibility": 5,
+            "notes": "Formerly: Benistan",
             "id": "990f316e-6fc7-48fc-81ee-1d5836cb7195"
         },
         {
@@ -3549,7 +3675,7 @@
             "nation": "Varkonia - Formerly: Carbon, Monrovia/Zestroso",
             "contact": "u/597",
             "image": "https://i.imgur.com/HrFEvCx.png",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 4,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "ac55de63-0367-43b9-90b8-ab828b45b63c"
         },
@@ -3562,7 +3688,7 @@
             "discord": "https://discord.gg/syHvwaY",
             "web": "https://www.reddit.com/r/civclassics/comments/8wqkb6/announcing_the_grand_duchy_of_varkonia_claims/e1xvc11/",
             "symbol": "https://i.imgur.com/Hjdw6x0.png",
-            "Zoom Visibility": 4,
+            "Zoom Visibility": 5,
             "id": "72548cfa-d329-49f7-bd2d-4d797fdeeaa9"
         },
         {
@@ -3605,7 +3731,7 @@
             "wiki": "https://civwiki.org/wiki/Mount_Augusta",
             "symbol": "https://static.miraheze.org/civclassicwiki/thumb/3/31/MTAFlag.png/200px-MTAFlag.png",
             "visitors": "welcome",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 2,
             "nickname": "Mount September",
             "id": "e767a0bc-9df0-4ec1-87b7-f5cb528bb38b",
             "SpecificLanguage's Notes - Tier": 9,
@@ -3739,7 +3865,7 @@
             "image": "https://cdn.discordapp.com/attachments/501874133550759937/510228842753949706/civclassic4-513.png",
             "image_album": "https://imgur.com/gallery/J2wbcxL",
             "web": "https://www.reddit.com/r/civclassics/comments/9vplpk/from_nevrast_tower_to_varkonia/",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 2,
             "nickname": "Nevrast (Varkonia)",
             "id": "0e398573-0ea9-40e9-82ae-fad6da0b4e34"
         },
@@ -4087,7 +4213,7 @@
             "discord": "https://discord.gg/JFcD46k",
             "wiki": "https://civwiki.org/wiki/Old_Kingdom_of_Kaltsburg",
             "symbol": "https://vignette.wikia.nocookie.net/civclassic/images/c/c6/Spqr.png",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 5,
             "notes": "Signs say \"Town under Ownership of kupokun\". Contact the Unified Map Project if you have any info about this",
             "id": "6bb0e31a-4347-4db5-82c5-7c1ea37fbbd0"
         },
@@ -4544,7 +4670,7 @@
             "wiki": "https://civwiki.org/wiki/Lusitania#Portucale",
             "symbol": "https://cdn.discordapp.com/attachments/422250595911729155/458332204792283147/VNgFQlI.gif",
             "visitors": "welcome",
-            "Zoom Visibility": 1,
+            "Zoom Visibility": 2,
             "notes": "Capital of Lusitania",
             "nickname": "Lusitania",
             "id": "44173a64-657e-49f7-abe2-4ad588d81925",
@@ -4927,6 +5053,18 @@
             "id": "dfbc6816-803f-4fa7-9c12-a4cc8bbca8ed"
         },
         {
+            "name": "Scholastic Book Fair",
+            "x": 11881,
+            "z": 4334,
+            "nation": "Partyland",
+            "contact": "liquidstereo#6219",
+            "web": "https://www.reddit.com/r/civclassics/comments/7ogdsc/officially_declaring_the_free_state_of/",
+            "visitors": "ask first",
+            "Zoom Visibility": 3,
+            "notes": "Founded after Moorland was colonized by Jerusalem by /u/WokeFreeman. Nation was known as 'Wananabazique Lonu'. Now part of Partyland. Kpop is banned here,",
+            "id": "3ac6cb8d-2678-4c3b-86eb-95444f4fbc91"
+        },
+        {
             "name": "Sealand",
             "x": -6220,
             "z": 3220,
@@ -5123,7 +5261,7 @@
             "discord": "https://discord.gg/JFcD46k",
             "wiki": "https://civwiki.org/wiki/Old_Kingdom_of_Kaltsburg",
             "symbol": "https://vignette.wikia.nocookie.net/civclassic/images/c/c6/Spqr.png",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 5,
             "notes": "Signs say \"Town under Ownership of kupokun\". Contact the Unified Map Project if you have any info about this",
             "id": "55ba0ce3-a409-4f49-be73-efdd0055cf95"
         },
@@ -5230,7 +5368,7 @@
             "image": "https://cdn.discordapp.com/attachments/812188404028669972/829531671824433152/2021-04-07_20.20.39.png",
             "wiki": "https://civwiki.org/wiki/Verda#Stormmire",
             "symbol": "https://cdn.discordapp.com/attachments/320668933260705795/327863358000726028/Verda_Flag.png",
-            "Zoom Visibility": 5,
+            "Zoom Visibility": 4,
             "id": "a45c48d1-abf8-40e7-82cd-98493f26c84e"
         },
         {
@@ -5397,7 +5535,7 @@
             "image": "https://i.imgur.com/SadL2c9.png",
             "wiki": "https://civwiki.org/wiki/Gabon",
             "symbol": "https://cdn.discordapp.com/attachments/237546979301916672/845791802590101504/unknown.png",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 5,
             "id": "1f6ebd32-dcfe-4311-8ce9-9f7cd849e0f4"
         },
         {
@@ -5557,6 +5695,17 @@
             "id": "ad279473-d2a9-417c-9222-1ae40a82fc79"
         },
         {
+            "name": "Tophania",
+            "x": -700,
+            "z": 8600,
+            "nation": "Krohil",
+            "contact": "hkl#2537",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "notes": "Anyone welcome unless interdicted by Krohil or town owners",
+            "id": "6fbbe05e-0e86-43f5-a74a-36b08bed7292"
+        },
+        {
             "name": "Tr\u00f6nuber",
             "x": 2727,
             "z": 6000,
@@ -5597,16 +5746,6 @@
             "nickname": "Tvtopia (Gensokyo)",
             "id": "e0f05352-a592-4be3-a90d-54e2961a1618",
             "Appomattox Builder's Association - Rating": "-"
-        },
-        {
-            "name": "Tyroneton",
-            "x": 11881,
-            "z": 4334,
-            "contact": "/u/WokeFreeman",
-            "web": "https://www.reddit.com/r/civclassics/comments/7ogdsc/officially_declaring_the_free_state_of/",
-            "Zoom Visibility": 4,
-            "notes": "Founded after Moorland was colonized by Jerusalem. Nation was known as 'Wananabazique Lonu'",
-            "id": "3ac6cb8d-2678-4c3b-86eb-95444f4fbc91"
         },
         {
             "name": "Upper Astonia",
@@ -5825,7 +5964,7 @@
             "wiki": "https://civclassic.civwiki.org/wiki/Cortesia_Del_Mar",
             "symbol": "https://static.miraheze.org/civwikiwiki/thumb/8/83/CDM_FlagP.png/180px-CDM_FlagP.png",
             "visitors": "welcome",
-            "Zoom Visibility": 1,
+            "Zoom Visibility": 2,
             "nickname": "Cortesia",
             "id": "287e2403-5890-4b15-8439-47b453280845"
         },
