@@ -113,6 +113,33 @@
             "id": "45ce68a8-22ba-4a1d-9dd4-904367f43b90"
         },
         {
+            "name": "(unnamed)",
+            "x": 1945,
+            "z": -951,
+            "nation": "Imperial Truidence (Formerly: Verda)",
+            "contact": "ObtainableSpatula",
+            "wiki": "https://civwiki.org/wiki/Verda#Craiggrad",
+            "symbol": "https://cdn.discordapp.com/attachments/320668933260705795/327863358000726028/Verda_Flag.png",
+            "Zoom Visibility": 4,
+            "notes": "Formerly known as Verda",
+            "id": "ce600891-8169-4b70-8f7c-e101533e3538",
+            "Appomattox Builder's Association - Rating": "-"
+        },
+        {
+            "name": "(unnamed)",
+            "x": 2156,
+            "z": -780,
+            "nation": "Camelot (Imperial Truidence) - Formerly: Craigia (Verda)",
+            "contact": "u/MagmusCivcraft",
+            "wiki": "https://civwiki.org/wiki/Verda#Heinlau",
+            "symbol": "https://cdn.discordapp.com/attachments/320668933260705795/327863358000726028/Verda_Flag.png",
+            "Zoom Visibility": 4,
+            "notes": "Contact the Unified Map Project if you have any info about this",
+            "id": "0bd2a56b-d3ee-4273-8420-94ea3535549c",
+            "Appomattox Builder's Association - Rating": "3.2",
+            "Appomattox Builder's Association - Note": "Nice small town feel, though minimally greifed"
+        },
+        {
             "name": "2/3 Africa",
             "x": -6222,
             "z": 1600,
@@ -1324,20 +1351,6 @@
             "id": "4219f0cf-c21d-45b5-a49a-ab11844335fb"
         },
         {
-            "name": "Camelot",
-            "x": 1945,
-            "z": -951,
-            "nation": "Imperial Truidence (Formerly: Verda)",
-            "contact": "ObtainableSpatula",
-            "wiki": "https://civwiki.org/wiki/Verda#Craiggrad",
-            "symbol": "https://cdn.discordapp.com/attachments/320668933260705795/327863358000726028/Verda_Flag.png",
-            "Zoom Visibility": 4,
-            "notes": "Formerly known as Verda",
-            "nickname": "Camelot",
-            "id": "ce600891-8169-4b70-8f7c-e101533e3538",
-            "Appomattox Builder's Association - Rating": "-"
-        },
-        {
             "name": "Candria",
             "x": -6080,
             "z": 7200,
@@ -2483,21 +2496,6 @@
             "Zoom Visibility": 4,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "370f652e-b825-4994-b5ee-cd24f77ed064"
-        },
-        {
-            "name": "Heinlau",
-            "x": 2156,
-            "z": -780,
-            "nation": "Camelot (Imperial Truidence) - Formerly: Craigia (Verda)",
-            "contact": "u/MagmusCivcraft",
-            "wiki": "https://civwiki.org/wiki/Verda#Heinlau",
-            "symbol": "https://cdn.discordapp.com/attachments/320668933260705795/327863358000726028/Verda_Flag.png",
-            "Zoom Visibility": 4,
-            "notes": "Contact the Unified Map Project if you have any info about this",
-            "nickname": "Heinlau",
-            "id": "0bd2a56b-d3ee-4273-8420-94ea3535549c",
-            "Appomattox Builder's Association - Rating": "3.2",
-            "Appomattox Builder's Association - Note": "Nice small town feel, though minimally greifed"
         },
         {
             "name": "Hexcorp",
