@@ -188,7 +188,7 @@
 {"name":"Smal","id":"ee955d77-c336-449d-9342-ec531d435261","rectangle":[[-6712,3250],[-6894,3171]],"source":"https://discord.com/channels/742831212711772261/758456899921510451/867341297970446367"},
 {"name":"Smal","id":"ef933453-518b-42d8-a877-6df5a8e7fc73","rectangle":[[-5149,2454],[-5162,2442]]},
 {"name":"Smal","id":"bed72df5-ea0e-47cb-ba6b-bd21e57ac50b","polygon":[[[-5695,2885],[-5635,2885],[-5450,2700],[-5400,2750],[-5400,2900],[-5650,3135],[-5825,3135],[-5825,3000],[-5750,3000],[-5750,2950],[-5695,2950]]],"source":"https://discord.com/channels/742831212711772261/758456899921510451/823326816319307787"},
-{"name":"Southern Home Owner's Association of September","id":"d99c0c67-2dc9-4d67-8624-a5720abe65d2","rectangle":[[-4759,2312],[-4700,2351]],"source":"https://discord.com/channels/742831212711772261/758456899921510451/883390241099116656 and https://discord.com/channels/742831212711772261/758456899921510451/883429473150709840"},
+{"name":"Southern Home Owner's Association of September","id":"d99c0c67-2dc9-4d67-8624-a5720abe65d2","rectangle":[[-4781,2277],[-4747,2313]],"source":"https://discord.com/channels/742831212711772261/758456899921510451/883390241099116656 and https://discord.com/channels/742831212711772261/758456899921510451/883429473150709840"},
 {"name":"TheGeneral","id":"347d1417-0412-4fdc-895a-5d98040ff9f8","rectangle":[[-5087,2262],[-5106,2239]]},
 {"name":"TheNeonNerd","id":"d154f660-7d7e-4e7f-aeaa-7be570f847f6","rectangle":[[-4860,2141],[-4890,2099]]},
 {"name":"TheOrangeWizard","id":"85542856-b992-4af8-bb02-94bb71c3ac0c","rectangle":[[-4906,2265],[-4929,2241]]},
@@ -210,6 +210,6 @@
 {"name":"Yergo","id":"30d7ebee-9053-466b-bdb3-50ab60112e59","rectangle":[[-4764,2262],[-4806,2200]],"source":"https://discord.com/channels/742831212711772261/756580002136588382/883577123841900594"},
 {"name":"Yergo","id":"9df4696b-3933-4194-a627-d3ecadf6c0a2","rectangle":[[-4861,2174],[-4891,2141]],"source":"https://discord.com/channels/742831212711772261/756580002136588382/883376835436634162"},
 {"name":"Yergo","id":"d154f660-7d7e-4e7f-aeaa-7be570f847f6","rectangle":[[-4862,2141],[-4890,2099]],"source":"https://discord.com/channels/742831212711772261/756580002136588382/883365917780738129","note":"Controversial, see https://discord.com/channels/742831212711772261/758456899921510451/883383146953998367 and https://discord.com/channels/742831212711772261/758456899921510451/885964809999384617"},
-{"name":"Yergo","id":"de755f87-02c4-4fff-b0e5-2db8428d2809","rectangle":[[-6648,3169],[-6667,3190]],"source":"https://discord.com/channels/742831212711772261/758456899921510451/881955569307631686","note":"y81 to y87"},
+{"name":"Yergo","id":"de755f87-02c4-4fff-b0e5-2db8428d2809","rectangle":[[-6660,3193],[-6686,3167]],"source":"https://discord.com/channels/742831212711772261/758456899921510451/881955569307631686","note":"y81 to y87"},
 {"name":"Yoahtl Govt.","id":"07aa480d-8b81-4359-8286-e5008ac35a4c","rectangle":[[-4803,3150],[-4797,1732]],"source":"https://discord.com/channels/742831212711772261/758456899921510451/879491048903163955","note":"y0 to y8"}
 ]}
