@@ -114,19 +114,6 @@
         },
         {
             "name": "(unnamed)",
-            "x": 1945,
-            "z": -951,
-            "nation": "Imperial Truidence (Formerly: Verda)",
-            "contact": "ObtainableSpatula",
-            "wiki": "https://civwiki.org/wiki/Verda#Craiggrad",
-            "symbol": "https://cdn.discordapp.com/attachments/320668933260705795/327863358000726028/Verda_Flag.png",
-            "Zoom Visibility": 4,
-            "notes": "Formerly known as Verda",
-            "id": "ce600891-8169-4b70-8f7c-e101533e3538",
-            "Appomattox Builder's Association - Rating": "-"
-        },
-        {
-            "name": "(unnamed)",
             "x": 2156,
             "z": -780,
             "nation": "Camelot (Imperial Truidence) - Formerly: Craigia (Verda)",
@@ -474,22 +461,6 @@
         },
         {
             "name": "Albion",
-            "x": -7200,
-            "z": 3600,
-            "nation": "Albion (Commonwealth)",
-            "contact": "Duke_Arioch",
-            "web": "https://docs.google.com/document/d/1NivcNq1poZz5tjrQGdb9IPLakqcona4jUbdW_8KGeK0/edit",
-            "symbol": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1280px-Flag_of_the_United_Kingdom.svg.png",
-            "visitors": "welcome",
-            "Zoom Visibility": 4,
-            "nickname": "Albion",
-            "id": "ffd04c76-a6a0-4999-b701-e57391edf595",
-            "SpecificLanguage's Notes - Tier": 5,
-            "SpecificLanguage's Notes - Notes": "Quaint factor is up to a 9.",
-            "Appomattox Builder's Association - Rating": "-"
-        },
-        {
-            "name": "Albion",
             "x": -7470,
             "z": -5038,
             "nation": "Nevrast (Varkonia) - Formerly: Corvus, Impasse",
@@ -503,6 +474,22 @@
             "Zoom Visibility": 3,
             "notes": "not to be confused with the nation Albion in -,+",
             "id": "e03c0543-282d-4908-ba15-35e592e1ecb2"
+        },
+        {
+            "name": "Albion",
+            "x": -7200,
+            "z": 3600,
+            "nation": "Albion (Commonwealth)",
+            "contact": "Duke_Arioch",
+            "web": "https://docs.google.com/document/d/1NivcNq1poZz5tjrQGdb9IPLakqcona4jUbdW_8KGeK0/edit",
+            "symbol": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1280px-Flag_of_the_United_Kingdom.svg.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 4,
+            "nickname": "Albion",
+            "id": "ffd04c76-a6a0-4999-b701-e57391edf595",
+            "SpecificLanguage's Notes - Tier": 5,
+            "SpecificLanguage's Notes - Notes": "Quaint factor is up to a 9.",
+            "Appomattox Builder's Association - Rating": "-"
         },
         {
             "name": "Alexandria",
@@ -2062,7 +2049,8 @@
             "x": 3760,
             "z": 3637,
             "nation": "Formerly: Yoahtl, Odresh",
-            "Zoom Visibility": 3
+            "Zoom Visibility": 3,
+            "id": "64e94220-7c77-4f6d-8df9-9b6659ca7965"
         },
         {
             "name": "Epimos",
@@ -3052,7 +3040,7 @@
         {
             "name": "Kapreborough",
             "x": 8343,
-            "z": 1933,
+            "z": -1933,
             "nation": "Lambat",
             "contact": "AK/OperationguyMCS",
             "visitors": "welcome",
@@ -3413,7 +3401,8 @@
             "x": 8509,
             "z": -51,
             "nation": "Caledonia",
-            "Zoom Visibility": 5
+            "Zoom Visibility": 5,
+            "id": "c2a9b649-c5e5-4cc6-a5e6-75368fdcdad9"
         },
         {
             "name": "Lotus Monastery",
@@ -3989,7 +3978,8 @@
             "z": 3873,
             "nation": "Amyr",
             "contact": "WNS2",
-            "Zoom Visibility": 2
+            "Zoom Visibility": 2,
+            "id": "e241d30e-a5b9-4784-a9ae-a822abde77df"
         },
         {
             "name": "New Palusgrad",
@@ -4563,7 +4553,8 @@
             "z": 2584,
             "nation": "Piltover",
             "contact": "Patar15",
-            "Zoom Visibility": 3
+            "Zoom Visibility": 3,
+            "id": "f40a090b-c9d5-4c7e-8aca-27abcbdf5e08"
         },
         {
             "name": "Pinegarden",
