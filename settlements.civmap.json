@@ -117,7 +117,6 @@
             "x": 2156,
             "z": -780,
             "nation": "Camelot (Imperial Truidence) - Formerly: Craigia (Verda)",
-            "contact": "u/MagmusCivcraft",
             "wiki": "https://civwiki.org/wiki/Verda#Heinlau",
             "symbol": "https://cdn.discordapp.com/attachments/320668933260705795/327863358000726028/Verda_Flag.png",
             "Zoom Visibility": 4,
@@ -649,6 +648,15 @@
             "notes": "formerly called Mithrin",
             "nickname": "Annwyn",
             "id": "dac22bae-27a8-4a0b-a730-5fc69dc56ed2"
+        },
+        {
+            "name": "Anthem",
+            "x": 8400,
+            "z": 5890,
+            "nation": "Halcyon",
+            "contact": "Deo#2690 or liquidstereo#6219",
+            "Zoom Visibility": 3,
+            "id": "1241dd1b-3a29-4f4d-aadf-66b00952644b"
         },
         {
             "name": "Antietam",
@@ -2846,23 +2854,6 @@
             "id": "279b5136-d583-4cb9-aead-6205744c9a9d"
         },
         {
-            "name": "Jerusalem",
-            "x": 10450,
-            "z": 4321,
-            "nation": "Halcyon - Formerly: Vitelia, Pruthenia, Jerusalem",
-            "contact": "u/soraendo",
-            "image": "https://i.imgur.com/UM14xi2.png",
-            "image_album": "https://imgur.com/a/BN5xv",
-            "web": "https://www.reddit.com/r/civclassics/comments/7qtzdq/the_rise_and_fall_of_the_kingdom_of_jerusalem/",
-            "wiki": "https://civwiki.org/wiki/Pruthenia#Dellingrland",
-            "symbol": "https://static.miraheze.org/civclassicwiki/6/68/FlagPruthenia.jpg",
-            "visitors": "ask first",
-            "Zoom Visibility": 3,
-            "notes": "Originally named Jerusalem. Named Dellingrland by Pruthenia",
-            "id": "650c1bfa-4a47-4795-bc27-a0d01accb837",
-            "Appomattox Builder's Association - Rating": "-"
-        },
-        {
             "name": "Jevoghnya",
             "x": -666,
             "z": 7950,
@@ -2892,6 +2883,18 @@
             "notes": "Founded as Champtown, within the nation of Ancapistan, later annexed by Okashima and renamed Johto",
             "nickname": "Johto",
             "id": "a10bc730-9a95-4aee-bff7-f7b5b3187117"
+        },
+        {
+            "name": "Jomsborg",
+            "x": 3400,
+            "z": 4600,
+            "nation": "Jomsviking Confederation",
+            "contact": "Cat_Alunya (Freyja \ud83e\udd8a#7138)",
+            "discord": "https://discord.gg/mdqKBZ9h9z",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "nickname": "Jomsviking",
+            "id": "4233ee87-f507-47ae-8666-727e3152565b"
         },
         {
             "name": "Jomsburg",
@@ -5050,7 +5053,7 @@
             "web": "https://www.reddit.com/r/civclassics/comments/7ogdsc/officially_declaring_the_free_state_of/",
             "visitors": "ask first",
             "Zoom Visibility": 3,
-            "notes": "Founded after Moorland was colonized by Jerusalem by /u/WokeFreeman. Nation was known as 'Wananabazique Lonu'. Now part of Partyland. Kpop is banned here,",
+            "notes": "Founded after Moorland was colonized by Jerusalem by /u/WokeFreeman. Nation was known as 'Wananabazique Lonu'. Now part of Partyland; kpop is banned here. Originally named Tyroneton.",
             "id": "3ac6cb8d-2678-4c3b-86eb-95444f4fbc91"
         },
         {
@@ -5693,6 +5696,23 @@
             "Zoom Visibility": 3,
             "notes": "Anyone welcome unless interdicted by Krohil or town owners",
             "id": "6fbbe05e-0e86-43f5-a74a-36b08bed7292"
+        },
+        {
+            "name": "Trantor",
+            "x": 10450,
+            "z": 4321,
+            "nation": "Halcyon - Formerly: Vitelia, Pruthenia, Jerusalem",
+            "contact": "u/soraendo",
+            "image": "https://i.imgur.com/UM14xi2.png",
+            "image_album": "https://imgur.com/a/BN5xv",
+            "web": "https://www.reddit.com/r/civclassics/comments/7qtzdq/the_rise_and_fall_of_the_kingdom_of_jerusalem/",
+            "wiki": "https://civwiki.org/wiki/Pruthenia#Dellingrland",
+            "symbol": "https://static.miraheze.org/civclassicwiki/6/68/FlagPruthenia.jpg",
+            "visitors": "ask first",
+            "Zoom Visibility": 3,
+            "notes": "Originally named Jerusalem. Named Dellingrland by Pruthenia",
+            "id": "650c1bfa-4a47-4795-bc27-a0d01accb837",
+            "Appomattox Builder's Association - Rating": "-"
         },
         {
             "name": "Tr\u00f6nuber",
