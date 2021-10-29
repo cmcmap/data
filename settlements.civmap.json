@@ -2887,7 +2887,7 @@
         {
             "name": "Jomsborg",
             "x": 3400,
-            "z": 4600,
+            "z": -4600,
             "nation": "Jomsviking Confederation",
             "contact": "Cat_Alunya (Freyja \ud83e\udd8a#7138)",
             "discord": "https://discord.gg/mdqKBZ9h9z",
@@ -5050,7 +5050,6 @@
             "z": 4334,
             "nation": "Partyland",
             "contact": "liquidstereo#6219",
-            "web": "https://www.reddit.com/r/civclassics/comments/7ogdsc/officially_declaring_the_free_state_of/",
             "visitors": "ask first",
             "Zoom Visibility": 3,
             "notes": "Founded after Moorland was colonized by Jerusalem by /u/WokeFreeman. Nation was known as 'Wananabazique Lonu'. Now part of Partyland; kpop is banned here. Originally named Tyroneton.",
