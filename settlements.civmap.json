@@ -113,19 +113,6 @@
             "id": "45ce68a8-22ba-4a1d-9dd4-904367f43b90"
         },
         {
-            "name": "(unnamed)",
-            "x": 2156,
-            "z": -780,
-            "nation": "Camelot (Imperial Truidence) - Formerly: Craigia (Verda)",
-            "wiki": "https://civwiki.org/wiki/Verda#Heinlau",
-            "symbol": "https://cdn.discordapp.com/attachments/320668933260705795/327863358000726028/Verda_Flag.png",
-            "Zoom Visibility": 4,
-            "notes": "Contact the Unified Map Project if you have any info about this",
-            "id": "0bd2a56b-d3ee-4273-8420-94ea3535549c",
-            "Appomattox Builder's Association - Rating": "3.2",
-            "Appomattox Builder's Association - Note": "Nice small town feel, though minimally greifed"
-        },
-        {
             "name": "2/3 Africa",
             "x": -6222,
             "z": 1600,
@@ -2492,6 +2479,20 @@
             "Zoom Visibility": 4,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "370f652e-b825-4994-b5ee-cd24f77ed064"
+        },
+        {
+            "name": "Heinlau",
+            "x": 2156,
+            "z": -780,
+            "nation": "Camelot (Imperial Truidence) - Formerly: Craigia (Verda)",
+            "wiki": "https://civwiki.org/wiki/Verda#Heinlau",
+            "symbol": "https://cdn.discordapp.com/attachments/320668933260705795/327863358000726028/Verda_Flag.png",
+            "Zoom Visibility": 4,
+            "notes": "Contact the Unified Map Project if you have any info about this",
+            "nickname": "Heinlau",
+            "id": "0bd2a56b-d3ee-4273-8420-94ea3535549c",
+            "Appomattox Builder's Association - Rating": "3.2",
+            "Appomattox Builder's Association - Note": "Nice small town feel, though minimally greifed"
         },
         {
             "name": "Hexcorp",
@@ -5548,7 +5549,6 @@
             "z": 5454,
             "nation": "Cortesia Del Mar (Formerly: Provincia, Vitelia, Thalassocracy, Risk Republic, Thaegon)",
             "contact": "IceCarim#1541, Yodabird19#1542",
-            "discord": "z",
             "web": "https://www.reddit.com/r/civclassics/comments/8swvfv/map_of_claims_june_2018/e1462iq/",
             "visitors": "welcome",
             "Zoom Visibility": 4,
@@ -5870,10 +5870,11 @@
             "name": "Vanhoover",
             "x": 2200,
             "z": -9640,
-            "nation": "Formerly: Chanseatic State",
-            "symbol": "https://static.miraheze.org/civclassicwiki/a/a3/Flag-chanseatic-state.png",
+            "nation": "Acadia; Formerly: Chanseatic State",
+            "contact": "Wassenaar#3303",
+            "visitors": "welcome",
             "Zoom Visibility": 5,
-            "notes": "Contact the Unified Map Project if you have any info about this",
+            "notes": "Also called Port Mason",
             "nickname": "Vanhoover",
             "id": "7ad70845-d115-465f-ac72-344df9453ada"
         },
@@ -6124,9 +6125,8 @@
             "name": "Wesbury",
             "x": -5130,
             "z": 3380,
-            "nation": "Southshire - Formerly: Wesbury",
-            "contact": "Orinnari, /u/Kroolista, Dioxain#2968",
-            "discord": "https://discord.gg/8Uc3g2JsFr",
+            "nation": "South Augusta; formerly Southshire; Wesbury",
+            "contact": "TheOrangeWizard, Dr_Oracle",
             "visitors": "ask first",
             "Zoom Visibility": 4,
             "id": "a3b214f2-da47-4696-84f0-cfef14b3674e"
