@@ -787,6 +787,16 @@
 			]
 		},
 		{
+			"name": "Pizza Street",
+			"owner": "New Thoria",
+			"contact": "@coocoo#5557 or IGN MrCoCo_Cola",
+			"id": "00a883d7-75a8-48bb-9ad6-871f91302b30",
+			"rectangle": [
+				[-7013,-1680],
+				[-7071,-1733]
+			]
+		},	
+		{
 			"name": "Rhodesia",
 			"owner": "Hjaltland",
 			"contact": "@Blue#9826",
