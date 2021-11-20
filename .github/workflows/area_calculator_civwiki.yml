@@ -5,6 +5,8 @@ name: Update Area Nations on CivWiki
 
 on:
   push:
+    branches:
+      - master
     paths:
       - land_claims.civmap.json
   workflow_dispatch:
