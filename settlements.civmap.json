@@ -113,6 +113,53 @@
             "id": "45ce68a8-22ba-4a1d-9dd4-904367f43b90"
         },
         {
+            "name": "(unnamed)",
+            "x": 7727,
+            "z": -8444,
+            "nation": "Khaphae (\u00c4ggland)",
+            "contact": "GeneralPingu#8036",
+            "symbol": "https://cdn.discordapp.com/attachments/897436500315213866/898179475404111882/flag_2.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "notes": "Formerly Akrambet",
+            "id": "ab7475b9-bd8a-4fd5-87c3-e0175c364779"
+        },
+        {
+            "name": "(unnamed)",
+            "x": 7943,
+            "z": -8743,
+            "nation": "Kaphae (\u00c4ggland)",
+            "contact": "GeneralPingu#8036",
+            "symbol": "https://cdn.discordapp.com/attachments/897436500315213866/898179475404111882/flag_2.png",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "notes": "Formerly: Magnasoria",
+            "id": "ef14a067-4de7-470a-a89e-ee2d7cb24b76"
+        },
+        {
+            "name": "(unnamed)",
+            "x": -6633,
+            "z": -1616,
+            "nation": "Coroseia - Formerly: Tierra de Conciencia",
+            "contact": "Njordomir",
+            "image": "https://i.imgur.com/BUtrlCc.png",
+            "discord": "https://discord.gg/7bWsDGm",
+            "wiki": "https://civwiki.org/wiki/Tierra_de_Conciencia#Ravine_City",
+            "symbol": "https://i.imgur.com/sMqo0QB.png",
+            "Zoom Visibility": 3
+        },
+        {
+            "name": "(unnamed)",
+            "x": 11881,
+            "z": 4334,
+            "nation": "Halcyon",
+            "contact": "Deo#2690",
+            "discord": "https://discord.gg/yKMMMvYkdQ",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "3ac6cb8d-2678-4c3b-86eb-95444f4fbc91"
+        },
+        {
             "name": "2/3 Africa",
             "x": -6222,
             "z": 1600,
@@ -179,17 +226,6 @@
             "Zoom Visibility": 5,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "82e950a2-a9d0-4b23-b368-a564aab34996"
-        },
-        {
-            "name": "? (enderman town)",
-            "x": -1928,
-            "z": -4688,
-            "image": "https://i.imgur.com/s6BgWVh.png",
-            "image_album": "https://imgur.com/a/sU1Bk6j",
-            "Zoom Visibility": 5,
-            "notes": "Contact the Unified Map Project if you have any info about this",
-            "id": "935914b1-92a0-4400-b02d-5dbe1c9e1813",
-            "Appomattox Builder's Association - Rating": "-"
         },
         {
             "name": "? (farm house 1)",
@@ -336,6 +372,17 @@
             "id": "b6d69815-aeec-4428-8be1-843fd8eea1ac"
         },
         {
+            "name": "Abilene",
+            "x": -1928,
+            "z": -4688,
+            "nation": "Jolington",
+            "image": "https://i.imgur.com/s6BgWVh.png",
+            "image_album": "https://imgur.com/a/sU1Bk6j",
+            "Zoom Visibility": 4,
+            "id": "935914b1-92a0-4400-b02d-5dbe1c9e1813",
+            "Appomattox Builder's Association - Rating": "-"
+        },
+        {
             "name": "Adina",
             "x": 4800,
             "z": 5750,
@@ -417,17 +464,6 @@
             "SpecificLanguage's Notes - Tier": 11,
             "SpecificLanguage's Notes - Notes": "Great pagodas, great location, great use of everything.",
             "Appomattox Builder's Association - Rating": "-"
-        },
-        {
-            "name": "Akrambet",
-            "x": 7727,
-            "z": -8444,
-            "nation": "Khaphae (\u00c4ggland)",
-            "contact": "GeneralPingu#8036",
-            "symbol": "https://cdn.discordapp.com/attachments/897436500315213866/898179475404111882/flag_2.png",
-            "visitors": "welcome",
-            "Zoom Visibility": 3,
-            "id": "ab7475b9-bd8a-4fd5-87c3-e0175c364779"
         },
         {
             "name": "Alberney",
@@ -533,6 +569,21 @@
             "id": "631683fc-9756-4750-8745-777dfdcab15c"
         },
         {
+            "name": "Anarchia",
+            "x": 1555,
+            "z": -5111,
+            "nation": "Nyasaland - Formerly: Kanagawa (Gensokyo)",
+            "contact": "Takovata",
+            "image": "https://cdn.discordapp.com/attachments/480400649851502604/517785589311864842/unknown.png",
+            "discord": "https://discord.gg/6e4yJpx",
+            "wiki": "https://civwiki.org/wiki/Kanagawa#Faliea_Prefecture",
+            "symbol": "https://i.imgur.com/P9ZkmrS.png",
+            "Zoom Visibility": 3,
+            "notes": "formerly known as Auslafen during Kaltsburg period https://www.reddit.com/r/civclassics/comments/9d6c5d/the_principality_of_auslaufen_new_nation_in/ and later Faliea",
+            "nickname": "Anarchia",
+            "id": "e272cca4-8f30-47ee-822f-8a88d8f74c9c"
+        },
+        {
             "name": "Anburon",
             "x": -1070,
             "z": -500,
@@ -559,6 +610,16 @@
             "Zoom Visibility": 5,
             "nickname": "Yoahtl - Formerly: Nro'meagh, Ancapistan",
             "id": "f9c535eb-53c7-41e5-b1cb-d7401e45b0b9"
+        },
+        {
+            "name": "Andeon",
+            "x": 6775,
+            "nation": "Eon Empire",
+            "contact": "EVDan",
+            "discord": "https://discord.gg/HsQqGH5tWX",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "465726f8-df7c-4b87-8a28-20e763802616"
         },
         {
             "name": "Anguish",
@@ -646,6 +707,15 @@
             "id": "1241dd1b-3a29-4f4d-aadf-66b00952644b"
         },
         {
+            "name": "Anthem",
+            "x": 8400,
+            "z": 5890,
+            "nation": "Halcyon",
+            "contact": "Deo#2690 or liquidstereo#6219",
+            "Zoom Visibility": 3,
+            "id": "7a76f211-5f86-4ed9-8585-30677b4e2e05"
+        },
+        {
             "name": "Antietam",
             "x": 7000,
             "z": -2500,
@@ -700,15 +770,17 @@
         },
         {
             "name": "Apoland",
-            "x": -5070,
-            "z": -9922,
+            "x": -5100,
+            "z": -9900,
             "nation": "Columbia",
-            "contact": "Lemur#4071",
-            "web": "https://www.reddit.com/r/CivColumbia/new/",
+            "contact": "lemur#4071 or Knota#7633 via discord",
+            "image": "https://i.imgur.com/0R9Z28G.png",
+            "image_album": "https://imgur.com/a/fm4unxT",
+            "discord": "Ask ",
+            "web": "https://www.reddit.com/r/CivColumbia/",
             "wiki": "https://civwiki.org/wiki/Columbia",
-            "symbol": "https://i.imgur.com/LqEjmwch.jpg",
             "visitors": "welcome",
-            "Zoom Visibility": 4,
+            "Zoom Visibility": 3,
             "id": "b76faca7-7b87-4987-b844-48e2d5335697"
         },
         {
@@ -888,6 +960,7 @@
             "contact": "Stardust of Benevolence#6969 ",
             "symbol": "https://cdn.discordapp.com/attachments/839650002669273129/867457261919010856/Colonial_Flag_TemplateCamelot.png",
             "Zoom Visibility": 3,
+            "notes": "Formerly called Craiggrad",
             "id": "90e5920b-ea23-4811-950c-68c923842ee3"
         },
         {
@@ -1232,6 +1305,16 @@
             "visitors": "ask first",
             "Zoom Visibility": 4,
             "id": "60d9b787-2f88-4e61-a19b-740a60be6a59"
+        },
+        {
+            "name": "Breadville",
+            "x": 5500,
+            "z": 3400,
+            "nation": "Eddie Murphy",
+            "web": "https://docs.google.com/drawings/d/17boB22aeWYgOWkVE4YmppcqtG9nJObGmg5C7is21hRQ/edit",
+            "Zoom Visibility": 4,
+            "notes": "Formerly: Panem, Nueva Myrador, Svaneireii",
+            "id": "be4a49bf-5f47-4ac2-88de-f2de66b3debf"
         },
         {
             "name": "Brewer's Point",
@@ -1666,7 +1749,7 @@
             "wiki": "https://civwiki.org/wiki/Kingdom_of_Fish",
             "symbol": "https://imgur.com/a/PbN0Zh0.png",
             "visitors": "welcome",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 2,
             "nickname": "Kingdom of Fish",
             "id": "18c7c107-e757-401a-9708-ddbb59316810"
         },
@@ -1790,8 +1873,9 @@
             "name": "Daedalus",
             "x": 6605,
             "z": 5410,
-            "nation": "Daedalus (Imperial Truidence)",
+            "nation": "Amyr ",
             "Zoom Visibility": 3,
+            "notes": " Formerly: Daedalus (Imperial Truidence), Daedalus",
             "id": "4c0c1013-0601-40e9-bb1b-929a75be89c6"
         },
         {
@@ -1908,6 +1992,7 @@
             "image": "https://i.imgur.com/QYM8HN5.png",
             "visitors": "ask first",
             "Zoom Visibility": 3,
+            "notes": "Formerly called Decatur",
             "id": "b55875af-d797-457d-8468-b1d775fb48ec"
         },
         {
@@ -1940,6 +2025,16 @@
             "nation": "Amyr - Formerly: Ossenkirch",
             "Zoom Visibility": 4,
             "id": "24854e2c-47db-440a-acbd-3cf7dc34408d"
+        },
+        {
+            "name": "East Jollington",
+            "x": -1288,
+            "z": -4800,
+            "nation": "East Jollington",
+            "contact": "Danirague",
+            "symbol": "https://cdn.discordapp.com/attachments/890382357452967956/891183400797491230/HighResEastJolingtonFlag.png",
+            "Zoom Visibility": 3,
+            "id": "ab472fe6-6f4e-435a-9b98-51e53196dbca"
         },
         {
             "name": "Ebora",
@@ -2115,19 +2210,23 @@
             "Appomattox Builder's Association - Rating": "-"
         },
         {
-            "name": "Faliea",
-            "x": 1555,
-            "z": -5111,
-            "nation": "Nyasaland - Formerly: Kanagawa (Gensokyo)",
-            "contact": "Takovata",
-            "image": "https://cdn.discordapp.com/attachments/480400649851502604/517785589311864842/unknown.png",
-            "discord": "https://discord.gg/6e4yJpx",
-            "wiki": "https://civwiki.org/wiki/Kanagawa#Faliea_Prefecture",
-            "symbol": "https://i.imgur.com/P9ZkmrS.png",
+            "name": "Euless",
+            "x": -2050,
+            "z": -100,
+            "nation": "Icenia",
+            "Zoom Visibility": 4,
+            "notes": "Formerly: Astonia",
+            "id": "8e9f0780-9faf-4aa9-9849-639aa69e9f1f"
+        },
+        {
+            "name": "Euphoria",
+            "x": -6165,
+            "z": -1845,
+            "nation": "New Thoria",
+            "contact": "coocoo#5557 or Zoomathon#6561",
+            "visitors": "welcome",
             "Zoom Visibility": 3,
-            "notes": "formerly known as Auslafen during Kaltsburg period https://www.reddit.com/r/civclassics/comments/9d6c5d/the_principality_of_auslaufen_new_nation_in/",
-            "nickname": "Faliea",
-            "id": "e272cca4-8f30-47ee-822f-8a88d8f74c9c"
+            "id": "8420f18c-4fba-4444-9d28-780ecbbe87d9"
         },
         {
             "name": "Falstadt",
@@ -2385,6 +2484,16 @@
             "id": "de353a5b-3e28-49d9-b2bc-c59ef1dc3ba4"
         },
         {
+            "name": "Godhaven",
+            "x": 5890,
+            "z": 3117,
+            "nation": "Eddie Murphy",
+            "web": "https://docs.google.com/drawings/d/17boB22aeWYgOWkVE4YmppcqtG9nJObGmg5C7is21hRQ/edit",
+            "Zoom Visibility": 4,
+            "notes": "Formerly: Panem",
+            "id": "3c9cafac-6364-4d4b-94ee-51a25f4e77a6"
+        },
+        {
             "name": "GoFuckYourselfTown",
             "x": -8730,
             "z": -1381,
@@ -2423,6 +2532,16 @@
             "symbol": "https://static.miraheze.org/civclassicwiki/thumb/8/84/Yoahtl_Flag.png/200px-Yoahtl_Flag.png",
             "Zoom Visibility": 3,
             "id": "c3eb4ff1-912f-4f7c-bea2-8aed8c03703d"
+        },
+        {
+            "name": "Great Bridge",
+            "x": 4950,
+            "z": 3440,
+            "nation": "Eddie Murphy",
+            "web": "https://docs.google.com/drawings/d/17boB22aeWYgOWkVE4YmppcqtG9nJObGmg5C7is21hRQ/edit",
+            "Zoom Visibility": 4,
+            "notes": "Formerly: Panem",
+            "id": "25e9218b-d959-4b74-b861-1e65e3050396"
         },
         {
             "name": "Grevi'ish-nrua",
@@ -2849,11 +2968,22 @@
             "discord": "ask",
             "wiki": "https://civwiki.org/wiki/Western_Agricultural_Union",
             "symbol": "https://static.miraheze.org/civclassicwiki/2/2e/HJEFlagSomewhatOutdated.png",
+            "visitors": "welcome",
             "Zoom Visibility": 3,
             "notes": "AKA Hellyeahgis & Aegsterdam",
             "nickname": "Iver",
             "id": "cc5c322c-5bbe-40d3-aba4-a995e10ffd87",
             "Appomattox Builder's Association - Rating": "-"
+        },
+        {
+            "name": "Jamestown",
+            "x": 5280,
+            "z": 3480,
+            "nation": "Eddie Murphy",
+            "web": "https://docs.google.com/drawings/d/17boB22aeWYgOWkVE4YmppcqtG9nJObGmg5C7is21hRQ/edit",
+            "Zoom Visibility": 4,
+            "notes": "Formerly: Panem",
+            "id": "78196431-c4a2-4411-b01e-735776bdc16d"
         },
         {
             "name": "Jasco & Blazerr Farms",
@@ -2894,6 +3024,16 @@
             "notes": "Founded as Champtown, within the nation of Ancapistan, later annexed by Okashima and renamed Johto",
             "nickname": "Johto",
             "id": "a10bc730-9a95-4aee-bff7-f7b5b3187117"
+        },
+        {
+            "name": "Jollington Citadel",
+            "x": -1500,
+            "z": -4777,
+            "nation": "Jollington",
+            "contact": "MrJoCrafter#0001",
+            "symbol": "https://cdn.discordapp.com/attachments/890382394052448276/891183177857642536/unknown.png",
+            "Zoom Visibility": 3,
+            "id": "055e046a-8e20-4858-9a2e-a3ba119df279"
         },
         {
             "name": "Jomsborg",
@@ -3056,9 +3196,10 @@
             "x": 8343,
             "z": -1933,
             "nation": "Lambat",
-            "contact": "AK/OperationguyMCS",
+            "contact": "AK#1775",
+            "image": "https://cdn.discordapp.com/attachments/812188404028669972/913169850455719997/unknown.png",
             "visitors": "welcome",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 2,
             "id": "1cc618f6-5115-45c5-90b9-aac19ea91fc9"
         },
         {
@@ -3072,6 +3213,19 @@
             "visitors": "welcome",
             "Zoom Visibility": 3,
             "id": "c7692ed4-f11b-40a0-a3b4-253b5118b8d1"
+        },
+        {
+            "name": "Khenarthi's Roost",
+            "x": -6965,
+            "z": -1770,
+            "nation": "New Thoria",
+            "contact": "coocoo#5557",
+            "image": "https://imgur.com/a/Fr3Abea.png",
+            "discord": "https://discord.gg/2Wwm6wJ",
+            "wiki": "https://civwiki.org/wiki/New_Thoria",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "815fb7de-e085-4e22-8e95-84128ff6b484"
         },
         {
             "name": "King's Landing",
@@ -3355,7 +3509,10 @@
             "z": -779,
             "nation": "Camelot (Imperial Truidence)",
             "contact": "Stardust of Benevolence#6969",
+            "wiki": "https://civwiki.org/wiki/Verda#Heinlau",
+            "symbol": "https://cdn.discordapp.com/attachments/839650002669273129/867457261919010856/Colonial_Flag_TemplateCamelot.png",
             "Zoom Visibility": 3,
+            "notes": "Formerly called Heinlau",
             "id": "4ff453c1-6efa-420d-b612-40b58a7e7555"
         },
         {
@@ -3409,6 +3566,16 @@
             "Zoom Visibility": 3,
             "notes": "everyone moved to Nyasaland",
             "id": "cf4aa867-785a-45a3-bbd1-ba04dfbf9e08"
+        },
+        {
+            "name": "Locke City",
+            "x": 3000,
+            "z": 2000,
+            "nation": "Yoahtl",
+            "web": "https://docs.google.com/drawings/d/17boB22aeWYgOWkVE4YmppcqtG9nJObGmg5C7is21hRQ/edit",
+            "Zoom Visibility": 4,
+            "notes": "Formerly: Locke City",
+            "id": "9b9ed89d-4464-4e57-b0fd-5bb461415441"
         },
         {
             "name": "Lost Hills",
@@ -3489,18 +3656,6 @@
             "web": "https://www.reddit.com/r/civclassics/comments/8qqcf8/lyrian_land_claim/",
             "Zoom Visibility": 3,
             "id": "7774d4be-9de9-460b-bf21-4a233fad67a1"
-        },
-        {
-            "name": "Magnasoria",
-            "x": 7943,
-            "z": -8743,
-            "nation": "Kaphae (\u00c4ggland)",
-            "contact": "GeneralPingu#8036",
-            "symbol": "https://cdn.discordapp.com/attachments/897436500315213866/898179475404111882/flag_2.png",
-            "visitors": "welcome",
-            "Zoom Visibility": 3,
-            "notes": "Formerly: Magnasoria",
-            "id": "ef14a067-4de7-470a-a89e-ee2d7cb24b76"
         },
         {
             "name": "Meditat",
@@ -3624,8 +3779,9 @@
             "z": 4442,
             "nation": "Halcyon",
             "contact": "liquidstereo#6219",
+            "image": "https://cdn.discordapp.com/attachments/812188404028669972/908720765225009152/memorial.png",
             "image_album": "https://cdn.discordapp.com/attachments/812188404028669972/908720765225009152/memorial.png",
-            "visitors": "Welcome but please do not deface or damage the memorial",
+            "visitors": "welcome",
             "Zoom Visibility": 3,
             "notes": "Liquidstereo's testimony: Earlier today (10/11/21), Miranda (aka LivingFungi) tragically took her own life. She was the original founder of the Civ nation Halcyon until she decided to leave it last month. She was also my girlfriend, and honestly my best friend. We had a falling out two weeks ago but reconciled and got back together no less than yesterday. The pain I feel right now is immeasurable and eats me up inside. She was the nicest and most welcoming person I've ever known. Seemingly, she could always find the good in every situation, even if it seemed like there was no light at the end of the tunnel. Its obvious she was battling her own demons I had no idea about, and unfortunately resulted in this tragedy.",
             "id": "6e15b208-0c47-4b39-bb77-dd0a380fd9df"
@@ -4083,6 +4239,16 @@
             "Zoom Visibility": 3,
             "nickname": "New Venice",
             "id": "c94815f8-e704-4ec2-98cc-adc756ca8c38"
+        },
+        {
+            "name": "New Wydale",
+            "x": 5370,
+            "z": 2810,
+            "nation": "Eddie Murphy",
+            "web": "https://docs.google.com/drawings/d/17boB22aeWYgOWkVE4YmppcqtG9nJObGmg5C7is21hRQ/edit",
+            "Zoom Visibility": 4,
+            "notes": "Formerly: Panem, Wydale",
+            "id": "d00412da-55e3-4d83-99ba-3b7cf49283b0"
         },
         {
             "name": "New Yoahtl City",
@@ -4559,6 +4725,17 @@
             "id": "72e7fa51-69a3-477e-b2c5-2eb33388d7a7"
         },
         {
+            "name": "Pholadelphia",
+            "x": 5320,
+            "z": 2620,
+            "nation": "Eddie Murphy",
+            "contact": "Tiddy#8537",
+            "wiki": "https://civwiki.org/wiki/Imperial_Federation_of_Eddie_Murphy",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "id": "6acd07e2-36f8-496f-8612-f4a80dd74860"
+        },
+        {
             "name": "Phylon",
             "x": 2900,
             "z": 4930,
@@ -4785,19 +4962,6 @@
             "Zoom Visibility": 4,
             "nickname": "Free Republik of Unitas",
             "id": "7e28cb7c-9235-440b-a3ea-aa251d95166e"
-        },
-        {
-            "name": "Ravine City",
-            "x": -6633,
-            "z": -1616,
-            "nation": "Coroseia - Formerly: Tierra de Conciencia",
-            "contact": "Njordomir",
-            "image": "https://i.imgur.com/BUtrlCc.png",
-            "discord": "https://discord.gg/7bWsDGm",
-            "wiki": "https://civwiki.org/wiki/Tierra_de_Conciencia#Ravine_City",
-            "symbol": "https://i.imgur.com/sMqo0QB.png",
-            "Zoom Visibility": 3,
-            "id": "62561475-70f0-4ea1-af08-e0023df6cbf9"
         },
         {
             "name": "Redgarden",
@@ -5067,17 +5231,6 @@
             "visitors": "ask first",
             "Zoom Visibility": 3,
             "id": "dfbc6816-803f-4fa7-9c12-a4cc8bbca8ed"
-        },
-        {
-            "name": "Scholastic Book Fair",
-            "x": 11881,
-            "z": 4334,
-            "nation": "Partyland",
-            "contact": "liquidstereo#6219",
-            "visitors": "ask first",
-            "Zoom Visibility": 3,
-            "notes": "Founded after Moorland was colonized by Jerusalem by /u/WokeFreeman. Nation was known as 'Wananabazique Lonu'. Now part of Partyland; kpop is banned here. Originally named Tyroneton.",
-            "id": "3ac6cb8d-2678-4c3b-86eb-95444f4fbc91"
         },
         {
             "name": "Sealand",
@@ -5424,6 +5577,16 @@
             "Zoom Visibility": 5,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "fc5c5256-825e-47ff-a0c2-ab725a16ab65"
+        },
+        {
+            "name": "Svaneireii",
+            "x": 5555,
+            "z": 3000,
+            "nation": "Eddie Murphy",
+            "web": "https://docs.google.com/drawings/d/17boB22aeWYgOWkVE4YmppcqtG9nJObGmg5C7is21hRQ/edit",
+            "Zoom Visibility": 4,
+            "notes": "Formerly: Panem, Nueva Myrador, Svaneireii",
+            "id": "e6702bf3-1e71-49eb-97fa-1cb456024de6"
         },
         {
             "name": "Swerve",
@@ -5898,7 +6061,7 @@
             "nation": "Acadia; Formerly: Chanseatic State",
             "contact": "Wassenaar#3303",
             "visitors": "welcome",
-            "Zoom Visibility": 5,
+            "Zoom Visibility": 3,
             "notes": "Also called Port Mason",
             "nickname": "Vanhoover",
             "id": "7ad70845-d115-465f-ac72-344df9453ada"
@@ -6012,6 +6175,16 @@
             "id": "84fe1ce1-a298-4d70-b01f-d7f0f5923988"
         },
         {
+            "name": "Veria",
+            "x": 5225,
+            "z": 4039,
+            "nation": "Amyr",
+            "web": "https://docs.google.com/drawings/d/17boB22aeWYgOWkVE4YmppcqtG9nJObGmg5C7is21hRQ/edit",
+            "Zoom Visibility": 4,
+            "notes": "Formerly: Panem, Veria",
+            "id": "071997f6-92d3-4438-804d-0ec4fffe3798"
+        },
+        {
             "name": "Verona",
             "x": -4630,
             "z": -1340,
@@ -6019,6 +6192,16 @@
             "Zoom Visibility": 5,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "31932f62-742d-4b65-bdbd-e0f2337562f7"
+        },
+        {
+            "name": "Versailles",
+            "x": 3500,
+            "z": -600,
+            "nation": "Imperial Truidence",
+            "web": "https://civwiki.org/wiki/File:Lands_around_the_crowsroost.png",
+            "Zoom Visibility": 4,
+            "notes": "Formerly: Duchy of Verda",
+            "id": "161e3425-ba52-4d96-ac4a-66b3da9352e3"
         },
         {
             "name": "Victoria Isle",
@@ -6049,6 +6232,16 @@
             "SpecificLanguage's Notes - Tier": 7,
             "SpecificLanguage's Notes - Notes": "Could use less stone, but a great plan for starters.",
             "Appomattox Builder's Association - Rating": "-"
+        },
+        {
+            "name": "Vilsek",
+            "x": 8350,
+            "z": 3150,
+            "nation": "Cortesia Del Mar",
+            "web": "https://www.reddit.com/r/civclassics/comments/flq1jy/welcome_to_sars_the_southeastern_aboveground_rail/",
+            "Zoom Visibility": 4,
+            "notes": "Formerly: Vilsek",
+            "id": "88491320-4ffd-4c6a-8cc4-d4520cae4842"
         },
         {
             "name": "Vindobona Novum",
@@ -6254,6 +6447,7 @@
             "z": 11000,
             "nation": "Formerly: Yoahtl, Xalta Moro",
             "contact": "Atraxas",
+            "image": "https://cdn.discordapp.com/attachments/812188404028669972/905915160596729906/unknown.png",
             "wiki": "https://civwiki.org/wiki/Xalta_Moro",
             "symbol": "https://cdn.discordapp.com/attachments/443001096739487746/479218998706438159/officialflagsimple.png",
             "Zoom Visibility": 4,
