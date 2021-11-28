@@ -138,6 +138,14 @@
         },
         {
             "name": "(unnamed)",
+            "x": 6611,
+            "z": 3873,
+            "nation": "Amyr",
+            "contact": "WNS2",
+            "Zoom Visibility": 5
+        },
+        {
+            "name": "(unnamed)",
             "x": -6633,
             "z": -1616,
             "nation": "Coroseia - Formerly: Tierra de Conciencia",
@@ -146,7 +154,7 @@
             "discord": "https://discord.gg/7bWsDGm",
             "wiki": "https://civwiki.org/wiki/Tierra_de_Conciencia#Ravine_City",
             "symbol": "https://i.imgur.com/sMqo0QB.png",
-            "Zoom Visibility": 3
+            "visitors": "welcome"
         },
         {
             "name": "(unnamed)",
@@ -1380,6 +1388,17 @@
             "SpecificLanguage's Notes - Tier": 6,
             "SpecificLanguage's Notes - Notes": "Individually a great structure, but with the setting it\u2019s bad.",
             "Appomattox Builder's Association - Rating": "-"
+        },
+        {
+            "name": "Caea",
+            "x": 6600,
+            "z": 3900,
+            "nation": "Amyr",
+            "contact": "WNS2",
+            "discord": "https://discord.gg/gZC53D25wv",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "62561475-70f0-4ea1-af08-e0023df6cbf9"
         },
         {
             "name": "Cairo",
@@ -3139,6 +3158,17 @@
             "Appomattox Builder's Association - Rating": "-"
         },
         {
+            "name": "Kallopolis",
+            "x": -6519,
+            "z": 960,
+            "nation": "Kallos",
+            "contact": "Troll_Bebek (jeff#7004), PepsiKola95 (laika#0731), Kicky_ (kicky#3775)",
+            "discord": "ask",
+            "visitors": "welcome",
+            "Zoom Visibility": 1,
+            "id": "e241d30e-a5b9-4784-a9ae-a822abde77df"
+        },
+        {
             "name": "Kallos City",
             "x": -7100,
             "z": -150,
@@ -4154,15 +4184,6 @@
             "Zoom Visibility": 3,
             "notes": "Contact the Unified Map Project if you have any info about this",
             "id": "9a00f612-456f-4598-a523-e2a5b2b844bb"
-        },
-        {
-            "name": "New Moon",
-            "x": 6611,
-            "z": 3873,
-            "nation": "Amyr",
-            "contact": "WNS2",
-            "Zoom Visibility": 2,
-            "id": "e241d30e-a5b9-4784-a9ae-a822abde77df"
         },
         {
             "name": "New Palusgrad",
@@ -5570,24 +5591,14 @@
             "name": "Svaneirei",
             "x": 5555,
             "z": 3000,
-            "nation": "Panem (Thoria) - Formerly: Svaneire",
+            "nation": "Eddie Murphy",
             "contact": "/u/daelvn",
             "discord": "https://discord.gg/pHz3xGU",
             "web": "https://reddit.com/r/svaneireii",
             "symbol": "https://cdn.discordapp.com/attachments/489860376691736599/489875714997223454/bel-svane.png",
             "Zoom Visibility": 5,
-            "notes": "Contact the Unified Map Project if you have any info about this",
+            "notes": "Formerly: Panem (Thoria) and Svaneire",
             "id": "fc5c5256-825e-47ff-a0c2-ab725a16ab65"
-        },
-        {
-            "name": "Svaneireii",
-            "x": 5555,
-            "z": 3000,
-            "nation": "Eddie Murphy",
-            "web": "https://docs.google.com/drawings/d/17boB22aeWYgOWkVE4YmppcqtG9nJObGmg5C7is21hRQ/edit",
-            "Zoom Visibility": 4,
-            "notes": "Formerly: Panem, Nueva Myrador, Svaneireii",
-            "id": "e6702bf3-1e71-49eb-97fa-1cb456024de6"
         },
         {
             "name": "Swerve",
