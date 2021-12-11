@@ -195,9 +195,9 @@ def main(argv):
         # Upload the table to civwiki
         #
         if SANDBOX == False:
-            page = site.pages['List_of_nations_by_area']
+            page = site.pages['List_of_nations_by_area (CivClassic)']
         else:
-            page = site.pages['List_of_nations_by_area/Sandbox']
+            page = site.pages['List_of_nations_by_area (CivClassic)/Sandbox']
         text = page.text()
         parsed = wtp.parse(text)
         # print(parsed.pformat())
