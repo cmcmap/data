@@ -441,21 +441,6 @@
             "id": "5be55edf-b2c8-4796-8c6f-a1cdef9ab36b"
         },
         {
-            "name": "Air Bud",
-            "x": -3311,
-            "z": -4410,
-            "nation": "Formerly: Air Bud Republic",
-            "contact": "u/Dreyzski",
-            "image": "https://i.imgur.com/G9HZ91o.png",
-            "image_album": "https://imgur.com/a/KHYCtQX",
-            "web": "https://www.reddit.com/r/civclassics/comments/8cbahz/the_air_bud_republic_land_claims/",
-            "wiki": "https://civwiki.org/wiki/Air_Bud_Republic",
-            "symbol": "https://static.miraheze.org/civclassicwiki/thumb/e/ee/Dog_Icon_v2_18.4.14.png/200px-Dog_Icon_v2_18.4.14.png",
-            "Zoom Visibility": 3,
-            "id": "8634f395-8694-46ae-9ba1-1956d8612cfd",
-            "Appomattox Builder's Association - Rating": "-"
-        },
-        {
             "name": "Airhaven",
             "x": -4556,
             "z": 9115,
@@ -532,23 +517,6 @@
             "symbol": "https://cdn.discordapp.com/attachments/649048618669703189/663439236426498079/Minecraft_Banner_Gallery_-_Google_Chrome_1_5_2020_12_48_41_PM_2.png",
             "Zoom Visibility": 3,
             "id": "8803152c-faf8-4be1-b528-0725859b2cfd"
-        },
-        {
-            "name": "Alpoko",
-            "x": -3400,
-            "z": -1600,
-            "nation": "Gabon - Formerly: Alpoko",
-            "image": "https://i.imgur.com/aJlFDhe.png",
-            "image_album": "https://imgur.com/a/YisBvyP",
-            "discord": "https://discord.gg/syHvwaY",
-            "web": "/r/Alpoko/",
-            "Zoom Visibility": 4,
-            "notes": "Contact the Unified Map Project if you have any info about this",
-            "nickname": "Alpoko",
-            "id": "f770cb66-aebb-4174-80bd-00f2b73c3645",
-            "SpecificLanguage's Notes - Tier": 6,
-            "SpecificLanguage's Notes - Notes": "Elementary structures, but a good layout pays off.",
-            "Appomattox Builder's Association - Rating": "-"
         },
         {
             "name": "Altton",
@@ -705,15 +673,6 @@
             "notes": "formerly called Mithrin",
             "nickname": "Annwyn",
             "id": "dac22bae-27a8-4a0b-a730-5fc69dc56ed2"
-        },
-        {
-            "name": "Anthem",
-            "x": 8400,
-            "z": 5890,
-            "nation": "Halcyon",
-            "contact": "Deo#2690 or liquidstereo#6219",
-            "Zoom Visibility": 4,
-            "id": "1241dd1b-3a29-4f4d-aadf-66b00952644b"
         },
         {
             "name": "Anthem",
@@ -1512,22 +1471,6 @@
             "id": "33530ae3-e5a4-43cd-9295-0d5bc3a38a37"
         },
         {
-            "name": "Capitum",
-            "x": -1900,
-            "z": -5500,
-            "nation": "Formerly Grand Imperium",
-            "contact": "attoprak (atto)",
-            "image": "https://i.imgur.com/4NbFV7P.png",
-            "image_album": "https://imgur.com/a/Yefxctj",
-            "discord": "https://discord.gg/PQZYzWW",
-            "web": "r/GrandImperium",
-            "wiki": "https://civwiki.org/wiki/Grand_Imperium",
-            "symbol": "https://i.imgur.com/673iInD.jpg",
-            "visitors": "ask first",
-            "Zoom Visibility": 3,
-            "id": "9b093655-782d-4beb-b121-cb5fe8e83494"
-        },
-        {
             "name": "Capua",
             "x": -9277,
             "z": -4118,
@@ -1685,6 +1628,16 @@
             "id": "a576568b-206f-40ab-9729-79c4fb4fcb36"
         },
         {
+            "name": "City of Liones",
+            "x": 3800,
+            "z": -7000,
+            "nation": "Kingdom of Brittania",
+            "contact": "Stardust#6969",
+            "discord": "https://discord.gg/PJZHZKBDku",
+            "visitors": "welcome",
+            "Zoom Visibility": 3
+        },
+        {
             "name": "Cloud Island",
             "x": -5426,
             "z": 10176,
@@ -1838,21 +1791,6 @@
             "id": "8e6efc1e-b866-4c6e-93a0-130e2f2af773"
         },
         {
-            "name": "Cringebridge",
-            "x": 5750,
-            "z": 400,
-            "nation": "Partyland - Formerly: Carpathia",
-            "contact": "BritishMunchie",
-            "image": "https://i.imgur.com/ey39MFG.png",
-            "discord": "https://discord.gg/25PmpQ5",
-            "wiki": "https://civwiki.org/wiki/Carpathia#Traugersbridge",
-            "symbol": "https://static.miraheze.org/civclassicwiki/e/ed/Bcf.png",
-            "Zoom Visibility": 3,
-            "notes": "Proper name is Traugersbridge.",
-            "nickname": "Partyland",
-            "id": "e2065f46-f984-422e-8d5d-1636b97ce774"
-        },
-        {
             "name": "Crowsroost",
             "x": 3267,
             "z": -1406,
@@ -1921,6 +1859,17 @@
             "Zoom Visibility": 4,
             "id": "45e01a71-3805-454d-abff-24754175a7a3",
             "Appomattox Builder's Association - Rating": "-"
+        },
+        {
+            "name": "Dbugingrad",
+            "x": 574,
+            "z": -5278,
+            "nation": "City of England (Formerly: Varkonia, SPQR, Kaltsburg)",
+            "contact": "Dbug113#0495",
+            "discord": "https://discord.gg/JkYzSQyVRN",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "notes": "Spiritual successor to city-state of the same name from CivRealms"
         },
         {
             "name": "Demeton",
@@ -2668,6 +2617,24 @@
             "visitors": "welcome",
             "Zoom Visibility": 2,
             "id": "593f379c-5a59-421c-9f7c-8aac6b9993fc"
+        },
+        {
+            "name": "Highgrove",
+            "x": -3400,
+            "z": -1600,
+            "nation": "Gabon - Formerly: Alpoko",
+            "contact": "Gobblin#9990",
+            "image": "https://i.imgur.com/GCQvgLP.jpg",
+            "image_album": "https://imgur.com/a/YisBvyP",
+            "discord": "https://discord.gg/QJUdbdQ",
+            "visitors": "welcome",
+            "Zoom Visibility": 4,
+            "notes": "Contact the Unified Map Project if you have any info about this",
+            "nickname": "Highgrove",
+            "id": "f770cb66-aebb-4174-80bd-00f2b73c3645",
+            "SpecificLanguage's Notes - Tier": 6,
+            "SpecificLanguage's Notes - Notes": "Elementary structures, but a good layout pays off.",
+            "Appomattox Builder's Association - Rating": "-"
         },
         {
             "name": "Highpoint",
@@ -3967,6 +3934,24 @@
             "Zoom Visibility": 1,
             "nickname": "Mount September",
             "id": "72d41b31-527e-47e6-9496-472470362799"
+        },
+        {
+            "name": "Mournhold",
+            "x": -3311,
+            "z": -4410,
+            "nation": "Atmora formerly: Air Bud Republic, Binchyland",
+            "contact": "FluffyUnicorn#6380",
+            "image": "https://i.imgur.com/G9HZ91o.png",
+            "image_album": "https://imgur.com/a/KHYCtQX",
+            "discord": "https://discord.gg/6Fc4zhkeQs",
+            "web": "https://www.reddit.com/r/civclassics/comments/8cbahz/the_air_bud_republic_land_claims/",
+            "wiki": "https://civwiki.org/wiki/Air_Bud_Republic",
+            "symbol": "https://static.miraheze.org/civclassicwiki/thumb/e/ee/Dog_Icon_v2_18.4.14.png/200px-Dog_Icon_v2_18.4.14.png",
+            "visitors": "ask first",
+            "Zoom Visibility": 3,
+            "notes": "Formerly Airbud",
+            "id": "8634f395-8694-46ae-9ba1-1956d8612cfd",
+            "Appomattox Builder's Association - Rating": "-"
         },
         {
             "name": "Mytharium",
@@ -5310,6 +5295,16 @@
             "Appomattox Builder's Association - Rating": "-"
         },
         {
+            "name": "Shallow Valley",
+            "x": -8195,
+            "z": 7745,
+            "nation": "Venne",
+            "contact": "Beestang#4211",
+            "discord": "https://discord.gg/4BZ8Ebebme",
+            "visitors": "welcome",
+            "Zoom Visibility": 3
+        },
+        {
             "name": "Shiedstad",
             "x": -3881,
             "z": -8356,
@@ -5914,6 +5909,21 @@
             "Appomattox Builder's Association - Rating": "-"
         },
         {
+            "name": "Traugersbridge",
+            "x": 5750,
+            "z": 400,
+            "nation": "Chungia (Capeland) - Formerly: Carpathia",
+            "contact": "BritishMunchie",
+            "image": "https://i.imgur.com/ey39MFG.png",
+            "discord": "https://discord.gg/25PmpQ5",
+            "wiki": "https://civwiki.org/wiki/Carpathia#Traugersbridge",
+            "symbol": "https://static.miraheze.org/civclassicwiki/e/ed/Bcf.png",
+            "Zoom Visibility": 3,
+            "notes": "Proper name is Traugersbridge.",
+            "nickname": "Carpathia",
+            "id": "e2065f46-f984-422e-8d5d-1636b97ce774"
+        },
+        {
             "name": "Tr\u00f6nuber",
             "x": 2727,
             "z": 6000,
@@ -6306,8 +6316,9 @@
             "x": 5500,
             "z": 960,
             "nation": "Chungia (Capeland)",
-            "contact": "AK#1775, Magnileve#9863, Orhint#8459",
-            "visitors": "ask first",
+            "contact": "Magnileve#2995, Orhint#8459",
+            "discord": "https://discord.gg/3draX6HaSk",
+            "visitors": "welcome",
             "Zoom Visibility": 4,
             "id": "0030e212-9d52-48f2-8a7f-34b6b6557002"
         },
@@ -6441,6 +6452,22 @@
             "Zoom Visibility": 2,
             "nickname": "Westmore",
             "id": "f6ad892c-4187-4a2f-b831-6cc0e186aa13"
+        },
+        {
+            "name": "Winterhold",
+            "x": -1900,
+            "z": -5500,
+            "nation": "Atmora formerly: Grand Imperium, Sussex (I think?)",
+            "contact": "FluffyUnicorn#6380",
+            "image": "https://i.imgur.com/4NbFV7P.png",
+            "image_album": "https://imgur.com/a/Yefxctj",
+            "discord": "https://discord.gg/6Fc4zhkeQs",
+            "wiki": "https://civwiki.org/wiki/Grand_Imperium",
+            "symbol": "https://i.imgur.com/673iInD.jpg",
+            "visitors": "ask first",
+            "Zoom Visibility": 3,
+            "notes": "Formerly Capitum",
+            "id": "9b093655-782d-4beb-b121-cb5fe8e83494"
         },
         {
             "name": "Wolken",
