@@ -198,15 +198,6 @@
             "id": "c83a925d-ec62-45f0-b896-53511b274ea4"
         },
         {
-            "name": "? (cape farms)",
-            "x": 5670,
-            "z": 5555,
-            "image": "https://i.imgur.com/HjAyz2e.png",
-            "Zoom Visibility": 5,
-            "notes": "Contact the Unified Map Project if you have any info about this",
-            "id": "d6fbd57f-d15f-44e1-ba25-40b8f97e17c4"
-        },
-        {
             "name": "? (commie town)",
             "x": -3000,
             "z": -6950,
@@ -395,7 +386,7 @@
             "x": 4800,
             "z": 5750,
             "nation": "Adina (Caledonia)",
-            "contact": "Incentives, matanic1107, Kalipso_Angel",
+            "contact": "Imp#7400, Evann#4245, prawny#0856, KiWi#6785",
             "image": "https://i.imgur.com/vzBlFTS.png",
             "image_album": "https://imgur.com/a/8X0zSQ2",
             "discord": "https://discord.gg/QyM35B5",
@@ -636,7 +627,7 @@
             "discord": "https://discord.gg/97uunvF",
             "web": "/r/civcasia",
             "symbol": "https://cdn.discordapp.com/attachments/324008477943136276/329339571424985088/Casia.png",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 4,
             "notes": "town originally called Casia",
             "nickname": "Angullia",
             "id": "f925c3c1-0f53-4ec4-acda-afa87c32281d",
@@ -696,7 +687,6 @@
             "wiki": "https://civwiki.org/wiki/https://civwiki.org/wiki/Appomattox",
             "symbol": "https://i.imgur.com/1ptsOpg.png",
             "Zoom Visibility": 3,
-            "nickname": "Sussex: Formerly Appomattox",
             "id": "506f975d-553f-4792-a05f-6bd8413a576d",
             "SpecificLanguage's Notes - Tier": 1,
             "SpecificLanguage's Notes - Notes": "Despite the pickle rick, it looks pretty bad anyway.",
@@ -714,14 +704,13 @@
         },
         {
             "name": "Antigua",
-            "x": 4700,
+            "x": 5700,
             "z": 5500,
-            "nation": "Antigua",
-            "contact": "/u/_Kalipso_",
+            "nation": "Adina (Formerly Antigua)",
+            "contact": "Imp#7400, Evann#4245, prawny#0856, KiWi#6785",
             "web": "https://www.reddit.com/r/civclassics/comments/9mj9f5/official_claims_of_antigua/",
             "symbol": "https://cdn.discordapp.com/attachments/334324811318689793/516291878010880070/2018-11-25-173823_218x145_scrot.png",
-            "Zoom Visibility": 4,
-            "nickname": "Antigua",
+            "Zoom Visibility": 3,
             "id": "a1f32336-5d6b-4785-b1d0-99bdffb49909"
         },
         {
@@ -1194,6 +1183,15 @@
             "SpecificLanguage's Notes - Notes": "Mishmash of \u2018meh\u2019 builds don\u2019t look great, do they?"
         },
         {
+            "name": "Blackwater End Portal",
+            "x": -902,
+            "z": 1190,
+            "nation": "Varkonia",
+            "visitors": "ask first",
+            "Zoom Visibility": 2,
+            "id": "8e9f0780-9faf-4aa9-9849-639aa69e9f1a"
+        },
+        {
             "name": "Blackwell",
             "x": 4440,
             "z": 5720,
@@ -1206,10 +1204,10 @@
         },
         {
             "name": "Bloom",
-            "x": -2121,
-            "z": -2600,
+            "x": -2239,
+            "z": -2576,
             "nation": "Bloom (Icenia)",
-            "contact": "Slushhi",
+            "contact": "Naglafer, Truck_Man1234",
             "image": "https://cdn.discordapp.com/attachments/491091916335874051/691481374732976198/BloomRender2020.png",
             "image_album": "https://imgur.com/a/cP1s70W",
             "discord": "https://discord.gg/attCEjk",
@@ -1635,7 +1633,8 @@
             "contact": "Stardust#6969",
             "discord": "https://discord.gg/PJZHZKBDku",
             "visitors": "welcome",
-            "Zoom Visibility": 3
+            "Zoom Visibility": 3,
+            "id": "9b9ed89d-4464-4e57-b0fd-5bb461415442"
         },
         {
             "name": "Cloud Island",
@@ -1869,7 +1868,8 @@
             "discord": "https://discord.gg/JkYzSQyVRN",
             "visitors": "welcome",
             "Zoom Visibility": 3,
-            "notes": "Spiritual successor to city-state of the same name from CivRealms"
+            "notes": "Spiritual successor to city-state of the same name from CivRealms",
+            "id": "465726f8-df7c-4b87-8a28-20f763802616"
         },
         {
             "name": "Demeton",
@@ -2289,7 +2289,7 @@
             "discord": "https://discord.gg/97uunvF",
             "wiki": "https://civwiki.org/wiki/Dagon",
             "symbol": "https://cdn.discordapp.com/attachments/460408009055535114/461141309324001281/DagonFlag.png",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 4,
             "notes": "Named by Bloom, but built by Dagon",
             "id": "4ade1a04-db89-4707-9a38-4b2e19e46be8"
         },
@@ -2321,7 +2321,7 @@
             "x": 5850,
             "z": 8450,
             "nation": "Adina (Caledonia)",
-            "contact": "Incentives, Cortwade, Kalipso_Angel",
+            "contact": "Imp#7400, Evann#4245, prawny#0856, KiWi#6785",
             "image": "https://i.imgur.com/UF4K4C2.png",
             "image_album": "https://imgur.com/a/EBVCi48",
             "discord": "https://discord.gg/QyM35B5",
@@ -2777,6 +2777,15 @@
             "id": "6bbb3d65-15fa-444c-a71a-6fc020ffab62"
         },
         {
+            "name": "Icenia End Portal",
+            "x": -825,
+            "z": -2125,
+            "nation": "Icenia",
+            "visitors": "ask first",
+            "Zoom Visibility": 2,
+            "id": "ab472fe6-6f4e-435a-9b98-51e53196dbcb"
+        },
+        {
             "name": "Illuminati",
             "x": -1400,
             "z": -5800,
@@ -3072,7 +3081,7 @@
             "x": 4500,
             "z": 6300,
             "nation": "Adina (Caledonia)",
-            "contact": "u/Arebs @Arebs#0001",
+            "contact": "Imp#7400, Evann#4245, prawny#0856, KiWi#6785",
             "web": "https://www.reddit.com/r/civclassics/comments/8z9x9k/announcing_the_matriarchy_of_kaga/",
             "Zoom Visibility": 4,
             "notes": "Formerly: Blackwell, Kaga",
@@ -3649,7 +3658,7 @@
             "x": 5052,
             "z": 4361,
             "nation": "Adina (Caledonia) - Formerly: Lyra",
-            "contact": "u/CallMeBur",
+            "contact": "Imp#7400, Evann#4245, prawny#0856, KiWi#6785",
             "image": "https://i.imgur.com/UY31tuI.png",
             "web": "https://www.reddit.com/r/civclassics/comments/8qqcf8/lyrian_land_claim/",
             "Zoom Visibility": 3,
@@ -4171,6 +4180,16 @@
             "id": "9a00f612-456f-4598-a523-e2a5b2b844bb"
         },
         {
+            "name": "New Midway",
+            "x": 5090,
+            "z": 625,
+            "nation": "Chungia (Capeland)",
+            "contact": "TheLostPickle#0868",
+            "visitors": "welcome",
+            "Zoom Visibility": 3,
+            "id": "8420f18c-4fba-4444-9d28-780ecbbe87d3"
+        },
+        {
             "name": "New Palusgrad",
             "x": 3300,
             "z": 4750,
@@ -4192,7 +4211,7 @@
             "wiki": "https://civwiki.org/wiki/Bloom#New_Siata",
             "symbol": "https://static.miraheze.org/civclassicwiki/0/05/BloomFlag.png",
             "visitors": "welcome",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 4,
             "id": "e8bb73e4-fb7d-4a33-8530-c7884f35482f"
         },
         {
@@ -4205,7 +4224,8 @@
             "wiki": "https://civclassic.civwiki.org/wiki/Cortesia_Del_Mar",
             "symbol": "https://static.miraheze.org/civwikiwiki/thumb/8/83/CDM_FlagP.png/180px-CDM_FlagP.png",
             "visitors": "welcome",
-            "Zoom Visibility": 3,
+            "Zoom Visibility": 1,
+            "nickname": "CDM",
             "id": "8f99c2b5-0d35-4b83-aad6-f5b0e5ecbf60"
         },
         {
@@ -4739,7 +4759,8 @@
             "contact": "Tiddy#8537",
             "wiki": "https://civwiki.org/wiki/Imperial_Federation_of_Eddie_Murphy",
             "visitors": "welcome",
-            "Zoom Visibility": 2,
+            "Zoom Visibility": 1,
+            "nickname": "Eddie Murphy",
             "id": "6acd07e2-36f8-496f-8612-f4a80dd74860"
         },
         {
@@ -5302,7 +5323,8 @@
             "contact": "Beestang#4211",
             "discord": "https://discord.gg/4BZ8Ebebme",
             "visitors": "welcome",
-            "Zoom Visibility": 3
+            "Zoom Visibility": 3,
+            "id": "161e3425-ba52-4d96-ac4a-66b3da9352e4"
         },
         {
             "name": "Shiedstad",
@@ -6183,8 +6205,7 @@
             "wiki": "https://civclassic.civwiki.org/wiki/Cortesia_Del_Mar",
             "symbol": "https://static.miraheze.org/civwikiwiki/thumb/8/83/CDM_FlagP.png/180px-CDM_FlagP.png",
             "visitors": "welcome",
-            "Zoom Visibility": 2,
-            "nickname": "Cortesia",
+            "Zoom Visibility": 3,
             "id": "287e2403-5890-4b15-8439-47b453280845"
         },
         {
@@ -6350,6 +6371,15 @@
             "id": "4af05c9d-d2e7-4b46-adc5-a785203ee189"
         },
         {
+            "name": "Wayrest End Portal",
+            "x": 2314,
+            "z": 449,
+            "nation": "Yoahtl",
+            "visitors": "welcome",
+            "Zoom Visibility": 2,
+            "id": "055e046a-8e20-4858-9a2e-a3ba119df275"
+        },
+        {
             "name": "Wayrest Vault",
             "x": 1088,
             "z": 550,
@@ -6498,7 +6528,7 @@
             "x": 2740,
             "z": 1075,
             "nation": "Adina",
-            "contact": "Incentives, Kalipso_Angel",
+            "contact": "Imp#7400, Evann#4245, prawny#0856, KiWi#6785",
             "image": "https://i.imgur.com/AYdGucZ.png",
             "image_album": "https://imgur.com/a/dPExNLP",
             "discord": "https://discord.gg/QyM35B5",
