@@ -1,7 +1,7 @@
 {
 	"info": { "version": "3.0.0-beta3", "last_update": 1625963892 },
 	"name": "Exclusion Zones",
-	"collectionId": "ccmap/ump/exclusion_zones",
+	"collectionId": "cmcmap/ump/exclusion_zones",
 	"presentations": [
 		{
 			"name": "Exclusion Zones",
