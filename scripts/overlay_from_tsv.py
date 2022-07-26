@@ -130,7 +130,7 @@ overlay = {
     "info": {
         "version": "3.0.0-beta3"
     },
-    "source": "https://ccmap.github.io/data/settlements.civmap.json",
+    "source": "https://cmcmap.github.io/data/settlements.civmap.json",
     "presentations": [
         {
             "name": "Settlements",
