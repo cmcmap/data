@@ -2,7 +2,7 @@ import json
 import sys
 
 #-----------
-#   Checks for common errors in ccmap polygon data and prints them all to console
+#   Checks for common errors in cmcmap polygon data and prints them all to console
 #   Exists with code 1 when any error was found
 #------------
 
